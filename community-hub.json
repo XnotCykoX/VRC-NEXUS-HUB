@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-07-05T08:28:03.091Z",
+  "items": [
+    {
+      "id": "theme-midnight-teal",
+      "type": "theme",
+      "name": "Midnight Teal",
+      "author": "VRC Nexus",
+      "description": "A cool, low-contrast dark theme with a teal accent.",
+      "tags": [
+        "dark",
+        "teal"
+      ],
+      "payload": {
+        "name": "Midnight Teal",
+        "style": "nexus",
+        "appBg": "#0a1414",
+        "panelBg": "#0f1c1c",
+        "cardBg": "#132424",
+        "sidebarBg": "#0a1414",
+        "inputBg": "#102020",
+        "buttonBg": "#0d7d7d",
+        "buttonHover": "#12a3a3",
+        "buttonText": "#ffffff",
+        "textPrimary": "#e3fafa",
+        "textSecondary": "#8fb8b8",
+        "accent": "#2dd4d4",
+        "border": "#1c3535",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "publishedAt": "2026-07-05T08:28:03.091Z",
+      "likedBy": []
+    },
+    {
+      "id": "preset-clean-minimal",
+      "type": "preset",
+      "name": "Clean & Minimal",
+      "author": "VRC Nexus",
+      "description": "Just the world name and time, no borders — a tidy one-liner chatbox.",
+      "tags": [
+        "minimal"
+      ],
+      "payload": {
+        "integrations": {
+          "current_world": true,
+          "current_time": true
+        },
+        "emojis": {},
+        "emojiOn": {},
+        "borderStyle": "none",
+        "borderCustomLeft": "",
+        "borderCustomRight": "",
+        "frameStyle": "none",
+        "frameCustomTop": "",
+        "frameCustomBottom": "",
+        "separator": "newline"
+      },
+      "publishedAt": "2026-07-05T08:28:03.091Z",
+      "likedBy": []
+    },
+    {
+      "id": "script-rotating-status",
+      "type": "script",
+      "name": "Rotating Status",
+      "author": "VRC Nexus",
+      "description": "Cycles a few chatbox messages every 15 seconds. A good starting template.",
+      "tags": [
+        "example",
+        "chatbox"
+      ],
+      "payload": {
+        "code": "import random\n\nasync def main():\n    messages = [\n        \"✨ Powered by VRC Nexus\",\n        \"🌐 Community Hub example script\",\n        \"👋 Say hi!\",\n    ]\n    while True:\n        chatbox(random.choice(messages))\n        await wait(15)\n\ncreate_task(main())"
+      },
+      "publishedAt": "2026-07-05T08:28:03.091Z",
+      "likedBy": []
+    }
+  ],
+  "publishLog": {}
+}
