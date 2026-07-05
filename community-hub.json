@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T16:29:14.860Z",
+  "updatedAt": "2026-07-05T22:32:38.576Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -434,6 +434,43 @@
       "publishedAt": "2026-07-05T16:29:14.860Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
       "likedBy": []
+    },
+    {
+      "id": "theme-8fc6c6ee-c600-4c69-8d2c-dcfe2052ebbd",
+      "type": "theme",
+      "name": "Lost Soulz VRC",
+      "author": "ღV I O L E Tღ",
+      "description": "Used to be known as Vibrant Violet",
+      "tags": [
+        "dark",
+        "lost",
+        "partner"
+      ],
+      "payload": {
+        "name": "OSC Purple",
+        "style": "purple",
+        "appBg": "#121212",
+        "panelBg": "#262527",
+        "cardBg": "#3a393c",
+        "sidebarBg": "#2d2c30",
+        "inputBg": "#303030",
+        "buttonBg": "#282525",
+        "buttonHover": "#1c1719",
+        "buttonText": "#ffffff",
+        "textPrimary": "#f4edff",
+        "textSecondary": "#c7b8ee",
+        "accent": "#27183a",
+        "border": "#39264b",
+        "appBackgroundImage": "radial-gradient(circle at 15% 5%, rgba(255,196,87,.25), transparent 25%), linear-gradient(135deg, #27172a, #733d36 50%, #1c263a)",
+        "panelBackgroundImage": "repeating-linear-gradient(0deg, rgba(255,255,255,.04) 0 1px, transparent 1px 5px)",
+        "cardBackgroundImage": "repeating-linear-gradient(135deg, rgba(125,80,255,.08) 0 6px, rgba(0,0,0,.22) 6px 14px), linear-gradient(135deg, #0b0812, #1a1026)",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": null,
+      "publishedAt": "2026-07-05T22:32:38.576Z",
+      "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -458,7 +495,8 @@
       1783265027008,
       1783265171700,
       1783265367924,
-      1783265488785
+      1783265488785,
+      1783290758576
     ]
   }
 }
