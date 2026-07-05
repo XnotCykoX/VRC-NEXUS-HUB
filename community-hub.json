@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T09:46:14.816Z",
+  "updatedAt": "2026-07-05T09:46:17.100Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -93,9 +93,7 @@
       },
       "publishedAt": "2026-07-05T08:52:23.890Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
-      "likedBy": [
-        "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
-      ]
+      "likedBy": []
     },
     {
       "id": "theme-11c7afa8-bbc2-4930-86f9-61cdc1cbca52",
