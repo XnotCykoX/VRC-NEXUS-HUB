@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T11:55:17.848Z",
+  "updatedAt": "2026-07-05T11:55:54.072Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -39,6 +39,49 @@
       "likedBy": [
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
       ]
+    },
+    {
+      "id": "theme-257de360-4cd4-4da1-8e3e-2e6941441c1c",
+      "type": "theme",
+      "name": "Galactic",
+      "author": "_cykoo_",
+      "description": "Galaxy background with purple ui",
+      "tags": [
+        "Galaxy",
+        "Purple"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-257de360-4cd4-4da1-8e3e-2e6941441c1c.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T11:55:54.072Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -50,7 +93,8 @@
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
       1783241543890,
       1783243242368,
-      1783249005339
+      1783249005339,
+      1783252554072
     ]
   }
 }
