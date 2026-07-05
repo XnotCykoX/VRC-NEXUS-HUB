@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T12:57:09.974Z",
+  "updatedAt": "2026-07-05T13:32:01.692Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -130,6 +130,50 @@
       "publishedAt": "2026-07-05T12:57:09.974Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
       "likedBy": []
+    },
+    {
+      "id": "theme-e968f3e1-5cf9-4c9c-9fb6-c6edc7e1f3c7",
+      "type": "theme",
+      "name": "sombody come get her",
+      "author": "NyxEchoes",
+      "description": "I kid you not, it's a rabbit dancing on a pole",
+      "tags": [
+        "cute",
+        "bunny",
+        "pole"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-e968f3e1-5cf9-4c9c-9fb6-c6edc7e1f3c7.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T13:32:01.692Z",
+      "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -145,7 +189,8 @@
       1783252554072
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
-      1783256229974
+      1783256229974,
+      1783258321692
     ]
   }
 }
