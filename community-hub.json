@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T09:46:17.100Z",
+  "updatedAt": "2026-07-05T10:56:45.339Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -136,6 +136,24 @@
       "publishedAt": "2026-07-05T09:20:42.368Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
+    },
+    {
+      "id": "script-1cbab42a-efeb-4b53-8634-7d3b62c3c00f",
+      "type": "script",
+      "name": "Height Changer GUI",
+      "author": "_cykoo_",
+      "description": "External Gui that controls Player Height",
+      "tags": [
+        "Player",
+        "Height"
+      ],
+      "payload": {
+        "code": "# Avatar height control — floating window. Toggle with Ctrl+Shift+H.\nbind_hotkey(\"Ctrl+Shift+H\")\n\nstate = {\"loop\": False}\n\next_clear()\next_label(\"Avatar height (metres)\")\nfield = ext_text(\"Height\", \"1.8\")\n\ndef apply():\n    try:\n        set_height(float(field.value)); print(\"Set height ->\", field.value)\n    except Exception as e:\n        print(\"Invalid height:\", e)\n\ndef set_loop(v):\n    state[\"loop\"] = bool(v)\n    print(\"Loop set-height:\", \"ON\" if state[\"loop\"] else \"OFF\")\n\next_button(\"Apply\", apply)\next_button(\"Reset 1.8m\", lambda: set_height(1.8))\next_toggle(\"Loop (keep re-applying)\", set_loop)\next_show()\n\nwhile True:\n    if state[\"loop\"]:\n        try: set_height(float(field.value))\n        except Exception: pass\n    await wait(0.08)"
+      },
+      "media": null,
+      "publishedAt": "2026-07-05T10:56:45.339Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -146,7 +164,8 @@
     ],
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
       1783241543890,
-      1783243242368
+      1783243242368,
+      1783249005339
     ]
   }
 }
