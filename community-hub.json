@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T08:59:38.871Z",
+  "updatedAt": "2026-07-05T09:20:42.368Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -94,6 +94,48 @@
       "publishedAt": "2026-07-05T08:52:23.890Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
+    },
+    {
+      "id": "theme-11c7afa8-bbc2-4930-86f9-61cdc1cbca52",
+      "type": "theme",
+      "name": "test",
+      "author": "_cykoo_",
+      "description": "test",
+      "tags": [
+        "test"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-11c7afa8-bbc2-4930-86f9-61cdc1cbca52.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T09:20:42.368Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -102,7 +144,8 @@
       1783241978871
     ],
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
-      1783241543890
+      1783241543890,
+      1783243242368
     ]
   }
 }
