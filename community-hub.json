@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T15:27:23.768Z",
+  "updatedAt": "2026-07-05T15:29:27.924Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -282,6 +282,50 @@
         "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
       ]
+    },
+    {
+      "id": "theme-cd1d65bc-02a1-44d8-8bf4-67fb542765f9",
+      "type": "theme",
+      "name": "funny meme",
+      "author": "ღV I O L E Tღ",
+      "description": "uh oh he's back....",
+      "tags": [
+        "meme",
+        "funny",
+        "hes back..."
+      ],
+      "payload": {
+        "name": "OSC Purple",
+        "style": "purple",
+        "appBg": "#130b24",
+        "panelBg": "#21143d",
+        "cardBg": "#2b1b4b",
+        "sidebarBg": "#1b1032",
+        "inputBg": "#251848",
+        "buttonBg": "#4e2e86",
+        "buttonHover": "#6740ad",
+        "buttonText": "#ffffff",
+        "textPrimary": "#f4edff",
+        "textSecondary": "#c7b8ee",
+        "accent": "#b77cff",
+        "border": "#4c3474",
+        "appBackgroundImage": "https://www.google.com/imgres?q=anime%20pussy&imgurl=https%3A%2F%2Fimagex1.sx.cdn.live%2Fimages%2Fpinporn%2F2021%2F02%2F24%2F24650695.jpg%3Fwidth%3D300&imgrefurl=https%3A%2F%2Fwww.sex.com%2Fen%2Fpics%3Fsearch%3Dass%2Banime%2Bpussy&docid=8vFn2dcsPw98CM&tbnid=H5TmW_x-KwUvtM&vet=12ahUKEwjuv9C667uVAxWCBdsEHb1NDz4QnPAOegUI4QEQAA..i&w=300&h=483&hcb=2&ved=2ahUKEwjuv9C667uVAxWCBdsEHb1NDz4QnPAOegUI4QEQAA",
+        "panelBackgroundImage": "radial-gradient(circle at 15% 5%, rgba(255,196,87,.25), transparent 25%), linear-gradient(135deg, #27172a, #733d36 50%, #1c263a)",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-cd1d65bc-02a1-44d8-8bf4-67fb542765f9.jpg",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "contain",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T15:29:27.924Z",
+      "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -303,7 +347,8 @@
     ],
     "ins_d6f67062-a69d-20db-f0b6-aa700c125187": [
       1783265027008,
-      1783265171700
+      1783265171700,
+      1783265367924
     ]
   }
 }
