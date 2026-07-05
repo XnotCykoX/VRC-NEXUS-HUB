@@ -1,23 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T11:54:50.828Z",
+  "updatedAt": "2026-07-05T11:55:06.153Z",
   "items": [
-    {
-      "id": "script-rotating-status",
-      "type": "script",
-      "name": "Rotating Status",
-      "author": "VRC Nexus",
-      "description": "Cycles a few chatbox messages every 15 seconds. A good starting template.",
-      "tags": [
-        "example",
-        "chatbox"
-      ],
-      "payload": {
-        "code": "import random\n\nasync def main():\n    messages = [\n        \"✨ Powered by VRC Nexus\",\n        \"🌐 Community Hub example script\",\n        \"👋 Say hi!\",\n    ]\n    while True:\n        chatbox(random.choice(messages))\n        await wait(15)\n\ncreate_task(main())"
-      },
-      "publishedAt": "2026-07-05T08:28:03.091Z",
-      "likedBy": []
-    },
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
       "type": "script",
