@@ -1,34 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T11:54:45.369Z",
+  "updatedAt": "2026-07-05T11:54:50.828Z",
   "items": [
-    {
-      "id": "preset-clean-minimal",
-      "type": "preset",
-      "name": "Clean & Minimal",
-      "author": "VRC Nexus",
-      "description": "Just the world name and time, no borders — a tidy one-liner chatbox.",
-      "tags": [
-        "minimal"
-      ],
-      "payload": {
-        "integrations": {
-          "current_world": true,
-          "current_time": true
-        },
-        "emojis": {},
-        "emojiOn": {},
-        "borderStyle": "none",
-        "borderCustomLeft": "",
-        "borderCustomRight": "",
-        "frameStyle": "none",
-        "frameCustomTop": "",
-        "frameCustomBottom": "",
-        "separator": "newline"
-      },
-      "publishedAt": "2026-07-05T08:28:03.091Z",
-      "likedBy": []
-    },
     {
       "id": "script-rotating-status",
       "type": "script",
