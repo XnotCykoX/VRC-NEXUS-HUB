@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T12:24:16.869Z",
+  "updatedAt": "2026-07-05T12:57:09.974Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -84,6 +84,52 @@
       "likedBy": [
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
       ]
+    },
+    {
+      "id": "theme-eb68c278-73c4-4b43-8b61-559cd882e101",
+      "type": "theme",
+      "name": "lick... -w-",
+      "author": "NyxEchoes",
+      "description": "a cat that licks on a purple background",
+      "tags": [
+        "dark",
+        "pixel",
+        "purplr",
+        "cat",
+        "lick"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-eb68c278-73c4-4b43-8b61-559cd882e101.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T12:57:09.974Z",
+      "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -97,6 +143,9 @@
       1783243242368,
       1783249005339,
       1783252554072
+    ],
+    "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
+      1783256229974
     ]
   }
 }
