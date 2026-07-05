@@ -94,30 +94,6 @@
       "publishedAt": "2026-07-05T08:52:23.890Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
-    },
-    {
-      "id": "theme-b8cbc575-703d-4568-8a19-0d4abeb84b63",
-      "type": "theme",
-      "name": "Media Test Theme",
-      "author": "Claude Test",
-      "description": "Verifying media upload end to end.",
-      "tags": [
-        "test"
-      ],
-      "payload": {
-        "accent": "#ff00ff"
-      },
-      "media": {
-        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-b8cbc575-703d-4568-8a19-0d4abeb84b63.png",
-        "kind": "image",
-        "opacity": 0.6,
-        "blur": 2,
-        "fit": "cover",
-        "glass": true
-      },
-      "publishedAt": "2026-07-05T08:59:38.871Z",
-      "installId": "ins_00000000-0000-0000-0000-000000000000",
-      "likedBy": []
     }
   ],
   "publishLog": {
