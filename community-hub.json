@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T08:36:42.309Z",
+  "updatedAt": "2026-07-05T08:36:55.532Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -34,9 +34,7 @@
         "textureOpacity": "0"
       },
       "publishedAt": "2026-07-05T08:28:03.091Z",
-      "likedBy": [
-        "ins_00000000-0000-0000-0000-000000000000"
-      ]
+      "likedBy": []
     },
     {
       "id": "preset-clean-minimal",
