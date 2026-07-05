@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T15:31:28.785Z",
+  "updatedAt": "2026-07-05T15:36:29.814Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -179,62 +179,6 @@
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
         "ins_d6f67062-a69d-20db-f0b6-aa700c125187"
       ]
-    },
-    {
-      "id": "preset-134b731a-b21b-41c5-b805-61774c4816cd",
-      "type": "preset",
-      "name": "18+ moderation",
-      "author": "NyxEchoes",
-      "description": "idk gng i just be  makin shit",
-      "tags": [
-        "mod",
-        "moderation",
-        "18+"
-      ],
-      "payload": {
-        "integrations": {
-          "personal_status": true,
-          "window_activity": false,
-          "manager_tab": false,
-          "current_time": false,
-          "media_status": true,
-          "lyricify_lyrics": true,
-          "component_and_network_stats": false,
-          "system_stats": false,
-          "current_world": true,
-          "instance_players": false,
-          "app_uptime": false,
-          "pc_battery": false,
-          "current_date": true
-        },
-        "emojis": {},
-        "emojiOn": {
-          "personal_status": false,
-          "window_activity": false,
-          "manager_tab": false,
-          "current_time": false,
-          "media_status": false,
-          "lyricify_lyrics": false,
-          "component_and_network_stats": false,
-          "system_stats": false,
-          "current_world": false,
-          "instance_players": false,
-          "app_uptime": false,
-          "pc_battery": false,
-          "current_date": false
-        },
-        "borderStyle": "sparkle",
-        "borderCustomLeft": "",
-        "borderCustomRight": "",
-        "frameStyle": "none",
-        "frameCustomTop": "",
-        "frameCustomBottom": "",
-        "separator": "newline"
-      },
-      "media": null,
-      "publishedAt": "2026-07-05T14:59:58.128Z",
-      "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
-      "likedBy": []
     },
     {
       "id": "theme-e17f6b8a-064b-4593-9f7a-2c88d5db5d4d",
