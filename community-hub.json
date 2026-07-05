@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T15:24:25.012Z",
+  "updatedAt": "2026-07-05T15:26:11.700Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -235,6 +235,50 @@
       "publishedAt": "2026-07-05T14:59:58.128Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
       "likedBy": []
+    },
+    {
+      "id": "theme-e17f6b8a-064b-4593-9f7a-2c88d5db5d4d",
+      "type": "theme",
+      "name": "Vibrant Violet",
+      "author": "ღV I O L E Tღ",
+      "description": "a partnered vrchat group.",
+      "tags": [
+        "purple",
+        "partner",
+        "awesome"
+      ],
+      "payload": {
+        "name": "OSC Purple",
+        "style": "purple",
+        "appBg": "#130b24",
+        "panelBg": "#21143d",
+        "cardBg": "#2b1b4b",
+        "sidebarBg": "#1b1032",
+        "inputBg": "#251848",
+        "buttonBg": "#4e2e86",
+        "buttonHover": "#6740ad",
+        "buttonText": "#ffffff",
+        "textPrimary": "#f4edff",
+        "textSecondary": "#c7b8ee",
+        "accent": "#b77cff",
+        "border": "#4c3474",
+        "appBackgroundImage": "https://www.google.com/imgres?q=anime%20pussy&imgurl=https%3A%2F%2Fimagex1.sx.cdn.live%2Fimages%2Fpinporn%2F2021%2F02%2F24%2F24650695.jpg%3Fwidth%3D300&imgrefurl=https%3A%2F%2Fwww.sex.com%2Fen%2Fpics%3Fsearch%3Dass%2Banime%2Bpussy&docid=8vFn2dcsPw98CM&tbnid=H5TmW_x-KwUvtM&vet=12ahUKEwjuv9C667uVAxWCBdsEHb1NDz4QnPAOegUI4QEQAA..i&w=300&h=483&hcb=2&ved=2ahUKEwjuv9C667uVAxWCBdsEHb1NDz4QnPAOegUI4QEQAA",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "0"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-e17f6b8a-064b-4593-9f7a-2c88d5db5d4d.png",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-05T15:26:11.700Z",
+      "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -255,7 +299,8 @@
       1783263598128
     ],
     "ins_d6f67062-a69d-20db-f0b6-aa700c125187": [
-      1783265027008
+      1783265027008,
+      1783265171700
     ]
   }
 }
