@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T08:36:55.532Z",
+  "updatedAt": "2026-07-05T08:52:23.890Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -78,11 +78,30 @@
       },
       "publishedAt": "2026-07-05T08:28:03.091Z",
       "likedBy": []
+    },
+    {
+      "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
+      "type": "script",
+      "name": "Universal Rainbow",
+      "author": "_cykoo_",
+      "description": "Universal Rainbow Script",
+      "tags": [
+        "Rainbow"
+      ],
+      "payload": {
+        "code": "async def rainbow_cycle():\n    while True:\n        for i in range(0, 200):\n            n = i if i <= 100 else 200 - i\n            set_hue(n / 100)\n            set_emission(n / 100)\n            await wait(0.08)\n\ncreate_task(rainbow_cycle())"
+      },
+      "publishedAt": "2026-07-05T08:52:23.890Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
     "ins_00000000-0000-0000-0000-000000000000": [
       1783240602309
+    ],
+    "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
+      1783241543890
     ]
   }
 }
