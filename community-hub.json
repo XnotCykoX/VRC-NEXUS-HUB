@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T22:32:38.576Z",
+  "updatedAt": "2026-07-05T22:33:51.634Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -269,50 +269,6 @@
         "glass": true
       },
       "publishedAt": "2026-07-05T15:29:27.924Z",
-      "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
-      "likedBy": []
-    },
-    {
-      "id": "theme-94a03dc7-7de0-4d22-9312-570ea839854f",
-      "type": "theme",
-      "name": "vibrant violet 2",
-      "author": "ღV I O L E Tღ",
-      "description": "partnered vrchat group",
-      "tags": [
-        "purple",
-        "parnter",
-        "great"
-      ],
-      "payload": {
-        "name": "OSC Purple",
-        "style": "purple",
-        "appBg": "#130b24",
-        "panelBg": "#21143d",
-        "cardBg": "#2b1b4b",
-        "sidebarBg": "#1b1032",
-        "inputBg": "#251848",
-        "buttonBg": "#4e2e86",
-        "buttonHover": "#6740ad",
-        "buttonText": "#ffffff",
-        "textPrimary": "#f4edff",
-        "textSecondary": "#c7b8ee",
-        "accent": "#b77cff",
-        "border": "#4c3474",
-        "appBackgroundImage": "radial-gradient(circle at 20% 15%, rgba(255,255,255,.12), transparent 24%), linear-gradient(135deg, rgba(255,255,255,.06), rgba(255,255,255,.015))",
-        "panelBackgroundImage": "radial-gradient(circle at 15% 5%, rgba(255,196,87,.25), transparent 25%), linear-gradient(135deg, #27172a, #733d36 50%, #1c263a)",
-        "cardBackgroundImage": "radial-gradient(circle at 15% 5%, rgba(255,196,87,.25), transparent 25%), linear-gradient(135deg, #27172a, #733d36 50%, #1c263a)",
-        "backgroundSize": "auto",
-        "textureOpacity": "1"
-      },
-      "media": {
-        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-94a03dc7-7de0-4d22-9312-570ea839854f.png",
-        "kind": "image",
-        "opacity": 1,
-        "blur": 0,
-        "fit": "cover",
-        "glass": true
-      },
-      "publishedAt": "2026-07-05T15:31:28.785Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
     },
