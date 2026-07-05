@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T09:26:48.268Z",
+  "updatedAt": "2026-07-05T09:31:42.731Z",
   "items": [
     {
       "id": "theme-midnight-teal",
@@ -135,21 +135,6 @@
       },
       "publishedAt": "2026-07-05T09:20:42.368Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
-      "likedBy": []
-    },
-    {
-      "id": "script-e367a145-d2e7-4a77-878c-f7291171f9ac",
-      "type": "script",
-      "name": "Delete Perm Test",
-      "author": "Claude Test",
-      "description": "Testing owner-gated delete.",
-      "tags": [],
-      "payload": {
-        "code": "pass"
-      },
-      "media": null,
-      "publishedAt": "2026-07-05T09:26:48.268Z",
-      "installId": "ins_00000000-0000-0000-0000-000000000000",
       "likedBy": []
     }
   ],
