@@ -78,22 +78,6 @@
       },
       "publishedAt": "2026-07-05T08:28:03.091Z",
       "likedBy": []
-    },
-    {
-      "id": "theme-498245f3-0cc8-452a-b857-e4cbcfc7a37e",
-      "type": "theme",
-      "name": "Verification Test Theme",
-      "author": "Claude Test",
-      "description": "Temporary item to verify the publish endpoint works end to end.",
-      "tags": [
-        "test"
-      ],
-      "payload": {
-        "accent": "#ff00ff"
-      },
-      "publishedAt": "2026-07-05T08:36:42.309Z",
-      "installId": "ins_00000000-0000-0000-0000-000000000000",
-      "likedBy": []
     }
   ],
   "publishLog": {
