@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-06T14:51:37.155Z",
+  "updatedAt": "2026-07-06T14:58:22.085Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -438,6 +438,46 @@
       "publishedAt": "2026-07-06T14:37:31.494Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
+    },
+    {
+      "id": "theme-954ca774-4b37-45eb-95af-859650f945d1",
+      "type": "theme",
+      "name": "galaxy revamped, only works on 1.2.24",
+      "author": "_cykoo_",
+      "description": "only works on 1.2.24",
+      "tags": [
+        "galaxy",
+        "mp4"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "rgba(0, 0, 0, 0.36)",
+        "panelBg": "#fff5f5",
+        "cardBg": "linear-gradient(135deg, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.00) 100%)",
+        "sidebarBg": "linear-gradient(135deg, #1b1820 0%, rgba(126, 124, 124, 0.00) 16%, rgba(179, 178, 178, 0.00) 44%, rgba(102, 102, 102, 0.00) 66%, rgba(64, 63, 63, 0.00) 90%, #000000 100%, #000000 100%, rgba(0, 0, 0, 0.00) 100%)",
+        "inputBg": "#110e0e",
+        "buttonBg": "#191e36",
+        "buttonHover": "#616071",
+        "buttonText": "#4a4545",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#ffffff",
+        "accent": "#292929",
+        "border": "#646468",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "1",
+        "fontFamily": "'Segoe UI', system-ui, sans-serif",
+        "rsbInstanceBg": "linear-gradient(135deg, rgba(84, 84, 84, 0.60) 0%, rgba(84, 84, 84, 0.60) 65%, rgba(255, 255, 255, 0.60) 76%)",
+        "rsbAccountBg": "linear-gradient(135deg, #303030 4%, #808080 46%, #f4f1f1 70%)"
+      },
+      "tabOverrides": null,
+      "media": null,
+      "publishedAt": "2026-07-06T14:58:22.085Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -450,7 +490,8 @@
       1783307358881,
       1783349385539,
       1783349424653,
-      1783349490252
+      1783349490252,
+      1783349902085
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
       1783256229974,
