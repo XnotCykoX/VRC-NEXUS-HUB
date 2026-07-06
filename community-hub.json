@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T22:33:51.634Z",
+  "updatedAt": "2026-07-06T03:09:18.881Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -427,6 +427,49 @@
       "publishedAt": "2026-07-05T22:32:38.576Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
+    },
+    {
+      "id": "theme-1db57b8b-d705-4a82-9dba-82fc3ed46ea0",
+      "type": "theme",
+      "name": "Interstella",
+      "author": "_cykoo_",
+      "description": "ngl - it looks pretty cool.",
+      "tags": [
+        "galaxy",
+        "dark"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#28282a",
+        "panelBg": "#070708",
+        "cardBg": "#0c0c0e",
+        "sidebarBg": "#1b1820",
+        "inputBg": "#110e0e",
+        "buttonBg": "#28282a",
+        "buttonHover": "#616071",
+        "buttonText": "#4a4545",
+        "textPrimary": "#555353",
+        "textSecondary": "#383838",
+        "accent": "#19192f",
+        "border": "#646468",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "1"
+      },
+      "media": {
+        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-1db57b8b-d705-4a82-9dba-82fc3ed46ea0.gif",
+        "kind": "image",
+        "opacity": 0.75,
+        "blur": 0,
+        "fit": "contain",
+        "glass": true
+      },
+      "publishedAt": "2026-07-06T03:09:18.881Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -439,7 +482,8 @@
       1783241543890,
       1783243242368,
       1783249005339,
-      1783252554072
+      1783252554072,
+      1783307358881
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
       1783256229974,
