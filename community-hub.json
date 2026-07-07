@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T07:33:43.258Z",
+  "updatedAt": "2026-07-07T09:50:56.813Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -438,6 +438,55 @@
       "publishedAt": "2026-07-06T14:37:31.494Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
+    },
+    {
+      "id": "theme-0685df59-d25f-4004-b62a-0c1407ec7726",
+      "type": "theme",
+      "name": "Galactic, mp4",
+      "author": "_cykoo_",
+      "description": "really pretty galaxy background",
+      "tags": [
+        "galaxy",
+        "mp4"
+      ],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "rgba(0, 0, 0, 0.37)",
+        "panelBg": "#fff5f5",
+        "cardBg": "linear-gradient(135deg, rgba(0, 0, 0, 0.79) 0%, rgba(0, 0, 0, 0.00) 100%)",
+        "sidebarBg": "linear-gradient(135deg, #1b1820 0%, rgba(126, 124, 124, 0.00) 16%, rgba(179, 178, 178, 0.00) 44%, rgba(102, 102, 102, 0.00) 66%, rgba(64, 63, 63, 0.00) 90%, #000000 100%, #000000 100%, rgba(0, 0, 0, 0.00) 100%)",
+        "inputBg": "#110e0e",
+        "buttonBg": "#191e36",
+        "buttonHover": "#616071",
+        "buttonText": "#4a4545",
+        "textPrimary": "#a805ff",
+        "textSecondary": "#ffffff",
+        "accent": "#292929",
+        "border": "#646468",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "",
+        "backgroundSize": "auto",
+        "textureOpacity": "1",
+        "fontFamily": "'Segoe UI', system-ui, sans-serif",
+        "rsbInstanceBg": "linear-gradient(135deg, rgba(84, 84, 84, 0.60) 0%, rgba(84, 84, 84, 0.60) 65%, rgba(255, 255, 255, 0.60) 76%)",
+        "rsbAccountBg": "linear-gradient(135deg, #303030 4%, #808080 46%, #f4f1f1 70%)"
+      },
+      "tabOverrides": null,
+      "minTier": 1,
+      "media": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
+        "key": "media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
+        "kind": "video",
+        "opacity": 0.8,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-07T09:50:56.813Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -451,7 +500,8 @@
       1783349490252,
       1783349902085,
       1783397985276,
-      1783409580222
+      1783409580222,
+      1783417856813
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
       1783256229974,
