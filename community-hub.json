@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T09:50:56.813Z",
+  "updatedAt": "2026-07-07T12:32:30.362Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -470,10 +470,10 @@
         "backgroundSize": "auto",
         "textureOpacity": "1",
         "fontFamily": "'Segoe UI', system-ui, sans-serif",
-        "rsbInstanceBg": "linear-gradient(135deg, rgba(84, 84, 84, 0.60) 0%, rgba(84, 84, 84, 0.60) 65%, rgba(255, 255, 255, 0.60) 76%)",
-        "rsbAccountBg": "linear-gradient(135deg, #303030 4%, #808080 46%, #f4f1f1 70%)"
+        "rsbInstanceBg": "linear-gradient(135deg, rgba(84, 84, 84, 0.00) 0%, rgba(84, 84, 84, 0.00) 65%, rgba(255, 255, 255, 0.60) 73%, rgba(255, 255, 255, 0.00) 76%)",
+        "rsbAccountBg": "linear-gradient(135deg, rgba(48, 48, 48, 0.00) 4%, rgba(128, 128, 128, 0.00) 46%, rgba(244, 241, 241, 0.00) 70%)"
       },
-      "tabOverrides": null,
+      "tabOverrides": {},
       "minTier": 1,
       "media": {
         "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
