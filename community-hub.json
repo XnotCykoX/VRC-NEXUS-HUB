@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T04:28:53.651Z",
+  "updatedAt": "2026-07-07T04:28:56.187Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -490,9 +490,9 @@
     {
       "id": "theme-43f8fe33-596a-4807-a6b0-89cdc7aac7ed",
       "type": "theme",
-      "name": "Edit Test",
+      "name": "Edit Test Renamed",
       "author": "Anonymous",
-      "description": "before edit",
+      "description": "after edit",
       "tags": [],
       "payload": {
         "accent": "#111111"
