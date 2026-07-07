@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T04:34:53.514Z",
+  "updatedAt": "2026-07-07T07:09:59.998Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -438,6 +438,23 @@
       "publishedAt": "2026-07-06T14:37:31.494Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
+    },
+    {
+      "id": "theme-d3cc65ad-c0ef-4db6-ab89-7dfc31acf4f7",
+      "type": "theme",
+      "name": "Tier1 Item",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "payload": {
+        "accent": "#111"
+      },
+      "tabOverrides": null,
+      "minTier": 1,
+      "media": null,
+      "publishedAt": "2026-07-07T07:09:59.998Z",
+      "installId": "ins_33333333-3333-3333-3333-333333333333",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -466,6 +483,9 @@
       1783265488785,
       1783290758576,
       1783348651494
+    ],
+    "ins_33333333-3333-3333-3333-333333333333": [
+      1783408199998
     ]
   }
 }
