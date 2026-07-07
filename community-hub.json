@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-06T14:58:27.794Z",
+  "updatedAt": "2026-07-07T04:03:31.111Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -438,13 +438,35 @@
       "publishedAt": "2026-07-06T14:37:31.494Z",
       "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
       "likedBy": []
+    },
+    {
+      "id": "theme-6976a269-307b-4551-b9d9-676790829816",
+      "type": "theme",
+      "name": "R2 Test Item",
+      "author": "Anonymous",
+      "description": "delete me",
+      "tags": [],
+      "payload": {
+        "accent": "#ffffff"
+      },
+      "tabOverrides": null,
+      "media": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/aaae3d5c-27f8-413b-985c-6e80defb025b.png",
+        "key": "media/aaae3d5c-27f8-413b-985c-6e80defb025b.png",
+        "kind": "image",
+        "opacity": 0.8,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-07T04:03:31.111Z",
+      "installId": "ins_00000000-0000-0000-0000-000000000000",
+      "likedBy": []
     }
   ],
   "publishLog": {
     "ins_00000000-0000-0000-0000-000000000000": [
-      1783240602309,
-      1783241978871,
-      1783243608268
+      1783397011111
     ],
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
       1783307358881,
