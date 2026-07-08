@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T14:34:40.976Z",
+  "updatedAt": "2026-07-08T14:38:34.212Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -535,6 +535,52 @@
       "publishedAt": "2026-07-08T14:34:40.976Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
       "likedBy": []
+    },
+    {
+      "id": "theme-e18457b4-f52a-4d8f-8f7e-626b237d66d6",
+      "type": "theme",
+      "name": "legendary lovers",
+      "author": "NyxEchoes",
+      "description": "purple neon heart tunnel",
+      "tags": [],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px)",
+        "backgroundSize": "auto",
+        "textureOpacity": "1",
+        "fontFamily": "'Segoe UI', system-ui, sans-serif",
+        "rsbInstanceBg": "rgba(16,14,34,.6)",
+        "rsbAccountBg": "#131125"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/54f0b2db-8f83-484b-9932-0c77e885909c.gif",
+        "key": "media/54f0b2db-8f83-484b-9932-0c77e885909c.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-08T14:38:34.212Z",
+      "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -553,7 +599,8 @@
       1783427633167
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
-      1783521280976
+      1783521280976,
+      1783521514212
     ],
     "ins_d6f67062-a69d-20db-f0b6-aa700c125187": [
       1783265027008,
