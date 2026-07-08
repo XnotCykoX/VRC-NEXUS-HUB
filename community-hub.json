@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T12:34:07.382Z",
+  "updatedAt": "2026-07-08T14:34:40.976Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -489,6 +489,52 @@
       "publishedAt": "2026-07-07T12:33:53.167Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
+    },
+    {
+      "id": "theme-966b0dfd-14e2-4617-8a79-507869be1765",
+      "type": "theme",
+      "name": "im walkin, im walkin, im walkinnn",
+      "author": "NyxEchoes",
+      "description": "it's literally a transparent cat walking",
+      "tags": [],
+      "payload": {
+        "name": "VRCNext",
+        "style": "vrcnext",
+        "appBg": "#090814",
+        "panelBg": "#0c0b1a",
+        "cardBg": "#131125",
+        "sidebarBg": "#090814",
+        "inputBg": "#0e0c1e",
+        "buttonBg": "#2b2870",
+        "buttonHover": "#3d39a8",
+        "buttonText": "#ffffff",
+        "textPrimary": "#ffffff",
+        "textSecondary": "#8ca5ff",
+        "accent": "#6f6cff",
+        "border": "#1f2357",
+        "appBackgroundImage": "",
+        "panelBackgroundImage": "",
+        "cardBackgroundImage": "linear-gradient(rgba(255,255,255,.035) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px)",
+        "backgroundSize": "auto",
+        "textureOpacity": "1",
+        "fontFamily": "'Segoe UI', system-ui, sans-serif",
+        "rsbInstanceBg": "rgba(16,14,34,.6)",
+        "rsbAccountBg": "#131125"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/2cc7c552-edc8-4125-a584-1c6d5ffe91b5.gif",
+        "key": "media/2cc7c552-edc8-4125-a584-1c6d5ffe91b5.gif",
+        "kind": "image",
+        "opacity": 1,
+        "blur": 0,
+        "fit": "cover",
+        "glass": true
+      },
+      "publishedAt": "2026-07-08T14:34:40.976Z",
+      "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -507,11 +553,7 @@
       1783427633167
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
-      1783256229974,
-      1783258321692,
-      1783263598128,
-      1783268954860,
-      1783336123221
+      1783521280976
     ],
     "ins_d6f67062-a69d-20db-f0b6-aa700c125187": [
       1783265027008,
