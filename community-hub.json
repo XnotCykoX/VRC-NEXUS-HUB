@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T15:16:30.359Z",
+  "updatedAt": "2026-07-09T17:56:02.121Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -368,54 +368,6 @@
       "likedBy": [
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
       ]
-    },
-    {
-      "id": "theme-711cb6ef-11d9-46df-9c72-0371d4693ff2",
-      "type": "theme",
-      "name": "𝔏𝔬𝔰𝔱 𝔖𝔬𝔲𝔩𝔷 𝔙ℜℭ",
-      "author": "ღV I O L E Tღ",
-      "description": "is a vrchat group",
-      "tags": [
-        "dark",
-        "vrchat",
-        "lost soulz"
-      ],
-      "payload": {
-        "name": "OSC Purple",
-        "style": "purple",
-        "appBg": "#121212",
-        "panelBg": "#262527",
-        "cardBg": "#3a393c",
-        "sidebarBg": "#2d2c30",
-        "inputBg": "#303030",
-        "buttonBg": "#282525",
-        "buttonHover": "#1c1719",
-        "buttonText": "#ffffff",
-        "textPrimary": "#f4edff",
-        "textSecondary": "#c7b8ee",
-        "accent": "#27183a",
-        "border": "#39264b",
-        "appBackgroundImage": "radial-gradient(circle at 15% 5%, rgba(255,196,87,.25), transparent 25%), linear-gradient(135deg, #27172a, #733d36 50%, #1c263a)",
-        "panelBackgroundImage": "repeating-linear-gradient(0deg, rgba(255,255,255,.04) 0 1px, transparent 1px 5px)",
-        "cardBackgroundImage": "repeating-linear-gradient(135deg, rgba(125,80,255,.08) 0 6px, rgba(0,0,0,.22) 6px 14px), linear-gradient(135deg, #0b0812, #1a1026)",
-        "backgroundSize": "auto",
-        "textureOpacity": "0",
-        "fontFamily": "'Segoe UI', system-ui, sans-serif",
-        "rsbInstanceBg": "rgba(16,14,34,.6)",
-        "rsbAccountBg": "#131125"
-      },
-      "tabOverrides": null,
-      "media": {
-        "url": "https://raw.githubusercontent.com/XnotCykoX/VRC-NEXUS-HUB/main/media/theme-711cb6ef-11d9-46df-9c72-0371d4693ff2.png",
-        "kind": "image",
-        "opacity": 1,
-        "blur": 0,
-        "fit": "cover",
-        "glass": true
-      },
-      "publishedAt": "2026-07-06T14:37:31.494Z",
-      "installId": "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
-      "likedBy": []
     },
     {
       "id": "theme-0685df59-d25f-4004-b62a-0c1407ec7726",
