@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T23:28:44.905Z",
+  "updatedAt": "2026-07-16T23:29:07.986Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -490,36 +490,6 @@
       },
       "publishedAt": "2026-07-08T14:38:34.212Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
-      "likedBy": []
-    },
-    {
-      "id": "sharepack-5c8790f6-3c5a-41b3-a910-e7a9c5eb16e7",
-      "type": "sharepack",
-      "name": "Test 329 Pack",
-      "author": "TestBot",
-      "description": "Simulated large pack",
-      "tags": [],
-      "platform": "pc",
-      "payload": {
-        "type": "vrc-nexus-share-pack",
-        "version": 1,
-        "sections": {
-          "Female Avis": [
-            "avtr_0",
-            "avtr_1",
-            "avtr_2"
-          ]
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/abf486e0-e8f6-462d-aa85-105d9ce0e855.json",
-        "key": "media/abf486e0-e8f6-462d-aa85-105d9ce0e855.json"
-      },
-      "publishedAt": "2026-07-16T23:28:44.905Z",
-      "installId": "ins_9e85886c-3a1c-48ce-bbde-3dab0703de91",
       "likedBy": []
     }
   ],
