@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T12:00:15.283Z",
+  "updatedAt": "2026-07-16T12:00:53.200Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -490,32 +490,6 @@
       },
       "publishedAt": "2026-07-08T14:38:34.212Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
-      "likedBy": []
-    },
-    {
-      "id": "sharepack-5a33fe58-910e-4aac-993d-3d030b2325fa",
-      "type": "sharepack",
-      "name": "Test Goth Pack",
-      "author": "TestBot",
-      "description": "A test pack",
-      "tags": [],
-      "platform": "pc",
-      "payload": {
-        "type": "vrc-nexus-share-pack",
-        "version": 1,
-        "sections": {
-          "Goth": [
-            "avtr_11111111-1111-1111-1111-111111111111",
-            "avtr_22222222-2222-2222-2222-222222222222"
-          ]
-        },
-        "avatars": []
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "publishedAt": "2026-07-16T12:00:15.283Z",
-      "installId": "ins_ca50c8e3-fda8-4891-a272-9bc46085f070",
       "likedBy": []
     }
   ],
