@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T04:01:26.488Z",
+  "updatedAt": "2026-07-17T04:01:42.912Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -862,8 +862,9 @@
       "platform": "pc",
       "payload": {
         "sections": {
-          "A": [
-            "avtr_1"
+          "B": [
+            "avtr_2",
+            "avtr_3"
           ]
         }
       },
@@ -871,8 +872,8 @@
       "minTier": 0,
       "media": null,
       "data": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/b86804ae-e2b3-409d-8880-6b79aadd851d.json",
-        "key": "media/b86804ae-e2b3-409d-8880-6b79aadd851d.json"
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/8e2f1af5-0846-41fe-a516-49ef7c209246.json",
+        "key": "media/8e2f1af5-0846-41fe-a516-49ef7c209246.json"
       },
       "publishedAt": "2026-07-17T04:01:26.488Z",
       "installId": "ins_015c4b41-3a8b-45ea-9497-93a8795fa361",
