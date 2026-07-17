@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T04:01:55.600Z",
+  "updatedAt": "2026-07-17T05:07:57.380Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -490,7 +490,9 @@
       },
       "publishedAt": "2026-07-08T14:38:34.212Z",
       "installId": "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2",
-      "likedBy": []
+      "likedBy": [
+        "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
+      ]
     },
     {
       "id": "sharepack-3846bfb0-4ec5-44d7-8c01-77b2423965d5",
