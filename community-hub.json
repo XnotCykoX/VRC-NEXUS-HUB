@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T05:07:57.380Z",
+  "updatedAt": "2026-07-17T05:11:13.640Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -853,6 +853,98 @@
       "publishedAt": "2026-07-16T23:34:42.913Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
+    },
+    {
+      "id": "sharepack-ee6c1afb-80b6-4849-8a1d-d51e347383d8",
+      "type": "sharepack",
+      "name": "Animation Avatar Pack",
+      "author": "_cykoo_",
+      "description": "World Animation pc avatars",
+      "tags": [
+        "Animation",
+        "PC ONLY"
+      ],
+      "platform": "pc",
+      "payload": {
+        "type": "vrc-nexus-share-pack",
+        "version": 1,
+        "exported_at": "2026-07-17T05:11:10.610Z",
+        "sections": {
+          "Animations": [
+            "avtr_0055806d-6770-44e2-bab0-bad6da2d40bd",
+            "avtr_074a355b-5983-4640-a404-9e4fbff78070",
+            "avtr_07a5867a-6edf-41cd-ba84-041c46a3c85d",
+            "avtr_0c9d36d0-38fc-4913-855a-5dbaf9ab9202",
+            "avtr_10527447-adeb-44fc-a303-2a0871bdb656",
+            "avtr_1075f610-3b43-4068-898d-c950147902ed",
+            "avtr_17e65221-b34c-47e7-a036-fec4e1dbfa4a",
+            "avtr_18e4d38a-75d7-4a0d-97a3-06258fa226a7",
+            "avtr_19881fa8-7613-40bf-85da-6b353183a167",
+            "avtr_1bb25ae1-2b8f-4a71-9a17-59a089f2579a",
+            "avtr_1fb38f48-fa42-40b2-805c-e50c07009bea",
+            "avtr_273de289-7d97-4c2e-a459-bcffc2ebdb79",
+            "avtr_2db2c0ba-ceb1-42b9-a182-920af9a8c19b",
+            "avtr_2f67c7c4-79cd-4461-a48d-b1f5bf110d32",
+            "avtr_34591945-f33e-42ac-b615-2f08be173e60",
+            "avtr_3652630c-4433-44a7-b650-3b7ba5268ba2",
+            "avtr_3727fa2d-0164-4d51-be8f-67f222166f93",
+            "avtr_42da53ad-6c5c-4675-95bd-61d0b60904c1",
+            "avtr_44a17b39-fe82-4316-8f68-5a2c6b57b543",
+            "avtr_46738023-b890-4fc2-8128-755ea463d364",
+            "avtr_478a0999-2112-4402-b9a4-69e870b0e336",
+            "avtr_4c305c43-dd5a-43f3-a531-03f1a04cb68f",
+            "avtr_4ffdd623-4621-41bd-bc85-9e552fd44adb",
+            "avtr_59e1d24c-2ac4-4d0b-bb90-4713e44914a1",
+            "avtr_6030364b-9d87-4c69-bb14-21b280eda487",
+            "avtr_6c5cbc34-16fd-4bc8-9216-5111910f648a",
+            "avtr_6fb87780-a66b-43c3-b69c-8df278b21fb0",
+            "avtr_71539b34-8451-4608-94a7-c3b19a9a3c11",
+            "avtr_71889adc-6564-4e98-815f-d00f46c77306",
+            "avtr_7337ec3e-1246-40b0-8e2c-87cbe28f9e80",
+            "avtr_75eabaa9-68ed-4d91-8c8e-48aa83a3cbc0",
+            "avtr_7c8c50b3-bf64-4d47-8eba-122fc0c0fa59",
+            "avtr_7db09f7b-a126-459a-84c3-f5497dd838ae",
+            "avtr_81808f78-3fc8-4d45-808b-29b8ef779202",
+            "avtr_84e3ab12-e91b-4b27-9d37-e6307cc5b50a",
+            "avtr_92dfe0ba-207b-4b02-b43a-7a55496c1160",
+            "avtr_942c15f9-cad2-43d7-a20d-e422cdb1ced3",
+            "avtr_9441f687-b362-43e4-b739-8239be36df3d",
+            "avtr_96a0a4ea-666b-4592-be8f-036eaefcb494",
+            "avtr_9d6f6086-f5d0-4f7c-9ed7-6a8bca34b608",
+            "avtr_9e1e1689-6b8e-4f65-bebb-91455e5a23c0",
+            "avtr_a118e1c8-4674-46b1-aecb-797a03f88e94",
+            "avtr_a2dd806d-414d-49d3-afa8-8b9f33ce0cbe",
+            "avtr_a50c583d-a14e-4e62-8af1-564aec07f725",
+            "avtr_aa5f1731-4157-4030-ba60-f0cc593cd87a",
+            "avtr_b58c4a57-8f41-4156-b771-6009a6943bb5",
+            "avtr_b70e78a1-c03c-4406-8fe1-c809c2bac7a5",
+            "avtr_b76501e7-3be8-48f4-bb89-f88bb340a860",
+            "avtr_b7a66696-6f11-45a6-b06b-36e45c4a1a08",
+            "avtr_bc4d0a7c-613e-4849-aeb7-cb6ae4d6f289",
+            "avtr_bd768de2-db7b-481c-a9a3-849ce3067609",
+            "avtr_c737d162-f4b9-46d4-9490-c6ffacc5ebc9",
+            "avtr_c74993a1-e2bf-4500-b0f8-1984bbc82e04",
+            "avtr_c8038110-3cf8-46d7-b085-96adb2a90509",
+            "avtr_c851c6c4-68e0-4a0e-ad6f-95acea34bbc8",
+            "avtr_d9ff52f3-506c-4370-aec6-b90fb9117d8e",
+            "avtr_e2422077-7269-4364-a9c6-9ed88314d997",
+            "avtr_f807df10-d44b-4592-8976-4017881e0632",
+            "avtr_f832fc27-290c-4fa9-8f68-212d004b09b6",
+            "avtr_c9b9cc17-5e45-4f4d-8a4c-8a08052545ce",
+            "avtr_b3efbbed-d8e4-4a2d-81f6-c66857d7d870"
+          ]
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 1,
+      "media": null,
+      "data": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/5c542486-f526-4b59-91d7-fed57caddb03.json",
+        "key": "media/5c542486-f526-4b59-91d7-fed57caddb03.json"
+      },
+      "publishedAt": "2026-07-17T05:11:13.640Z",
+      "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -861,7 +953,8 @@
       1783398533651
     ],
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
-      1784244882913
+      1784244882913,
+      1784265073640
     ],
     "ins_5d7ae3ec-3af5-3442-4ee6-9ea97e9d6ca2": [
       1783521280976,
