@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T23:34:42.913Z",
+  "updatedAt": "2026-07-17T04:01:26.488Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -851,6 +851,32 @@
       "publishedAt": "2026-07-16T23:34:42.913Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": []
+    },
+    {
+      "id": "sharepack-e0711a94-c4c6-4de0-a5e6-db89cdaac302",
+      "type": "sharepack",
+      "name": "Edit Test Pack",
+      "author": "TestBot",
+      "description": "v1",
+      "tags": [],
+      "platform": "pc",
+      "payload": {
+        "sections": {
+          "A": [
+            "avtr_1"
+          ]
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/b86804ae-e2b3-409d-8880-6b79aadd851d.json",
+        "key": "media/b86804ae-e2b3-409d-8880-6b79aadd851d.json"
+      },
+      "publishedAt": "2026-07-17T04:01:26.488Z",
+      "installId": "ins_015c4b41-3a8b-45ea-9497-93a8795fa361",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -881,6 +907,9 @@
     ],
     "ins_9e85886c-3a1c-48ce-bbde-3dab0703de91": [
       1784244524905
+    ],
+    "ins_015c4b41-3a8b-45ea-9497-93a8795fa361": [
+      1784260886488
     ]
   }
 }
