@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-20T13:48:45.006Z",
+  "updatedAt": "2026-07-20T14:03:25.396Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -944,128 +944,6 @@
       },
       "publishedAt": "2026-07-17T05:11:13.640Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
-      "likedBy": []
-    },
-    {
-      "id": "preset-1135df31-e773-47de-962e-eca0ca34ad63",
-      "type": "preset",
-      "name": "The Cookie Colony Borders",
-      "author": "Anonymous",
-      "description": "if your a part of the Cookie Colony then these are for you!!, If your not, then feel free to customize the words to your liking! ^^",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "custom",
-        "border": "none",
-        "customBorder": {
-          "left": "",
-          "right": ""
-        },
-        "customFrame": {
-          "top": "+ - ❖ - - ❖ Cookie ❖ - - ❖ - +",
-          "bottom": "+ - ❖ - - ❖ Colony ❖ - - ❖ - +"
-        },
-        "personal": {
-          "on": true,
-          "emoji": "💬",
-          "statuses": "just here\nOwner of The Cookie Colony 🍪\nPlease respect staff\n🤍 Mochi x Mocha 🤍\nDownload VRC-Nexus :3\nIts free to download ;3\nit's also available on quest!!",
-          "cycle": true,
-          "intervalSec": 10,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🎵",
-          "showProgress": true
-        },
-        "lyrics": {
-          "on": true,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": ""
-        },
-        "time": {
-          "on": false,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️"
-        },
-        "battery": {
-          "on": false,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": false,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": false,
-          "lyrics": true,
-          "weather": false,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-07-20T13:48:45.006Z",
-      "installId": "ins_8c4a9b46-f235-4d02-b5d2-bac66fa9c208",
       "likedBy": []
     }
   ],
