@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T05:21:29.720Z",
+  "updatedAt": "2026-07-28T05:23:02.462Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -1070,6 +1070,130 @@
         "ins_7d88a68c-9324-421f-a95d-7a10c24d72d6",
         "ins_3fd4dca2-9e0c-485a-86ea-bd56dc9f7983"
       ]
+    },
+    {
+      "id": "preset-45721a1c-7137-4a33-915c-6723057419bd",
+      "type": "preset",
+      "name": "Ruin",
+      "author": "Anonymous",
+      "description": "Autism",
+      "tags": [
+        "#ilovemybabygirls"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": true,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-28T05:23:02.462Z",
+      "installId": "ins_3fd4dca2-9e0c-485a-86ea-bd56dc9f7983",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -1110,6 +1234,9 @@
     ],
     "ins_07964f79-688d-4266-8862-bf327cddad71": [
       1785212574979
+    ],
+    "ins_3fd4dca2-9e0c-485a-86ea-bd56dc9f7983": [
+      1785216182462
     ]
   }
 }
