@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T07:37:28.304Z",
+  "updatedAt": "2026-07-28T08:52:33.422Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -1197,6 +1197,128 @@
       "likedBy": [
         "ins_9f683615-5df9-49b5-8e06-92f12f6ed314"
       ]
+    },
+    {
+      "id": "preset-b7a803f2-308a-4fbc-b4fd-feac05af9b18",
+      "type": "preset",
+      "name": "Rosie",
+      "author": "Anonymous",
+      "description": "Gay",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "waves",
+        "border": "hearts",
+        "customBorder": {
+          "left": "✡",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "☆Leon Is My Husband My Everything My Family Is My Happiness☆",
+          "cycle": false,
+          "intervalSec": 9,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": "💤"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "Song",
+          "showProgress": false
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "TX🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": true,
+          "emoji": "TD📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "TX🕔"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "VR🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-28T08:52:33.422Z",
+      "installId": "ins_9c0dc116-94fa-4d7f-8286-ed39838889a5",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -1240,6 +1362,9 @@
     ],
     "ins_3fd4dca2-9e0c-485a-86ea-bd56dc9f7983": [
       1785216182462
+    ],
+    "ins_9c0dc116-94fa-4d7f-8286-ed39838889a5": [
+      1785228753422
     ]
   }
 }
