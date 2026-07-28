@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T22:28:30.771Z",
+  "updatedAt": "2026-07-28T23:31:57.944Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5345,6 +5345,155 @@
       "publishedAt": "2026-07-28T10:52:23.404Z",
       "installId": "ins_0336caa1-1439-4cd0-b9b5-cc0317524a8b",
       "likedBy": []
+    },
+    {
+      "id": "script-c1fe992a-2a42-485c-86f0-c78b73c2b464",
+      "type": "script",
+      "name": "mimi sentry",
+      "author": "Anonymous",
+      "description": "For x4",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 26,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 6,
+                "type": "set",
+                "param": "HairColors",
+                "kind": "num",
+                "value": "16"
+              },
+              {
+                "id": 7,
+                "type": "set",
+                "param": "ScarfColor",
+                "kind": "num",
+                "value": "1"
+              },
+              {
+                "id": 8,
+                "type": "set",
+                "param": "SweaterColor",
+                "kind": "num",
+                "value": "1"
+              },
+              {
+                "id": 9,
+                "type": "set",
+                "param": "HeadphonesColor",
+                "kind": "num",
+                "value": "1"
+              },
+              {
+                "id": 18,
+                "type": "set",
+                "param": "BodyColors",
+                "kind": "num",
+                "value": "37"
+              },
+              {
+                "id": 21,
+                "type": "set",
+                "param": "EyeTex",
+                "kind": "num",
+                "value": "11"
+              },
+              {
+                "id": 24,
+                "type": "set",
+                "param": "HatsColor",
+                "kind": "num",
+                "value": "2"
+              },
+              {
+                "id": 28,
+                "type": "set",
+                "param": "FaceTex",
+                "kind": "num",
+                "value": "8"
+              },
+              {
+                "id": 10,
+                "type": "wait",
+                "ms": "500"
+              },
+              {
+                "id": 11,
+                "type": "set",
+                "param": "HairColors",
+                "kind": "num",
+                "value": "0"
+              },
+              {
+                "id": 13,
+                "type": "set",
+                "param": "SweaterColor",
+                "kind": "num",
+                "value": "0"
+              },
+              {
+                "id": 14,
+                "type": "set",
+                "param": "ScarfColor",
+                "kind": "num",
+                "value": "0"
+              },
+              {
+                "id": 15,
+                "type": "set",
+                "param": "HeadphonesColor",
+                "kind": "num",
+                "value": "0"
+              },
+              {
+                "id": 17,
+                "type": "set",
+                "param": "BodyColors",
+                "kind": "num",
+                "value": "0"
+              },
+              {
+                "id": 22,
+                "type": "set",
+                "param": "EyeTex",
+                "kind": "num",
+                "value": "10"
+              },
+              {
+                "id": 23,
+                "type": "set",
+                "param": "HatsColor",
+                "kind": "num",
+                "value": "1"
+              },
+              {
+                "id": 27,
+                "type": "set",
+                "param": "FaceTex",
+                "kind": "num",
+                "value": "7"
+              },
+              {
+                "id": 16,
+                "type": "wait",
+                "ms": "500"
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-28T23:31:57.944Z",
+      "installId": "ins_a63d92ef-d33e-464d-a971-6214e6eb24ec",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -5397,6 +5546,9 @@
     ],
     "ins_9d1c6677-6ac1-4a67-af5f-d838168ff2e6": [
       1785241068925
+    ],
+    "ins_a63d92ef-d33e-464d-a971-6214e6eb24ec": [
+      1785281517944
     ]
   }
 }
