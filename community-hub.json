@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T03:26:39.853Z",
+  "updatedAt": "2026-07-29T03:28:48.921Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5498,6 +5498,136 @@
       "publishedAt": "2026-07-28T23:31:57.944Z",
       "installId": "ins_a63d92ef-d33e-464d-a971-6214e6eb24ec",
       "likedBy": []
+    },
+    {
+      "id": "preset-703659e1-935a-455a-95e0-a1aa4c4a14e3",
+      "type": "preset",
+      "name": "ash",
+      "author": "Anonymous",
+      "description": "taken by ash",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "༺ ♱「 Ephesians 4:32 」♱ ༻\n💬·:*¨「 Check Bio ? 」¨*:· \n💭·:*¨「 Check Bio ?...?」¨*:· \n🗯️･｡･[ 💀 Cuddle Me ?👀 ]･｡･ \n🗨️༺「 Quest User 👋」༻  \n💬「Freak in the Sheet's」🤪 ｡･\n💭༺「 G4Z Ak 」༻  \n🗯️༺ ♱「 Disc : pitycats 」♱ ༻ \n🗨️༺ ♱「 Spot me 20$ 」♱ ༻ \n💬༺「 ⚠️ 18+ - DNI 🚫 」༻ \n💭༺ ♱「 His Freak 」♱ ༻\n🗯️༺ ♱「 PhantomSenser 」♱ ༻\n🗨️༺ ♱「 😝 No Socks On 🤪 」♱ ༻\n💬༺ ♱「 420 Friendly  」♱ ༻\n💭༺ ♱「 Doxbin.com 」♱ ༻\n🗯️༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n 🗨️༺ ♱「 If you can make them laugh and giggle, u can make the ahh clap and jiggle 」♱ ༻\n 💬༺ ♱「 📸 Recording Sometimes 💫 」♱ ༻",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": true,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T03:28:48.921Z",
+      "installId": "ins_ae12ddec-fba1-486a-a2c2-726f9731acd5",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -5553,6 +5683,9 @@
     ],
     "ins_a63d92ef-d33e-464d-a971-6214e6eb24ec": [
       1785281517944
+    ],
+    "ins_ae12ddec-fba1-486a-a2c2-726f9731acd5": [
+      1785295728921
     ]
   }
 }
