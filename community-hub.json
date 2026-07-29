@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T10:44:19.555Z",
+  "updatedAt": "2026-07-29T11:16:55.930Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -6204,6 +6204,147 @@
       "publishedAt": "2026-07-29T09:42:21.336Z",
       "installId": "ins_1f103af0-5c29-4bf8-b848-e055da574e5e",
       "likedBy": []
+    },
+    {
+      "id": "preset-48bedd33-ad49-4961-9ca1-037af3235889",
+      "type": "preset",
+      "name": "The Cookie Colony Borders",
+      "author": "Cyber Cookie",
+      "description": "borders for the group the Cookie Coloy, if your in the group then feel free to use it!, but if your not then feel free to change the border's words ^^",
+      "tags": [],
+      "platform": "pc",
+      "payload": {
+        "integrations": {
+          "personal_status": false,
+          "window_activity": false,
+          "manager_tab": false,
+          "current_time": false,
+          "media_status": false,
+          "lyricify_lyrics": false,
+          "component_and_network_stats": false,
+          "system_stats": false,
+          "current_world": false,
+          "instance_players": false,
+          "app_uptime": false,
+          "pc_battery": false,
+          "current_date": false
+        },
+        "emojis": {
+          "media_status": "🎵",
+          "lyricify_lyrics": "🎤"
+        },
+        "emojiOn": {
+          "personal_status": false,
+          "window_activity": false,
+          "manager_tab": false,
+          "current_time": false,
+          "media_status": false,
+          "lyricify_lyrics": true,
+          "component_and_network_stats": false,
+          "system_stats": false,
+          "current_world": false,
+          "instance_players": false,
+          "app_uptime": false,
+          "pc_battery": false,
+          "current_date": false
+        },
+        "order": [
+          "personal_status",
+          "window_activity",
+          "manager_tab",
+          "current_time",
+          "lyricify_lyrics",
+          "media_status",
+          "component_and_network_stats",
+          "system_stats",
+          "current_world",
+          "instance_players",
+          "app_uptime",
+          "pc_battery",
+          "current_date"
+        ],
+        "borderStyle": "none",
+        "borderCustomLeft": "",
+        "borderCustomRight": "",
+        "frameStyle": "custom",
+        "frameCustomTop": "+ - ❖ - - ❖ Cookie ❖ - - ❖ - +",
+        "frameCustomBottom": "+ - ❖ - - ❖ Colony ❖ - - ❖ - +",
+        "separator": "newline",
+        "options": {
+          "eggMode": true,
+          "topmost": true,
+          "notifySound": false,
+          "lyricsOnlyWhenPlaying": true,
+          "lyricSyncMode": true,
+          "autoMediaSwitch": true,
+          "newSessionDetect": true,
+          "showPausedMedia": true,
+          "showMediaSource": false,
+          "mediaSongProgress": true,
+          "mediaProgressBar": true,
+          "time24h": false,
+          "timeSeconds": false,
+          "timeTz": true,
+          "timeHidePrefix": true
+        },
+        "cycles": [
+          {
+            "name": "Main cycle",
+            "interval": 3,
+            "statuses": [
+              "turn on my avatar ya goof :^",
+              "i guess bro. :^",
+              "i know where you live >:3",
+              "...",
+              "just kidding! ^^",
+              "just sitting around",
+              "Just your average NPC :P",
+              "i have adhd :^",
+              "🤍Mocha X Mochi🤍"
+            ]
+          },
+          {
+            "name": "Moderation",
+            "interval": 3,
+            "statuses": [
+              "5. Keep the vibes positive.",
+              "4.  18+ only.",
+              "3.  Consent always matters.",
+              "2.  No hate or harassment.",
+              "1. Respect everyone."
+            ]
+          },
+          {
+            "name": "puppy girl",
+            "interval": 3,
+            "statuses": [
+              "Please give head pats.",
+              "Tail wagging...",
+              "Looking for my pack",
+              "Belly rubs appreciated",
+              "Friendly little puppy"
+            ]
+          },
+          {
+            "name": "get to know me",
+            "interval": 3,
+            "statuses": [
+              "i love making things!",
+              "i build and make custom servers and art!",
+              "i love to make new friends! come chat",
+              "im 22 so under 18 DNI",
+              "420 friendly come smoke!"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T11:16:55.930Z",
+      "installId": "ins_58b665a7-2585-6c29-2ece-c7d87f11d658",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -6272,6 +6413,9 @@
     ],
     "ins_1f103af0-5c29-4bf8-b848-e055da574e5e": [
       1785318141336
+    ],
+    "ins_58b665a7-2585-6c29-2ece-c7d87f11d658": [
+      1785323815930
     ]
   }
 }
