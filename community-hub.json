@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T20:26:43.192Z",
+  "updatedAt": "2026-07-29T20:31:51.885Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7326,6 +7326,139 @@
       "publishedAt": "2026-07-29T20:26:30.463Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
       "likedBy": []
+    },
+    {
+      "id": "preset-23444c02-9b92-49be-a1d5-468ff299c895",
+      "type": "preset",
+      "name": "my dumb self",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "date",
+          "lyrics",
+          "time",
+          "media",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "🐺",
+          "right": "🐺"
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "date": false,
+          "time": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "🛰️",
+          "statuses": "I'm cuddle friendly\nor even more\nowner of woven den\nrs:single\nI'm 20 minors DNI\nyour special\nwell come talk to me\ni don't bite..\ni do nip tho",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Atlanta",
+          "fahrenheit": true,
+          "lat": 33.749,
+          "lon": -84.38798,
+          "place": "Atlanta, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T20:31:51.885Z",
+      "installId": "ins_0f39eb6e-5fcf-4fc7-aa84-91aa018e81d6",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -7417,6 +7550,9 @@
     ],
     "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd": [
       1785356085180
+    ],
+    "ins_0f39eb6e-5fcf-4fc7-aa84-91aa018e81d6": [
+      1785357111885
     ]
   }
 }
