@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T07:42:25.918Z",
+  "updatedAt": "2026-07-29T08:34:54.285Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5767,6 +5767,136 @@
       "publishedAt": "2026-07-29T07:41:07.293Z",
       "installId": "ins_07964f79-688d-4266-8862-bf327cddad71",
       "likedBy": []
+    },
+    {
+      "id": "preset-f881cf91-7911-41fb-b761-883a68d4fb08",
+      "type": "preset",
+      "name": "IDk",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery",
+          "media"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "୨ৎ",
+          "right": "୨ৎ"
+        },
+        "customFrame": {
+          "top": "────୨ৎ────",
+          "bottom": "────୨ৎ────"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "🐾",
+          "statuses": "Head for panda express \npuppy girl\n♡૮₍ฅ ᵔ ꈊ ᵔ ฅ₎ა (woof!)\nɪғ ʏᴏᴜ’ʀᴇ ʜᴇʀᴇ ᴛᴏ ʜᴀᴛᴇ… ʏᴏᴜ’ʀᴇ ᴍʏ ғᴀɴ.\n1v1 on license?\nDiscord:pinkposions\nI'm gonna nut\n",
+          "cycle": true,
+          "intervalSec": 1,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Camden",
+          "fahrenheit": false,
+          "lat": 39.92595,
+          "lon": -75.11962,
+          "place": "Camden, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": false,
+          "date": false,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T08:34:54.285Z",
+      "installId": "ins_1ffff0df-4aba-4e30-907a-294b03e7a8c0",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -5829,6 +5959,9 @@
     ],
     "ins_6c72493f-5819-49b7-a81b-9f5879c6d3a8": [
       1785310562437
+    ],
+    "ins_1ffff0df-4aba-4e30-907a-294b03e7a8c0": [
+      1785314094285
     ]
   }
 }
