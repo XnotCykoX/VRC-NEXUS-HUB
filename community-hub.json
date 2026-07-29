@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T16:27:11.320Z",
+  "updatedAt": "2026-07-29T16:35:49.867Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7008,6 +7008,145 @@
       "publishedAt": "2026-07-29T15:29:09.420Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
       "likedBy": []
+    },
+    {
+      "id": "preset-d1edf708-1103-452c-99ef-1a9f2f285e40",
+      "type": "preset",
+      "name": "kitty",
+      "author": "Anonymous",
+      "description": "Eepy kitty",
+      "tags": [
+        "Cat"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "pipe",
+        "frame": "hearts",
+        "border": "custom",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "time": true,
+          "date": false,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "\n💬·:*¨「 meoww 」¨*:·  \n💭·:*¨「i luv my bf A🤍」¨*:·  \n🗯️･｡･[ eepy kittyy💤 ]･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": false,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 12,
+            "fill": "🕸️",
+            "empty": "💀",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T16:35:49.867Z",
+      "installId": "ins_cb859567-57e3-429e-aed9-b24e43dfae08",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -7089,6 +7228,9 @@
       1785338276319,
       1785338603207,
       1785338949420
+    ],
+    "ins_cb859567-57e3-429e-aed9-b24e43dfae08": [
+      1785342949867
     ]
   }
 }
