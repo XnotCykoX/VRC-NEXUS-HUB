@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T20:24:11.011Z",
+  "updatedAt": "2026-07-29T20:26:30.463Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7192,6 +7192,138 @@
       "publishedAt": "2026-07-29T18:14:42.854Z",
       "installId": "ins_930504e2-a8b1-47ad-a383-9dd0c124c668",
       "likedBy": []
+    },
+    {
+      "id": "preset-0d6fb356-7c26-4d7d-bb9f-2d3fa57aad81",
+      "type": "preset",
+      "name": "ryleigh loves ace",
+      "author": "Anonymous",
+      "description": "My mannn",
+      "tags": [
+        "#ace"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "༺ ♱「 Ephesians 4:32 」♱ ༻\n💬·:*¨「 young hoe 」¨*:· \n💭·:*¨「 Check Bio i love my nigga ace\n?...?」¨*:· \n🗯️･｡･[ 💀 Cuddle Me bae ?👀 ]･｡･ \n🗨️༺「 Quest User 👋」༻  \n💬「Freak in the Sheet's」🤪 ｡･\n💭༺「 GMBS 」༻  \n🗯️༺ ♱「 Disc : RYL3IGHDABEST 」♱ ༻ \n🗨️༺ ♱「 Spot me 20$ 」♱ ༻ \n💬༺「 ⚠️ 13+ - DNI 🚫 」༻ \n💭༺ ♱「 ace's Freak 」♱ ༻\n🗯️༺ ♱「 I LOVE MY SISTER BREE」♱ ༻\n🗨️༺ ♱「 😝  I LOVE ACE🤪 」♱ ༻\n💬༺ ♱「 Overly Friendly  」♱ ༻\n💭༺ ♱「 you wont dox me pussy」♱ ༻\n🗯️༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n 🗨️༺ ♱「 If me can make them laugh and giggle, u can make the ahh clap and jiggle 」♱ ༻\n 💬༺ ♱「 📸 Recording at all time 💫 」♱ ༻",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": true,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T20:26:30.463Z",
+      "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -7272,7 +7404,8 @@
     "ins_959b92e6-5ea9-478f-af40-47b141c04294": [
       1785338276319,
       1785338603207,
-      1785338949420
+      1785338949420,
+      1785356790463
     ],
     "ins_cb859567-57e3-429e-aed9-b24e43dfae08": [
       1785342949867
