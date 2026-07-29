@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T19:32:03.825Z",
+  "updatedAt": "2026-07-29T20:14:45.180Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7190,6 +7190,138 @@
       "publishedAt": "2026-07-29T18:14:42.854Z",
       "installId": "ins_930504e2-a8b1-47ad-a383-9dd0c124c668",
       "likedBy": []
+    },
+    {
+      "id": "preset-a2956781-b612-44a8-bd03-d3806be236f7",
+      "type": "preset",
+      "name": "the phenomenal Ferrar1purpl3",
+      "author": "Anonymous",
+      "description": "999 flipped is 666 999 represents taken what ever hell your in and turning in to something positive to push your self forward",
+      "tags": [
+        "#999 #stonet #select"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T20:14:45.180Z",
+      "installId": "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -7277,6 +7409,9 @@
     ],
     "ins_930504e2-a8b1-47ad-a383-9dd0c124c668": [
       1785348882854
+    ],
+    "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd": [
+      1785356085180
     ]
   }
 }
