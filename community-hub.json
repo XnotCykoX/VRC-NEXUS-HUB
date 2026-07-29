@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T11:16:55.930Z",
+  "updatedAt": "2026-07-29T11:35:54.835Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -6345,6 +6345,136 @@
       "publishedAt": "2026-07-29T11:16:55.930Z",
       "installId": "ins_58b665a7-2585-6c29-2ece-c7d87f11d658",
       "likedBy": []
+    },
+    {
+      "id": "preset-d81cfc66-c278-4a83-bb07-2820478fa418",
+      "type": "preset",
+      "name": "Bleh!",
+      "author": "Anonymous",
+      "description": "I don't know what to call it",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "battery",
+          "time",
+          "afk",
+          "weather",
+          "mic",
+          "movement",
+          "vrcparam",
+          "date",
+          "uptime",
+          "media",
+          "lyrics"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⭐♢",
+          "right": "❣⭐"
+        },
+        "customFrame": {
+          "top": "→⭐❤♢↓♢❤⭐←",
+          "bottom": "「⭒⭐❤♢♥↑♥♢❤⭐⭒」"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "☾→❄✗『 Text Here』✗☁←☀\n♬→♪✗『 Text Here』✗♪←♬\n†→☸✗『 Text Here』✗☯←†\n☾ →˗ˏˋ✩✔『 Text Here』✔☆ ´ˎ˗← ☽\n⭐☁⇒✓This user uses nexus!✓⇐☁⭐\nFBT⇒",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "⬤",
+            "empty": "○",
+            "head": "|"
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": true,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T11:35:54.835Z",
+      "installId": "ins_1f103af0-5c29-4bf8-b848-e055da574e5e",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -6412,7 +6542,8 @@
       1785314094285
     ],
     "ins_1f103af0-5c29-4bf8-b848-e055da574e5e": [
-      1785318141336
+      1785318141336,
+      1785324954835
     ],
     "ins_58b665a7-2585-6c29-2ece-c7d87f11d658": [
       1785323815930
