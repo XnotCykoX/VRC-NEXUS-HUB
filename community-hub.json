@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T15:20:05.791Z",
+  "updatedAt": "2026-07-29T15:23:23.207Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -6739,6 +6739,138 @@
       "publishedAt": "2026-07-29T15:18:41.180Z",
       "installId": "ins_f2fcdd33-7ff1-402e-a787-9fef5b53305c",
       "likedBy": []
+    },
+    {
+      "id": "preset-80673670-feab-4315-804e-d5227d784ba4",
+      "type": "preset",
+      "name": "RYL3IGHDABEST",
+      "author": "Anonymous",
+      "description": "Time:11:12",
+      "tags": [
+        "Standing OWNER OF MO"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "༺ ♱「 Ephesians 4:32 」♱ ༻\n💬·:*¨「 Check Bio ? 」¨*:· \n💭·:*¨「 Check Bio ?...?」¨*:· \n🗯️･｡･[ 💀 Cuddle Me ?👀 ]･｡･ \n🗨️༺「 Quest User 👋」༻  \n💬「Freak in the Sheet's」🤪 ｡･\n💭༺「 G4Z Ak 」༻  \n🗯️༺ ♱「 Disc : pitycats 」♱ ༻ \n🗨️༺ ♱「 Spot me 20$ 」♱ ༻ \n💬༺「 ⚠️ 18+ - DNI 🚫 」༻ \n💭༺ ♱「 His Freak 」♱ ༻\n🗯️༺ ♱「 PhantomSenser 」♱ ༻\n🗨️༺ ♱「 😝 No Socks On 🤪 」♱ ༻\n💬༺ ♱「 420 Friendly  」♱ ༻\n💭༺ ♱「 Doxbin.com 」♱ ༻\n🗯️༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n 🗨️༺ ♱「 If you can make them laugh and giggle, u can make the ahh clap and jiggle 」♱ ༻\n 💬༺ ♱「 📸 Recording Sometimes 💫 」♱ ༻",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": true,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T15:23:23.207Z",
+      "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -6817,7 +6949,8 @@
       1785338321180
     ],
     "ins_959b92e6-5ea9-478f-af40-47b141c04294": [
-      1785338276319
+      1785338276319,
+      1785338603207
     ]
   }
 }
