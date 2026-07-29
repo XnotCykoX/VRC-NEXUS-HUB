@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T07:36:02.437Z",
+  "updatedAt": "2026-07-29T07:37:34.262Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5769,6 +5769,143 @@
       "publishedAt": "2026-07-29T07:36:02.437Z",
       "installId": "ins_6c72493f-5819-49b7-a81b-9f5879c6d3a8",
       "likedBy": []
+    },
+    {
+      "id": "preset-127913b3-a797-494f-b538-c3bb7d940f79",
+      "type": "preset",
+      "name": "Music G4Z Preset",
+      "author": "Anonymous",
+      "description": "Edit how u like but dont add to much stuff",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⚠",
+          "right": "⚠"
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💬·:*¨「 Check Bio ? 」¨*:· \n💭·:*¨「Nexus Mod Support」¨*:· \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･ \n💬·:*¨「 Alway's Free to Help  」¨*:·  \n💭·:*¨「VrChat Mod」¨*:·  \n🗯️･｡･[ 💀 Drama Dragger 👀 ]･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 12,
+            "fill": "🕸️",
+            "empty": "💀",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T07:37:34.262Z",
+      "installId": "ins_07964f79-688d-4266-8862-bf327cddad71",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -5808,7 +5945,7 @@
       1784555325006
     ],
     "ins_07964f79-688d-4266-8862-bf327cddad71": [
-      1785212574979
+      1785310654262
     ],
     "ins_3fd4dca2-9e0c-485a-86ea-bd56dc9f7983": [
       1785216182462
