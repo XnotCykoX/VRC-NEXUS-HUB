@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T09:25:22.521Z",
+  "updatedAt": "2026-07-29T09:42:21.336Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5772,6 +5772,438 @@
         "ins_8c9295e8-9ab3-4e3a-a267-c36fece932b8",
         "ins_47b45ca3-3f1e-4644-8dde-60a830449c67"
       ]
+    },
+    {
+      "id": "sharepack-9b69836c-dfee-429a-8a50-838685d24ef8",
+      "type": "sharepack",
+      "name": "Tfc",
+      "author": "Anonymous",
+      "description": "Most avatars I have grabbed",
+      "tags": [
+        "The freak circus"
+      ],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "tfc": [
+            "avtr_874e162a-c48a-4605-bce8-0666613f0625",
+            "avtr_9b60a0f7-f9fb-4a96-88e1-aaeff15cd2de",
+            "avtr_9b3b8baa-4cef-4e20-b0dd-7ea0ac3007c0",
+            "avtr_68d12e54-a894-45ab-86f1-42ccdd072c33",
+            "avtr_c6c6a101-9a96-4d84-85ef-b689e53f9788",
+            "avtr_fe043d66-ab3e-4df8-96e4-ea6c5c630447",
+            "avtr_d6e17d3b-6dd4-4b77-9ed6-435288d65409",
+            "avtr_abd2936f-83c1-41c6-8796-afefdcc48dc7",
+            "avtr_27e3818f-55f1-4078-9f92-1f176cdacf4a",
+            "avtr_8562d2ae-7452-4bc1-a6cc-3b5a57d90dfb",
+            "avtr_82f810e0-875f-40b2-8373-0c9ba79ae03b",
+            "avtr_092ae9a6-cfb6-49d8-bc1d-3f4a759ba02b",
+            "avtr_b305f91d-d593-4003-b1bd-d411ab5b778e",
+            "avtr_5c066133-f88e-47e1-8732-3bc5ecbd86cf",
+            "avtr_b6ede594-bcb7-4e8f-9d62-06c2b60d4702",
+            "avtr_de052ea5-d390-482e-b861-52a3d202adc1",
+            "avtr_f926673d-2ada-48a1-a212-2953f0d929be",
+            "avtr_b4e4e00f-ec53-43e7-9e4e-eafc227810b1",
+            "avtr_199a1f25-3b93-409f-870d-5977edb28e9b",
+            "avtr_677f17ea-301d-47e0-ae07-0c737e4b0ded",
+            "avtr_5ed5f6eb-325a-4e3c-a532-5d422b0b0775",
+            "avtr_d9357f3c-8230-48a5-89ad-18ef54afb0fc",
+            "avtr_9dbe354a-45c6-4da9-a7b1-e2bc5de53a8e",
+            "avtr_4b64f345-6fc6-4184-b603-0d8ed8a9b9ee",
+            "avtr_1bd2d3c8-bc85-48af-9d40-0443344ebc31",
+            "avtr_9cddba64-11ad-4970-8101-b71aa085369e",
+            "avtr_cf2e4ced-e15a-42f5-bbbc-f7eee3674e95",
+            "avtr_d3bebef0-b6ec-44f3-8527-5d5e0acf14aa",
+            "avtr_258eabdf-7a4f-48f8-81aa-d0d481c811aa",
+            "avtr_7d7dfecf-22a4-4a60-81db-02afdb2f02af",
+            "avtr_1b57c04b-c3a0-4000-baa4-b030af39012c",
+            "avtr_4ebf1ac2-2961-4b68-a41f-08de7a918a27",
+            "avtr_639937bb-848f-4784-9fd9-3c1005b5e12d",
+            "avtr_5c47fbba-5f88-4bf8-ba31-e777e7e1181a"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_874e162a-c48a-4605-bce8-0666613f0625",
+            "name": "~ǃ TICKET TAKER ǃ~",
+            "author": "lacedmoth",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fc8c5a34-f24c-4ef3-82b7-48cfbdd86793/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9b60a0f7-f9fb-4a96-88e1-aaeff15cd2de",
+            "name": "ೀ ˖ ۫ Freakist MC Masc",
+            "author": "ᴇᴇᴠᴇᴇɪsᴛ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4cb08a24-02e2-42e6-9ee9-0bbfa13e51f9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9b3b8baa-4cef-4e20-b0dd-7ea0ac3007c0",
+            "name": "Pierrot Plushy",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4201cdf9-3206-44e6-a333-c587ed75efdb/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_68d12e54-a894-45ab-86f1-42ccdd072c33",
+            "name": "Columbina ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8a624587-9a56-481a-9b47-61d8474eadfa/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_c6c6a101-9a96-4d84-85ef-b689e53f9788",
+            "name": "Eevee's Y⁄N",
+            "author": "ᴇᴇᴠᴇᴇɪsᴛ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7d173b0c-be78-4782-b349-de4db7540fb8/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_fe043d66-ab3e-4df8-96e4-ea6c5c630447",
+            "name": "Doctor ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c76b89a0-0c57-4b84-abc1-ab24d5a6e957/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d6e17d3b-6dd4-4b77-9ed6-435288d65409",
+            "name": "Doctors Fool",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5e5eb4cb-55c0-4ba8-a909-4883811f2451/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_abd2936f-83c1-41c6-8796-afefdcc48dc7",
+            "name": "ǃ~Public-Harlequin~ǃ",
+            "author": "WaffleTheWeirdo",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3cd20141-9356-4d8d-8335-4a0bbf871bed/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_27e3818f-55f1-4078-9f92-1f176cdacf4a",
+            "name": "ೀ ˖ ۫ Freakist MC Fem",
+            "author": "ᴇᴇᴠᴇᴇɪsᴛ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7b75aca4-c6a2-4aec-953e-64fac13fc29f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8562d2ae-7452-4bc1-a6cc-3b5a57d90dfb",
+            "name": "Harlequin ｜ COMFY",
+            "author": "Ò w Ó",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4d6ce470-218b-4d28-a175-3ed2dcd2d2cb/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_82f810e0-875f-40b2-8373-0c9ba79ae03b",
+            "name": "Fem․ Pierrot ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_dfc898d9-2a30-4913-9c24-52813ca1a20f/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_092ae9a6-cfb6-49d8-bc1d-3f4a759ba02b",
+            "name": "Pierrot ｜ CASUAL",
+            "author": "Ò w Ó",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cdd1ca6d-cfa5-4de7-b59c-9ba2f7c0d5ed/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b305f91d-d593-4003-b1bd-d411ab5b778e",
+            "name": "Fem․ Harlequin ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8261e4d0-6379-4a0c-b9de-5cd8ff4c35c3/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_5c066133-f88e-47e1-8732-3bc5ecbd86cf",
+            "name": "Harlequin demon version",
+            "author": "sako_coffee",
+            "image": "https://api.vrchat.cloud/api/1/image/file_898fa80f-eb62-4d50-b572-f0563e74d465/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b6ede594-bcb7-4e8f-9d62-06c2b60d4702",
+            "name": "Fem․ Jester ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b2de7163-6294-4f8c-88a4-befd2ee7ccd6/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_de052ea5-d390-482e-b861-52a3d202adc1",
+            "name": "- COLUMBINA ｜ PUBLIC",
+            "author": "SlovenCreti",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ec88e111-2503-4798-bdeb-1876bf9188db/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f926673d-2ada-48a1-a212-2953f0d929be",
+            "name": "Jesters' Fool 2․0",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f974b64a-a954-4ef5-a8dd-55a76ec5c58e/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b4e4e00f-ec53-43e7-9e4e-eafc227810b1",
+            "name": "Ticket Taker ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_da1cd6cd-5900-4327-a371-c529c6055107/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_199a1f25-3b93-409f-870d-5977edb28e9b",
+            "name": "Monster pierrot",
+            "author": "Sukuna Royubun",
+            "image": "https://api.vrchat.cloud/api/1/image/file_25a6ca83-450c-4334-a423-6fa08829510f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_677f17ea-301d-47e0-ae07-0c737e4b0ded",
+            "name": "Ticket Takers Fool",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_19f739cb-57fd-4228-8e7b-e134c6150ff9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5ed5f6eb-325a-4e3c-a532-5d422b0b0775",
+            "name": "ǃ~Public-Pierrot~ǃ",
+            "author": "WaffleTheWeirdo",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5606a9ed-30f3-4ba8-bfe4-8b8b4ea219da/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d9357f3c-8230-48a5-89ad-18ef54afb0fc",
+            "name": "Clowned fool",
+            "author": "~AngieV~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d322dead-afed-4a56-9147-ef3455651663/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9dbe354a-45c6-4da9-a7b1-e2bc5de53a8e",
+            "name": "~ǃ COLUMBINA ǃ~",
+            "author": "lacedmoth",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8f3ec1b6-7b06-4505-ad59-e3fc1c49bfe9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_4b64f345-6fc6-4184-b603-0d8ed8a9b9ee",
+            "name": "Ticket Taker",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2245b45a-e772-43cd-91d0-ae2b7b3079bb/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_1bd2d3c8-bc85-48af-9d40-0443344ebc31",
+            "name": "~ǃ PIERROT ǃ~",
+            "author": "lacedmoth",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c125191c-06a3-49eb-93d9-cb65bec52b5e/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9cddba64-11ad-4970-8101-b71aa085369e",
+            "name": "Pierrots' Fool PUBLIC",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b88b8e76-9ae6-4a29-a163-9c86fa8cc331/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_cf2e4ced-e15a-42f5-bbbc-f7eee3674e95",
+            "name": "Harlequin Fool PUBLIC",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_78c60dac-20f3-4bb9-bcaa-91498ff28016/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d3bebef0-b6ec-44f3-8527-5d5e0acf14aa",
+            "name": "Jesters' Fool PUBLIC",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f016dad9-badc-4a6f-b149-244f37f90c21/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_258eabdf-7a4f-48f8-81aa-d0d481c811aa",
+            "name": "Columbinas' Fool",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f2154ea6-a4da-4402-8512-c26536bff20c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_7d7dfecf-22a4-4a60-81db-02afdb2f02af",
+            "name": "Doctors Fool Old Variant",
+            "author": "《༻Glaktus༻》",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2609411d-86c3-4294-9555-9cc6217e122c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1b57c04b-c3a0-4000-baa4-b030af39012c",
+            "name": "Pierrot ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bb4a88ef-7d90-49ad-93af-0a0334bd1979/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_4ebf1ac2-2961-4b68-a41f-08de7a918a27",
+            "name": "Sleuth Jester Y⁄N （ V․2 ）",
+            "author": "FizzyPS",
+            "image": "https://api.vrchat.cloud/api/1/image/file_400c7be5-0d88-4afa-bbe3-0ec656974ae5/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_639937bb-848f-4784-9fd9-3c1005b5e12d",
+            "name": "Jester ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2552af22-f458-4a91-b040-415a252948a6/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_5c47fbba-5f88-4bf8-ba31-e777e7e1181a",
+            "name": "Harlequin ｛The Freak Circus｝",
+            "author": "․Nyanna․",
+            "image": "https://api.vrchat.cloud/api/1/image/file_faa22749-4400-4522-b600-68675fe91b98/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T09:42:21.336Z",
+      "installId": "ins_1f103af0-5c29-4bf8-b848-e055da574e5e",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -5837,6 +6269,9 @@
     ],
     "ins_1ffff0df-4aba-4e30-907a-294b03e7a8c0": [
       1785314094285
+    ],
+    "ins_1f103af0-5c29-4bf8-b848-e055da574e5e": [
+      1785318141336
     ]
   }
 }
