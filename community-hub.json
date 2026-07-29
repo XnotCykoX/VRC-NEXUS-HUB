@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T18:13:57.040Z",
+  "updatedAt": "2026-07-29T18:14:42.854Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7155,6 +7155,38 @@
         "ins_37330f5e-d4cd-428d-b794-14e743e10831",
         "ins_50ac955e-9115-4af6-8980-3c4bfda750c0"
       ]
+    },
+    {
+      "id": "script-2e7d8ed6-44ca-4c21-91f0-028c9948b2c9",
+      "type": "script",
+      "name": "0.1 small",
+      "author": "Anonymous",
+      "description": "makes you very small",
+      "tags": [
+        "cool"
+      ],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 1,
+            "type": "height",
+            "value": "-3",
+            "sweep": false,
+            "from": "0.1",
+            "to": "1",
+            "seconds": "1",
+            "pingpong": true
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-29T18:14:42.854Z",
+      "installId": "ins_930504e2-a8b1-47ad-a383-9dd0c124c668",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -7239,6 +7271,9 @@
     ],
     "ins_cb859567-57e3-429e-aed9-b24e43dfae08": [
       1785342949867
+    ],
+    "ins_930504e2-a8b1-47ad-a383-9dd0c124c668": [
+      1785348882854
     ]
   }
 }
