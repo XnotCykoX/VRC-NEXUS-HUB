@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T00:27:34.365Z",
+  "updatedAt": "2026-07-30T00:31:18.773Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7591,7 +7591,9 @@
       "data": null,
       "publishedAt": "2026-07-30T00:25:00.002Z",
       "installId": "ins_2632d325-1ee1-4411-9145-5e740b555f16",
-      "likedBy": []
+      "likedBy": [
+        "ins_2632d325-1ee1-4411-9145-5e740b555f16"
+      ]
     }
   ],
   "publishLog": {
