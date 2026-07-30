@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T17:21:38.035Z",
+  "updatedAt": "2026-07-30T17:27:11.636Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8005,6 +8005,704 @@
       "publishedAt": "2026-07-30T12:21:56.888Z",
       "installId": "ins_fe001d86-614e-438e-bcab-69582576a8b6",
       "likedBy": []
+    },
+    {
+      "id": "sharepack-3d409db3-71c2-4bfd-9d00-1ce21f594afd",
+      "type": "sharepack",
+      "name": "for SOL",
+      "author": "Anonymous",
+      "description": "My babies",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "Favourites": [
+            "avtr_2f2750ec-8013-4493-904e-d1e6102b99ac",
+            "avtr_934faf60-e5f8-4edc-bdb3-468a2fad0af6",
+            "avtr_4f27fa8d-509e-45d7-a7e0-5a727913f721",
+            "avtr_a1ce782a-6d57-4ae9-b5d8-0104032d35b9",
+            "avtr_1b28092b-1ea2-4215-82f6-eaf9972f7cc6",
+            "avtr_2773a6ac-4604-4258-8f56-4f9d0493c0bf",
+            "avtr_e3847441-1933-4171-b2ec-918ec87de149",
+            "avtr_146d7dcd-3dee-4a20-b37d-04d4790f97c9",
+            "avtr_5af5fe72-85c8-4956-9b12-c51a228db1e7",
+            "avtr_1f0a2546-45d6-4e05-9ae9-005de4ffa673",
+            "avtr_2b8dc64b-88e9-419b-9d62-bdb57668588d",
+            "avtr_3d219404-846a-4b66-b8ca-82570cb0aa4c",
+            "avtr_c0e6b628-bef6-4a9e-ad74-4cf43ad52f18",
+            "avtr_effd6e0e-25d0-4a8b-b3bd-82b9030c9078",
+            "avtr_0baad4da-ff72-4695-9d72-bf07e598425e",
+            "avtr_acf9fb01-0cb1-41a6-913c-7b01aeed0a70",
+            "avtr_d2f17a16-fcdf-472f-bb32-c34f63e5b25e",
+            "avtr_abaed3db-1c12-4825-b7f7-17c70168a51a",
+            "avtr_acad4b84-fae4-4f39-8a6e-107f94a47d55",
+            "avtr_a728d070-3197-4b06-a0ce-5e993debf1aa",
+            "avtr_e493e458-0d68-445f-b196-f86871158cea",
+            "avtr_843e7d77-f0ce-4e02-8b06-3a728212382e",
+            "avtr_1e3c9812-bcba-4eb5-b20c-05eb4a5d0dc1",
+            "avtr_7c842dbf-40eb-481e-b0d5-c5012b45771e",
+            "avtr_88367e72-d1c0-436b-b2d7-9f2be2b64771",
+            "avtr_6c426101-c1d1-4c66-8ac6-793dd99f6dde",
+            "avtr_8badfdd9-6540-4f33-93d8-581750900d4d",
+            "avtr_512e47b4-e629-46b7-aa4a-e088916a4f2e",
+            "avtr_91df67bb-f069-4d4f-ab11-843cd0381a89",
+            "avtr_bd685323-9154-4b19-bb26-3eed28020703",
+            "avtr_b78414fd-5cbb-4399-a56b-9383ce2594a1",
+            "avtr_4151a563-7cfc-4459-8d00-64f067ab4655",
+            "avtr_5da13200-ccb6-4204-a8e2-5f2033ae0428",
+            "avtr_1dae0600-302d-4363-938d-4b2c2aebf40d",
+            "avtr_de13b063-30e9-4008-bc93-54a592179054",
+            "avtr_ecb741a0-5e48-4bfb-a93c-28ec6cb21f70",
+            "avtr_ee178ed5-c909-407b-8761-f5d8c0568a63",
+            "avtr_d53f0b41-0e88-4598-b4d9-ee1dcf76f184",
+            "avtr_9e65b77b-7a26-49e2-8c1f-5f2deaeab958",
+            "avtr_78a3e823-442b-46e4-903c-48be4b306cb5",
+            "avtr_119b595a-0907-4fb9-9b6a-bfa88257ad8d",
+            "avtr_09851c6c-5950-4666-97f8-e7c4e5b31ecb",
+            "avtr_41bb62ec-e0d3-48b2-a5aa-4851f50f3d53",
+            "avtr_ec3103fa-bafa-4cef-adfc-132a3451dd6c",
+            "avtr_b6819908-b31f-48bf-af93-a108b06dc1ad",
+            "avtr_dfd29fd6-dbcf-4c7e-90cf-21634d306d92",
+            "avtr_f498af9b-d489-471e-98d1-3d2462d77ad5",
+            "avtr_9148a528-6e53-4b98-b11b-0ee26374c5f3",
+            "avtr_b598b857-bdfe-4c76-889e-b167ac226b89",
+            "avtr_ece86982-949c-4a1e-a5ad-2cb2d8438846",
+            "avtr_446de478-721c-49ea-8e37-74bd3f3f134e",
+            "avtr_19a12780-8982-4ebf-9b5e-1a867f809815",
+            "avtr_041eff8c-c390-42d9-99e1-57f57831559a",
+            "avtr_497256d7-4bc7-473a-8016-4eee3f1f17fc",
+            "avtr_10103ece-3954-4d87-956b-d9c056f0fd56",
+            "avtr_96107f7a-d81a-41d5-be46-aaa3cb6dda5f",
+            "avtr_1ab3a4b0-2744-4cda-b7fd-0c81f25fb0f3",
+            "avtr_c8ed4f79-6203-4a07-bfbd-5b005d6c224e"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_2f2750ec-8013-4493-904e-d1e6102b99ac",
+            "name": "Two Time",
+            "author": "༺cɾ4zհ_ժUოოվ༺",
+            "image": "https://api.vrchat.cloud/api/1/image/file_397bf1c5-dff7-4c96-9513-83dd32cc4dc4/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_934faf60-e5f8-4edc-bdb3-468a2fad0af6",
+            "name": "Sukuna （Heian Era）",
+            "author": "SMOOTH_GOUSE",
+            "image": "https://api.vrchat.cloud/api/1/image/file_00e07ab4-4f4e-4aa6-993c-121819e48015/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_4f27fa8d-509e-45d7-a7e0-5a727913f721",
+            "name": "Kyomoto - Look Back",
+            "author": "FL0CKK",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d13c171c-ae66-4181-8913-0a274fa97cd0/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_a1ce782a-6d57-4ae9-b5d8-0104032d35b9",
+            "name": "Shinso All in One",
+            "author": "Ace Ukiyᴏ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bcfbce41-3cd6-47bf-8a96-9eb139c6bf83/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1b28092b-1ea2-4215-82f6-eaf9972f7cc6",
+            "name": "Satoru Gojo",
+            "author": "٠Chillpup٠",
+            "image": "https://api.vrchat.cloud/api/1/image/file_314b994f-a809-4c91-89c8-3d3eae65c99b/2/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_2773a6ac-4604-4258-8f56-4f9d0493c0bf",
+            "name": "ǃCleetusǃ",
+            "author": "Halo_MOV",
+            "image": "https://api.vrchat.cloud/api/1/image/file_133dd52d-6610-4aba-bafc-f7b7060e38b4/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e3847441-1933-4171-b2ec-918ec87de149",
+            "name": "SP Bonnie",
+            "author": "Jayie",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9886605f-00a3-412b-9121-bfb24a54c7fc/4/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_146d7dcd-3dee-4a20-b37d-04d4790f97c9",
+            "name": "TxAngryBirds OC",
+            "author": "TheNightOfHell",
+            "image": "https://api.vrchat.cloud/api/1/image/file_35424b56-3b29-4db1-aa35-f4824711adc8/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5af5fe72-85c8-4956-9b12-c51a228db1e7",
+            "name": "Chuck Chica",
+            "author": "Tari-AU",
+            "image": "https://api.vrchat.cloud/api/1/image/file_41c89ef5-cf36-499a-abb3-d468180ce0f9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1f0a2546-45d6-4e05-9ae9-005de4ffa673",
+            "name": "Toy Chica",
+            "author": "GGVRplays",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c9ae230b-c1c7-4965-8848-c8bd031c0fbf/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_2b8dc64b-88e9-419b-9d62-bdb57668588d",
+            "name": "Withered Chica Updating",
+            "author": "RetroTheRabbit",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b99567c2-aecf-45e3-97c2-78313d483991/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3d219404-846a-4b66-b8ca-82570cb0aa4c",
+            "name": "withered chica",
+            "author": "~-Olena-~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1b408226-012b-47dc-bd0e-28284880855a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c0e6b628-bef6-4a9e-ad74-4cf43ad52f18",
+            "name": "FNAF1 Withered Freddy",
+            "author": "GGVRplays",
+            "image": "https://api.vrchat.cloud/api/1/image/file_dca80a0a-f4bb-4676-9c17-c7cad13782a9/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_effd6e0e-25d0-4a8b-b3bd-82b9030c9078",
+            "name": "Torture Freddy",
+            "author": "GGVRplays",
+            "image": "https://api.vrchat.cloud/api/1/image/file_99f363de-1868-44b5-aa9c-056c3f8a5a0a/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0baad4da-ff72-4695-9d72-bf07e598425e",
+            "name": "Freddy Fazbear",
+            "author": "GGVRplays",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f1473539-bdc3-4687-becf-fa457ea63c60/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_acf9fb01-0cb1-41a6-913c-7b01aeed0a70",
+            "name": "Fnaf 1 ⁄ I6NIS Bonnie T․ Bunny",
+            "author": "Cr33pyCat4lyst~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a2e22df1-eb08-4893-a9ee-7edca2504739/1/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d2f17a16-fcdf-472f-bb32-c34f63e5b25e",
+            "name": "FNAF Splinks Bonnie",
+            "author": "Braxtongameplay",
+            "image": "https://api.vrchat.cloud/api/1/image/file_797f89d0-49b6-45b9-947f-69aba3b72e5e/3/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_abaed3db-1c12-4825-b7f7-17c70168a51a",
+            "name": "39",
+            "author": "CamoAxol",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7da46fe2-dd4d-4dee-96e7-a1dd5be54fe6/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_acad4b84-fae4-4f39-8a6e-107f94a47d55",
+            "name": "39",
+            "author": "Builderbrian092",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a719e811-30dd-4100-b958-458b3330b8cb/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a728d070-3197-4b06-a0ce-5e993debf1aa",
+            "name": "39",
+            "author": "e̴rr̵or̵_̴x̵sr̸",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ccbf075b-97ff-4c1e-a601-f25e197dfb75/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e493e458-0d68-445f-b196-f86871158cea",
+            "name": "39",
+            "author": "Xenarthra",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6ffb1aa3-253a-4056-8a28-e8cef43d14c4/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_843e7d77-f0ce-4e02-8b06-3a728212382e",
+            "name": "Star withered foxy",
+            "author": "~Hex_Rogue~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_40e5954e-db3d-46cb-9354-5bc4a08e74f9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1e3c9812-bcba-4eb5-b20c-05eb4a5d0dc1",
+            "name": "Golden Rabbit",
+            "author": "Shadow875",
+            "image": "https://api.vrchat.cloud/api/1/image/file_688d458b-2a27-4973-94c0-89def299e237/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_7c842dbf-40eb-481e-b0d5-c5012b45771e",
+            "name": "I6NIS Bonnie",
+            "author": "TopTophatter",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e32d9fba-0ae3-4033-9c8f-21d77d319900/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_88367e72-d1c0-436b-b2d7-9f2be2b64771",
+            "name": "FREDDY - DRAWKILLS",
+            "author": "Jackyln Burger",
+            "image": "https://api.vrchat.cloud/api/1/image/file_52e4957a-2aa2-4e48-874b-f29110210a1f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6c426101-c1d1-4c66-8ac6-793dd99f6dde",
+            "name": "Bon",
+            "author": "mothmasher2381",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9b50467d-d8a6-409a-b0f4-3c9432e64125/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8badfdd9-6540-4f33-93d8-581750900d4d",
+            "name": "Toy Bonnie Doll V2",
+            "author": "~×Wally×~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3659e0c3-2a37-4675-b5ca-3b5526e30580/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_512e47b4-e629-46b7-aa4a-e088916a4f2e",
+            "name": "Toy Bonnie Doll",
+            "author": "~×Wally×~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_488fbcad-a3d8-4ba4-b262-8563585133ed/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_91df67bb-f069-4d4f-ab11-843cd0381a89",
+            "name": "Funtime Springsuit",
+            "author": "snapplefritter",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d333365d-49b2-4aa9-90d4-a4c943af231a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_bd685323-9154-4b19-bb26-3eed28020703",
+            "name": "Plushtrap",
+            "author": "Chaotic_Jay",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a33649f9-72da-43c0-90a4-2412f22c9938/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b78414fd-5cbb-4399-a56b-9383ce2594a1",
+            "name": "［MC］ Drawkill Stylized Funtime Foxy",
+            "author": "》Verfall《",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3f4f4c96-1af3-4cd6-b5fe-3f5cfe8e485a/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_4151a563-7cfc-4459-8d00-64f067ab4655",
+            "name": "BloodBear （Zacju37 Arciv）",
+            "author": "Ash0329200",
+            "image": "https://api.vrchat.cloud/api/1/image/file_20ec38d0-508a-4ebd-9713-c51d5691b50d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5da13200-ccb6-4204-a8e2-5f2033ae0428",
+            "name": "Bear5",
+            "author": "Zander05",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6cf4a555-477f-4a2b-b282-9441c620124c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_1dae0600-302d-4363-938d-4b2c2aebf40d",
+            "name": "FNAF Splinks Freddy",
+            "author": "Braxtongameplay",
+            "image": "https://api.vrchat.cloud/api/1/image/file_32b4d7eb-2b72-4bd2-a71f-57c6830e5bb1/5/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_de13b063-30e9-4008-bc93-54a592179054",
+            "name": "GM Nightmare Witherd Bonnie",
+            "author": "BackUpRadio",
+            "image": "https://api.vrchat.cloud/api/1/image/file_63e24e77-1abc-4503-bdef-4b5ee13a1b19/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ecb741a0-5e48-4bfb-a93c-28ec6cb21f70",
+            "name": "FNAF Splinks Foxy",
+            "author": "Braxtongameplay",
+            "image": "https://api.vrchat.cloud/api/1/image/file_eadbf6dc-5140-4ae3-81d5-25e8d8e5a382/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ee178ed5-c909-407b-8761-f5d8c0568a63",
+            "name": "cheaky boy",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7da307ba-19fc-4fd6-94fa-a42d0cb770f0/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d53f0b41-0e88-4598-b4d9-ee1dcf76f184",
+            "name": "Shadow Toy Chica - ｛TPRR｝",
+            "author": "- BᄂӨXY -",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a9fa12aa-0be8-4195-ade5-ddabfbf5dd14/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9e65b77b-7a26-49e2-8c1f-5f2deaeab958",
+            "name": "Bon ［WALTENFILES］",
+            "author": "TheAttraction",
+            "image": "https://api.vrchat.cloud/api/1/image/file_77671362-2e47-4547-a562-5a07e4fdc50b/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_78a3e823-442b-46e4-903c-48be4b306cb5",
+            "name": "scopophobia friend foxy",
+            "author": "Halvid9508",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b90a26ac-18bc-4c92-ae2b-f3d1cf77b624/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_119b595a-0907-4fb9-9b6a-bfa88257ad8d",
+            "name": "REMNANT HUSK",
+            "author": "DemonWolf 20bff",
+            "image": "https://api.vrchat.cloud/api/1/image/file_08bf7874-f66c-42e9-8b28-b0527cfc4107/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_09851c6c-5950-4666-97f8-e7c4e5b31ecb",
+            "name": "Park ⁄ Bunnycat SpringBonnie LPoly",
+            "author": "The Monobear",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a10f39ff-ea02-42e5-b017-bdf84de91106/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_41bb62ec-e0d3-48b2-a5aa-4851f50f3d53",
+            "name": "Scrap chica",
+            "author": "nargon10",
+            "image": "https://api.vrchat.cloud/api/1/image/file_40ba11fb-f024-4845-bd8d-125901f9c8aa/1/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ec3103fa-bafa-4cef-adfc-132a3451dd6c",
+            "name": "FNaF 2 - Withered Freddy",
+            "author": "RimShady",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5616cae6-9624-4585-bd02-2b75f99be600/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b6819908-b31f-48bf-af93-a108b06dc1ad",
+            "name": "FNaF 2 - Withered Bonnie",
+            "author": "RimShady",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6849a6c3-ae15-485a-8ea8-dc345072f259/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_dfd29fd6-dbcf-4c7e-90cf-21634d306d92",
+            "name": "Mortality",
+            "author": "Gibus_the_Gibus",
+            "image": "https://api.vrchat.cloud/api/1/image/file_0596bb60-4be4-46de-9369-7475e83cccb6/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f498af9b-d489-471e-98d1-3d2462d77ad5",
+            "name": "GlamrockBonnieR Is a Pedophile",
+            "author": "ChrisDa0ne",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7d2159ed-f77e-446a-a3a3-c516e42add61/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_9148a528-6e53-4b98-b11b-0ee26374c5f3",
+            "name": "yourwelcome",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9357e836-79b0-498d-bfa6-842a291efa55/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b598b857-bdfe-4c76-889e-b167ac226b89",
+            "name": "rebooted CN",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9c29d9eb-8c08-4763-b0cd-7e162d897780/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ece86982-949c-4a1e-a5ad-2cb2d8438846",
+            "name": "bemi black c․o",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3a091c39-0dc7-440c-b708-6f5bff42f2ea/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_446de478-721c-49ea-8e37-74bd3f3f134e",
+            "name": "fixed bemboy",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b2b096a4-6c10-4cd4-8b38-4367171a6aeb/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_19a12780-8982-4ebf-9b5e-1a867f809815",
+            "name": "bemi new v2",
+            "author": "༒ Futa Søsa ༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6a1949be-b455-4afb-bd78-4c4da3153ad8/1/256",
+            "platforms": [
+              "android"
+            ]
+          },
+          {
+            "id": "avtr_041eff8c-c390-42d9-99e1-57f57831559a",
+            "name": "Seraphim",
+            "author": "ᵂᴴᴵᵀᴱ ᵀᴵᴳᴱᴿ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7976bc88-d371-4df8-8d59-fcff2958da06/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_497256d7-4bc7-473a-8016-4eee3f1f17fc",
+            "name": "Ryuk (Death Note)",
+            "author": "Imagineer1981",
+            "image": "https://thumb.avtr.zip/avtr_497256d7-4bc7-473a-8016-4eee3f1f17fc.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_10103ece-3954-4d87-956b-d9c056f0fd56",
+            "name": "Teru Mikami （Death note）",
+            "author": "~Mail Jeevas~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9e897da7-968f-41ee-814d-f5d281054b77/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_96107f7a-d81a-41d5-be46-aaa3cb6dda5f",
+            "name": "Mello (Death note)",
+            "author": "~Mail Jeevas~",
+            "image": "https://thumb.avtr.zip/avtr_96107f7a-d81a-41d5-be46-aaa3cb6dda5f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_1ab3a4b0-2744-4cda-b7fd-0c81f25fb0f3",
+            "name": "Matt （Death note）",
+            "author": "~Mail Jeevas~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e541c2d4-54cc-409d-a82f-8a4f98341d4a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c8ed4f79-6203-4a07-bfbd-5b005d6c224e",
+            "name": "L （Death note）",
+            "author": "~Mail Jeevas~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_045ff170-a650-423b-82d8-4350dea296d9/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-30T17:27:11.636Z",
+      "installId": "ins_516ab20b-83e0-4c41-832e-998111c740a5",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8115,6 +8813,9 @@
     ],
     "ins_fe001d86-614e-438e-bcab-69582576a8b6": [
       1785414116888
+    ],
+    "ins_516ab20b-83e0-4c41-832e-998111c740a5": [
+      1785432431636
     ]
   }
 }
