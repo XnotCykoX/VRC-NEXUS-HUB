@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T18:20:19.925Z",
+  "updatedAt": "2026-07-30T18:34:47.853Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8009,6 +8009,143 @@
       "publishedAt": "2026-07-30T12:21:56.888Z",
       "installId": "ins_fe001d86-614e-438e-bcab-69582576a8b6",
       "likedBy": []
+    },
+    {
+      "id": "preset-d681197f-a795-4376-91cd-8296abc7ee14",
+      "type": "preset",
+      "name": "Flowery",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "time": true,
+          "date": false,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "I'm tired as fuck\nI'm 11\nI like men\ni love Perrot from tfc❤️",
+          "cycle": true,
+          "intervalSec": 20,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-30T18:34:47.853Z",
+      "installId": "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8124,6 +8261,9 @@
       1785432431636,
       1785432575800,
       1785432671259
+    ],
+    "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be": [
+      1785436487853
     ]
   }
 }
