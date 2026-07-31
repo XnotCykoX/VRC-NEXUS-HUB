@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T12:38:48.993Z",
+  "updatedAt": "2026-07-31T13:19:57.376Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8357,6 +8357,138 @@
       "publishedAt": "2026-07-31T11:23:28.691Z",
       "installId": "ins_f8f79caf-da49-46af-b872-dd7558129353",
       "likedBy": []
+    },
+    {
+      "id": "preset-40992f64-7590-49d6-beda-784bbc323129",
+      "type": "preset",
+      "name": "giggity",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "(:                          :)",
+          "bottom": ":)                          (:"
+        },
+        "inline": {
+          "lyrics": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "Why is my ass wet?\nI'm a friendly femboy\ni love my friends",
+          "cycle": true,
+          "intervalSec": 0.5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mic"
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "Song"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": ""
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-31T13:19:57.376Z",
+      "installId": "ins_1c8cc1e5-2204-440b-9a68-f222986ae6e0",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8486,6 +8618,9 @@
     ],
     "ins_9204bd19-c7af-4c0e-afa7-3a13181181d9": [
       1785500813681
+    ],
+    "ins_1c8cc1e5-2204-440b-9a68-f222986ae6e0": [
+      1785503997376
     ]
   }
 }
