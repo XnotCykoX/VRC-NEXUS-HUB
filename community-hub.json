@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T02:19:12.060Z",
+  "updatedAt": "2026-07-31T02:22:49.712Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8152,6 +8152,139 @@
       "publishedAt": "2026-07-30T18:34:47.853Z",
       "installId": "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be",
       "likedBy": []
+    },
+    {
+      "id": "preset-84b7a7bc-3c02-4ab1-ad4e-71b0abd492d3",
+      "type": "preset",
+      "name": "uMm",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [
+        "loving myself",
+        "he's so cutesy I'm 1"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "weather",
+          "date",
+          "lyrics",
+          "media",
+          "battery",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "🤡",
+          "right": "🤡"
+        },
+        "customFrame": {
+          "top": "🎈→→→↔←←←🎈",
+          "bottom": "🎈→→→↔←←←🎈"
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "Im just a gay Clown/Jester, i don't bite\nTalk to me if you want\nCyb0rax: I want you to SYBAU\nGive me ideas to put here",
+          "cycle": true,
+          "intervalSec": 8,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🎈",
+            "empty": "💀",
+            "head": "🤡"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Dallas",
+          "fahrenheit": true,
+          "lat": 32.78306,
+          "lon": -96.80667,
+          "place": "Dallas, US"
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": true,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-31T02:22:49.712Z",
+      "installId": "ins_40004c3e-77e3-4831-92dd-80432d4335ec",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8270,6 +8403,9 @@
     ],
     "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be": [
       1785436487853
+    ],
+    "ins_40004c3e-77e3-4831-92dd-80432d4335ec": [
+      1785464569712
     ]
   }
 }
