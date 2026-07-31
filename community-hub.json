@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T11:23:28.691Z",
+  "updatedAt": "2026-07-31T12:26:53.681Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8354,6 +8354,138 @@
       "publishedAt": "2026-07-31T11:23:28.691Z",
       "installId": "ins_f8f79caf-da49-46af-b872-dd7558129353",
       "likedBy": []
+    },
+    {
+      "id": "preset-bf79ba47-3244-4207-8bb9-eb273cbab181",
+      "type": "preset",
+      "name": "Call me franky\\alisa\\eyesin",
+      "author": "Anonymous",
+      "description": "multifandom\n20 years\nsimp cuphead motm\ndisc franky_doddle19\nroleplayer user",
+      "tags": [
+        "#TDAH"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "༺ ♱「 Ephesians 4:32 」♱ ༻\n💬·:*¨「 young hoe 」¨*:· \n💭·:*¨「 Check Bio i love my nigga ace\n?...?」¨*:· \n🗯️･｡･[ 💀 Cuddle Me bae ?👀 ]･｡･ \n🗨️༺「 Quest User 👋」༻  \n💬「Freak in the Sheet's」🤪 ｡･\n💭༺「 GMBS 」༻  \n🗯️༺ ♱「 Disc : RYL3IGHDABEST 」♱ ༻ \n🗨️༺ ♱「 Spot me 20$ 」♱ ༻ \n💬༺「 ⚠️ 13+ - DNI 🚫 」༻ \n💭༺ ♱「 ace's Freak 」♱ ༻\n🗯️༺ ♱「 I LOVE MY SISTER BREE」♱ ༻\n🗨️༺ ♱「 😝  I LOVE ACE🤪 」♱ ༻\n💬༺ ♱「 Overly Friendly  」♱ ༻\n💭༺ ♱「 you wont dox me pussy」♱ ༻\n🗯️༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n 🗨️༺ ♱「 If me can make them laugh and giggle, u can make the ahh clap and jiggle 」♱ ༻\n 💬༺ ♱「 📸 Recording at all time 💫 」♱ ༻",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": true,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-31T12:26:53.681Z",
+      "installId": "ins_9204bd19-c7af-4c0e-afa7-3a13181181d9",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8480,6 +8612,9 @@
       1785478539586,
       1785496632515,
       1785497008691
+    ],
+    "ins_9204bd19-c7af-4c0e-afa7-3a13181181d9": [
+      1785500813681
     ]
   }
 }
