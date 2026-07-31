@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T05:20:24.536Z",
+  "updatedAt": "2026-07-31T06:15:39.586Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8159,6 +8159,55 @@
       "publishedAt": "2026-07-30T18:34:47.853Z",
       "installId": "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be",
       "likedBy": []
+    },
+    {
+      "id": "script-13ce5a77-3ded-45d0-92d3-febca00536b4",
+      "type": "script",
+      "name": "RGB",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 1,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 2,
+                "type": "hue",
+                "value": 0.5,
+                "sweep": true,
+                "from": 0,
+                "to": 1,
+                "seconds": "2",
+                "pingpong": true,
+                "names": ""
+              },
+              {
+                "id": 3,
+                "type": "emission",
+                "value": 1,
+                "sweep": true,
+                "from": 0,
+                "to": 1,
+                "seconds": "2",
+                "pingpong": false,
+                "names": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-07-31T06:15:39.586Z",
+      "installId": "ins_f8f79caf-da49-46af-b872-dd7558129353",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8280,6 +8329,9 @@
     ],
     "ins_40004c3e-77e3-4831-92dd-80432d4335ec": [
       1785464569712
+    ],
+    "ins_f8f79caf-da49-46af-b872-dd7558129353": [
+      1785478539586
     ]
   }
 }
