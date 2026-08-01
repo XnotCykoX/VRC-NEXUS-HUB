@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T04:23:25.234Z",
+  "updatedAt": "2026-08-01T04:24:53.339Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8630,6 +8630,143 @@
       "publishedAt": "2026-08-01T04:15:27.560Z",
       "installId": "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102",
       "likedBy": []
+    },
+    {
+      "id": "preset-63df1ed9-fa5d-4afe-900e-9f286506573f",
+      "type": "preset",
+      "name": "fuck off",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "hearts",
+        "border": "custom",
+        "customBorder": {
+          "left": "🖕",
+          "right": "🖕"
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "time": true,
+          "date": false,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "I'm just here\ntell your mom i said hi\ntell your dad i said hi\nthe block button is my best friend\n",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": false,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 12,
+            "fill": "🕸️",
+            "empty": "💀",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Youngstown ",
+          "fahrenheit": true,
+          "lat": 41.09978,
+          "lon": -80.64952,
+          "place": "Youngstown, US"
+        },
+        "time": {
+          "on": true,
+          "emoji": "",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-01T04:24:53.339Z",
+      "installId": "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -8771,6 +8908,9 @@
     ],
     "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102": [
       1785557727560
+    ],
+    "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a": [
+      1785558293339
     ]
   }
 }
