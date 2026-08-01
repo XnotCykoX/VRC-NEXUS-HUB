@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T12:33:03.090Z",
+  "updatedAt": "2026-08-01T14:17:08.963Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8921,6 +8921,143 @@
       "likedBy": [
         "ins_96b93890-e04f-493c-b893-d2d5c3880283"
       ]
+    },
+    {
+      "id": "preset-3e2d10af-47e8-40dd-a2ac-172b7c02fd25",
+      "type": "preset",
+      "name": "Venom ? 》☢《",
+      "author": "Anonymous",
+      "description": "Dont use unless your venom",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "》",
+          "right": "《"
+        },
+        "customFrame": {
+          "top": "╔═⚠️══》☢《══⚠️═╗",
+          "bottom": "╚═⚠️══卐🤡卐══⚠️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Is the best」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Alway's Free to Support  」¨*:·   \n💭·:*¨「Text here」¨*:·  \n💭·:*¨「Download Nexus Quest on Meta」¨*:·\n\n💬·:*¨「 Nexus Group 」¨*:· \n💭·:*¨「Nexus Support」¨*:· \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･ \n💬·:*¨「 ⚠️16+ DNI🚫 」¨*:·  \n💭·:*¨「Supporter 4 Group」¨*:·  \n🗯️･｡･「Lost in the sauce」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-01T14:17:08.963Z",
+      "installId": "ins_2b9539db-5bad-490a-a813-bb5eda792562",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -9072,6 +9209,9 @@
     "ins_a808371f-d0df-415e-805f-741edc5be9a1": [
       1785573218630,
       1785573523902
+    ],
+    "ins_2b9539db-5bad-490a-a813-bb5eda792562": [
+      1785593828963
     ]
   }
 }
