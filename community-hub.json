@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T14:17:08.963Z",
+  "updatedAt": "2026-08-01T14:28:21.605Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -9058,6 +9058,145 @@
       "publishedAt": "2026-08-01T14:17:08.963Z",
       "installId": "ins_2b9539db-5bad-490a-a813-bb5eda792562",
       "likedBy": []
+    },
+    {
+      "id": "preset-0cb06f2c-993b-4e02-a85e-4b92ae10c75f",
+      "type": "preset",
+      "name": "Vampires on.",
+      "author": "Anonymous",
+      "description": "Heartbroken want to have blood sad everytime",
+      "tags": [
+        "I love music i want "
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⚠",
+          "right": "⚠"
+        },
+        "customFrame": {
+          "top": "╔═💀══🎵🎙️🎶══💀═╗",
+          "bottom": "╚═🕸️══༒🕷️༒══🕸️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Supporter」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Text here  」¨*:·   \n💭·:*¨「Download Nexus On Meta」¨*:·  \n💭·:*¨「Text here」¨*:·\n\n💬·:*¨「 \"Name\" Group 」¨*:· \n💭·:*¨「Check Bio」¨*:· \n🗯️･｡･「 ⚠️Crystal Is Ass🤑  」･｡･ \n💬·:*¨「 ⚠️13+ IWC☢️  」¨*:·  \n💭·:*¨「Smile for the Pic」¨*:·  \n🗯️･｡･「Best Preset By G4Z」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-01T14:28:21.605Z",
+      "installId": "ins_74b5e64c-5c95-4aea-9d12-7585028e4864",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -9212,6 +9351,9 @@
     ],
     "ins_2b9539db-5bad-490a-a813-bb5eda792562": [
       1785593828963
+    ],
+    "ins_74b5e64c-5c95-4aea-9d12-7585028e4864": [
+      1785594501605
     ]
   }
 }
