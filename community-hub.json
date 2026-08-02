@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T02:19:19.785Z",
+  "updatedAt": "2026-08-02T06:23:11.451Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5229,7 +5229,8 @@
         "ins_0fcae655-4f7d-416b-8cf2-ea2146f8c883",
         "ins_7d5a8a85-a175-47c2-a04e-2a76b9ba4744",
         "ins_1e6f6079-c153-4a9e-ba62-3bc8341e114a",
-        "ins_07973189-ef6a-41ad-a650-16ad6b62c918"
+        "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
+        "ins_539b9892-06b3-4d0a-802d-781fbdbbcaaa"
       ]
     },
     {
@@ -6505,7 +6506,8 @@
       "likedBy": [
         "ins_c827a9c5-66b2-4e6c-9024-2ab6a7495b8e",
         "ins_8f2bdbc4-fd9b-4350-8209-e2cb6326ea5e",
-        "ins_40004c3e-77e3-4831-92dd-80432d4335ec"
+        "ins_40004c3e-77e3-4831-92dd-80432d4335ec",
+        "ins_48480933-13c6-46f1-b2bb-429acb0c2021"
       ]
     },
     {
@@ -7906,7 +7908,8 @@
         "ins_659105e8-8270-4193-8891-a3a84860c39c",
         "ins_aabf25d6-d1ae-4f47-ba9c-374bf797e38f",
         "ins_cf43b133-d902-442a-a240-9f62d542d1f7",
-        "ins_2d61fbed-cdff-410d-8cc6-34813437e8b7"
+        "ins_2d61fbed-cdff-410d-8cc6-34813437e8b7",
+        "ins_119f86a9-9a63-47c8-8707-17831dac2053"
       ]
     },
     {
@@ -8382,7 +8385,9 @@
       "installId": "ins_f8f79caf-da49-46af-b872-dd7558129353",
       "likedBy": [
         "ins_5b4350c8-3739-48ea-929c-0037779dcd63",
-        "ins_cc64c623-70e7-441b-9b74-3a182ff7dd63"
+        "ins_cc64c623-70e7-441b-9b74-3a182ff7dd63",
+        "ins_4c7b332b-6d90-4e72-99ba-59491fb22934",
+        "ins_ca688cd4-2ae3-44f5-944b-8f19663c4a45"
       ]
     },
     {
@@ -8926,7 +8931,8 @@
       "publishedAt": "2026-08-01T08:15:37.671Z",
       "installId": "ins_96b93890-e04f-493c-b893-d2d5c3880283",
       "likedBy": [
-        "ins_96b93890-e04f-493c-b893-d2d5c3880283"
+        "ins_96b93890-e04f-493c-b893-d2d5c3880283",
+        "ins_c5819bbc-bf69-47a5-b514-604ad46adbb5"
       ]
     },
     {
@@ -9064,7 +9070,9 @@
       "data": null,
       "publishedAt": "2026-08-01T14:17:08.963Z",
       "installId": "ins_2b9539db-5bad-490a-a813-bb5eda792562",
-      "likedBy": []
+      "likedBy": [
+        "ins_48480933-13c6-46f1-b2bb-429acb0c2021"
+      ]
     },
     {
       "id": "preset-0cb06f2c-993b-4e02-a85e-4b92ae10c75f",
@@ -9204,7 +9212,8 @@
       "publishedAt": "2026-08-01T14:28:21.605Z",
       "installId": "ins_74b5e64c-5c95-4aea-9d12-7585028e4864",
       "likedBy": [
-        "ins_8e473691-153c-4fbc-9503-c9534c2bb4d1"
+        "ins_8e473691-153c-4fbc-9503-c9534c2bb4d1",
+        "ins_48480933-13c6-46f1-b2bb-429acb0c2021"
       ]
     },
     {
@@ -9341,6 +9350,277 @@
         "ins_fd26704a-5365-49ab-bd98-2d388330f1bb",
         "ins_753d4d2a-0c05-41c5-ac8a-187fe59eb67c"
       ]
+    },
+    {
+      "id": "preset-c75b8d64-1ccc-4e91-a596-66bf2bbe3c55",
+      "type": "preset",
+      "name": "s0ul",
+      "author": "Anonymous",
+      "description": "hey",
+      "tags": [
+        ".."
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⚠",
+          "right": "⚠"
+        },
+        "customFrame": {
+          "top": "╔═💀══🎵🎙️🎶══💀═╗",
+          "bottom": "╚═🕸️══༒🕷️༒══🕸️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Supporter」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Text here  」¨*:·   \n💭·:*¨「Download Nexus On Meta」¨*:·  \n💭·:*¨「Text here」¨*:·\n\n💬·:*¨「 \"Name\" Group 」¨*:· \n💭·:*¨「Check Bio」¨*:· \n🗯️･｡･「 ⚠️Crystal Is Ass🤑  」･｡･ \n💬·:*¨「 ⚠️13+ IWC☢️  」¨*:·  \n💭·:*¨「Smile for the Pic」¨*:·  \n🗯️･｡･「Best Preset By G4Z」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          }
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US"
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-02T04:10:05.340Z",
+      "installId": "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
+      "likedBy": []
+    },
+    {
+      "id": "preset-ccab31f5-5378-49af-aac5-24833954fd63",
+      "type": "preset",
+      "name": "999",
+      "author": "Anonymous",
+      "description": "\"MY MERCY PRAIVAILS OVER MY WRATH\" \n\n\"WE FIGHT FOR OUR FUTURE WE DON'T FIGHT FOR REVENGE\" \"YOU KNOW THE ONLY THING THAT EVER MATTERS TO ME WAS LOYALTY\" \"EVEN IF IT SEEMS IMPOSSIBLE IT IS VERY VERY POSSIBLE\"(999)",
+      "tags": [
+        "#STONER #MUTE"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-02T04:11:32.090Z",
+      "installId": "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -9390,7 +9670,13 @@
       1785228753422
     ],
     "ins_0336caa1-1439-4cd0-b9b5-cc0317524a8b": [
-      1785235943404
+      1785639369250,
+      1785639408117,
+      1785639410098,
+      1785639411152,
+      1785639412507,
+      1785639414442,
+      1785639416917
     ],
     "ins_9d1c6677-6ac1-4a67-af5f-d838168ff2e6": [
       1785241068925
@@ -9431,7 +9717,7 @@
       1785348882854
     ],
     "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd": [
-      1785356085180
+      1785643892155
     ],
     "ins_0f39eb6e-5fcf-4fc7-aa84-91aa018e81d6": [
       1785357111885
@@ -9502,6 +9788,12 @@
     ],
     "ins_07973189-ef6a-41ad-a650-16ad6b62c918": [
       1785612266280
+    ],
+    "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463": [
+      1785642813540
+    ],
+    "ins_48480933-13c6-46f1-b2bb-429acb0c2021": [
+      1785643805532
     ]
   }
 }
