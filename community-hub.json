@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T09:17:59.789Z",
+  "updatedAt": "2026-08-02T10:21:43.527Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5229,7 +5229,9 @@
         "ins_0fcae655-4f7d-416b-8cf2-ea2146f8c883",
         "ins_7d5a8a85-a175-47c2-a04e-2a76b9ba4744",
         "ins_1e6f6079-c153-4a9e-ba62-3bc8341e114a",
-        "ins_07973189-ef6a-41ad-a650-16ad6b62c918"
+        "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
+        "ins_19ae16fa-c1b4-474d-8fcc-51d8480d2804",
+        "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463"
       ]
     },
     {
@@ -6231,7 +6233,8 @@
       "likedBy": [
         "ins_930504e2-a8b1-47ad-a383-9dd0c124c668",
         "ins_0b220e83-9024-4c14-9ddb-a47ad4428e70",
-        "ins_1e6f6079-c153-4a9e-ba62-3bc8341e114a"
+        "ins_1e6f6079-c153-4a9e-ba62-3bc8341e114a",
+        "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463"
       ]
     },
     {
@@ -9489,7 +9492,9 @@
       "data": null,
       "publishedAt": "2026-08-02T04:10:05.340Z",
       "installId": "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
-      "likedBy": []
+      "likedBy": [
+        "ins_67c0b03c-0fcd-4e17-97cf-800e8bc4ccf1"
+      ]
     },
     {
       "id": "preset-ccab31f5-5378-49af-aac5-24833954fd63",
@@ -9766,6 +9771,140 @@
       "publishedAt": "2026-08-02T08:29:58.939Z",
       "installId": "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f",
       "likedBy": []
+    },
+    {
+      "id": "preset-965b89d1-ac18-47a3-9338-7f77abd63fc4",
+      "type": "preset",
+      "name": "Prepa yumii",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [
+        "Chill"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "💋•",
+          "right": "•💯"
+        },
+        "customFrame": {
+          "top": "🔱━━━━━━🔱",
+          "bottom": "⚡━━━━━━⚡"
+        },
+        "inline": {
+          "afk": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "💫quest 3S💫\n\n🤭timide🤭\n\n🤫selective mute🤫\n\n🥰intersexe🥰\n\n📄lisais les bio📄",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": -7.0877,
+          "lon": 109.2894,
+          "place": "Ca, ID"
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-02T10:21:43.527Z",
+      "installId": "ins_e3f7c6b8-3d31-4c03-a64f-5c09248e8992",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -9948,6 +10087,9 @@
     ],
     "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f": [
       1785659398952
+    ],
+    "ins_e3f7c6b8-3d31-4c03-a64f-5c09248e8992": [
+      1785666104108
     ]
   }
 }
