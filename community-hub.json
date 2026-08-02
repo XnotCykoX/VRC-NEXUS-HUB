@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T18:19:36.323Z",
+  "updatedAt": "2026-08-02T20:26:46.892Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5231,7 +5231,8 @@
         "ins_1e6f6079-c153-4a9e-ba62-3bc8341e114a",
         "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
         "ins_19ae16fa-c1b4-474d-8fcc-51d8480d2804",
-        "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463"
+        "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463",
+        "ins_b0bd5620-0bc2-4af1-b2e6-4f35c843840f"
       ]
     },
     {
@@ -5516,7 +5517,8 @@
       "installId": "ins_ae12ddec-fba1-486a-a2c2-726f9731acd5",
       "likedBy": [
         "ins_b2d02025-ae23-4ae8-8f92-b1d6f725486f",
-        "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a"
+        "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a",
+        "ins_dad1110a-8705-4496-ad7d-d5d0dcdbbee8"
       ]
     },
     {
@@ -7187,7 +7189,8 @@
         "ins_4f034463-0e16-4ac8-8a61-3a05840c0daf",
         "ins_c3fb667b-7a50-4077-b199-3198c2b88d10",
         "ins_d95c6051-6d00-4851-af34-0467abbcb683",
-        "ins_96ffc9e4-066b-4233-bace-b3e22e5d11f9"
+        "ins_96ffc9e4-066b-4233-bace-b3e22e5d11f9",
+        "ins_8ba974ee-6aaf-4547-90ff-2b84e469d5b9"
       ]
     },
     {
@@ -9221,7 +9224,8 @@
       "installId": "ins_74b5e64c-5c95-4aea-9d12-7585028e4864",
       "likedBy": [
         "ins_8e473691-153c-4fbc-9503-c9534c2bb4d1",
-        "ins_48480933-13c6-46f1-b2bb-429acb0c2021"
+        "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
+        "ins_45673bef-86d7-4c5c-9870-04a3bd38fdd7"
       ]
     },
     {
@@ -9632,7 +9636,8 @@
       "publishedAt": "2026-08-02T04:11:32.090Z",
       "installId": "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
       "likedBy": [
-        "ins_94c1f015-065d-4962-823a-60ede9fd05e6"
+        "ins_94c1f015-065d-4962-823a-60ede9fd05e6",
+        "ins_42d23779-baf9-437a-997c-b3a600cfe83d"
       ]
     },
     {
@@ -9777,7 +9782,9 @@
       "data": null,
       "publishedAt": "2026-08-02T08:29:58.939Z",
       "installId": "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f",
-      "likedBy": []
+      "likedBy": [
+        "ins_fad89578-e9e6-4237-a598-41941d798bb3"
+      ]
     },
     {
       "id": "preset-965b89d1-ac18-47a3-9338-7f77abd63fc4",
@@ -10202,6 +10209,152 @@
       "publishedAt": "2026-08-02T17:45:26.993Z",
       "installId": "ins_ce0afcfd-5a1c-41c8-9259-eb74968ad2c0",
       "likedBy": []
+    },
+    {
+      "id": "preset-c5577406-5aae-4f66-bc91-01c77980ac9f",
+      "type": "preset",
+      "name": "Melod-ink",
+      "author": "Melo",
+      "description": "Motm is the best comic",
+      "tags": [
+        "Cuphead"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-02T18:40:31.929Z",
+      "installId": "ins_82767e69-8160-4f06-bc92-39e8be1b8c51",
+      "likedBy": [
+        "ins_82767e69-8160-4f06-bc92-39e8be1b8c51"
+      ]
     }
   ],
   "publishLog": {
@@ -10400,6 +10553,9 @@
     "ins_e0723d15-c57f-4835-93c8-28c23cb25f79": [
       1785693751068,
       1785693792388
+    ],
+    "ins_82767e69-8160-4f06-bc92-39e8be1b8c51": [
+      1785696032221
     ]
   }
 }
