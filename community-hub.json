@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T21:17:05.837Z",
+  "updatedAt": "2026-08-03T02:26:14.934Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -1080,7 +1080,8 @@
         "ins_5cff0549-13e6-4ee8-a277-235934a6dfff",
         "ins_37330f5e-d4cd-428d-b794-14e743e10831",
         "ins_525d8d51-a649-4ecd-a63d-ee89fb86349b",
-        "ins_fd26704a-5365-49ab-bd98-2d388330f1bb"
+        "ins_fd26704a-5365-49ab-bd98-2d388330f1bb",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
     },
     {
@@ -1207,7 +1208,8 @@
         "ins_549b5b99-85d6-452c-9512-c5242900753f",
         "ins_e6f48439-c89a-47aa-a623-e6363756c5a2",
         "ins_5df09e3a-59cf-423d-9c1f-ec7ffa188b18",
-        "ins_426e8dff-7fbe-4773-b6e1-d8186b749eb0"
+        "ins_426e8dff-7fbe-4773-b6e1-d8186b749eb0",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
     },
     {
@@ -7359,7 +7361,9 @@
       "data": null,
       "publishedAt": "2026-07-29T20:26:30.463Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
-      "likedBy": []
+      "likedBy": [
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
+      ]
     },
     {
       "id": "preset-23444c02-9b92-49be-a1d5-468ff299c895",
@@ -7917,7 +7921,10 @@
         "ins_2d61fbed-cdff-410d-8cc6-34813437e8b7",
         "ins_119f86a9-9a63-47c8-8707-17831dac2053",
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
-        "ins_b39f4ad8-015a-4c1d-a6ee-ec27ff852019"
+        "ins_b39f4ad8-015a-4c1d-a6ee-ec27ff852019",
+        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
+        "ins_22e76dd2-259f-49e0-8e15-3bb230f892b4",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
     },
     {
@@ -8065,7 +8072,10 @@
         "ins_525d8d51-a649-4ecd-a63d-ee89fb86349b",
         "ins_e78111de-9f36-4915-9341-51e644c22204",
         "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
-        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
+        "ins_4d201774-9a42-4142-8e1b-ce81e4be602e",
+        "ins_6403ce18-549c-4158-bcdf-547beedc77c9"
       ]
     },
     {
@@ -8204,7 +8214,8 @@
       "publishedAt": "2026-07-30T18:34:47.853Z",
       "installId": "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be",
       "likedBy": [
-        "ins_659105e8-8270-4193-8891-a3a84860c39c"
+        "ins_659105e8-8270-4193-8891-a3a84860c39c",
+        "ins_b8dade55-82fc-c3c5-6d38-dd023da6b2f2"
       ]
     },
     {
@@ -8399,7 +8410,8 @@
         "ins_cc64c623-70e7-441b-9b74-3a182ff7dd63",
         "ins_4c7b332b-6d90-4e72-99ba-59491fb22934",
         "ins_ca688cd4-2ae3-44f5-944b-8f19663c4a45",
-        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b"
       ]
     },
     {
@@ -8803,7 +8815,9 @@
       "data": null,
       "publishedAt": "2026-08-01T04:24:53.339Z",
       "installId": "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a",
-      "likedBy": []
+      "likedBy": [
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b"
+      ]
     },
     {
       "id": "preset-8e957551-9905-4b0a-9064-c39911ea6737",
@@ -8943,7 +8957,8 @@
       "publishedAt": "2026-08-01T08:15:37.671Z",
       "installId": "ins_96b93890-e04f-493c-b893-d2d5c3880283",
       "likedBy": [
-        "ins_96b93890-e04f-493c-b893-d2d5c3880283"
+        "ins_96b93890-e04f-493c-b893-d2d5c3880283",
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b"
       ]
     },
     {
@@ -9082,7 +9097,8 @@
       "publishedAt": "2026-08-01T14:17:08.963Z",
       "installId": "ins_2b9539db-5bad-490a-a813-bb5eda792562",
       "likedBy": [
-        "ins_48480933-13c6-46f1-b2bb-429acb0c2021"
+        "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b"
       ]
     },
     {
@@ -9360,7 +9376,9 @@
       "installId": "ins_74b5e64c-5c95-4aea-9d12-7585028e4864",
       "likedBy": [
         "ins_fd26704a-5365-49ab-bd98-2d388330f1bb",
-        "ins_753d4d2a-0c05-41c5-ac8a-187fe59eb67c"
+        "ins_753d4d2a-0c05-41c5-ac8a-187fe59eb67c",
+        "ins_e0723d15-c57f-4835-93c8-28c23cb25f79",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
     },
     {
@@ -9637,7 +9655,10 @@
       "installId": "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
       "likedBy": [
         "ins_94c1f015-065d-4962-823a-60ede9fd05e6",
-        "ins_42d23779-baf9-437a-997c-b3a600cfe83d"
+        "ins_42d23779-baf9-437a-997c-b3a600cfe83d",
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b",
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
+        "ins_ae806d71-e294-4ec3-84a7-da23f0be3a25"
       ]
     },
     {
@@ -10064,7 +10085,9 @@
       "data": null,
       "publishedAt": "2026-08-02T10:51:12.485Z",
       "installId": "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749",
-      "likedBy": []
+      "likedBy": [
+        "ins_23e212ef-729a-481e-834e-e795ae6322fa"
+      ]
     },
     {
       "id": "preset-ce8c7a7f-2e11-4909-82a7-784e56307e26",
@@ -10209,7 +10232,8 @@
       "publishedAt": "2026-08-02T17:45:26.993Z",
       "installId": "ins_ce0afcfd-5a1c-41c8-9259-eb74968ad2c0",
       "likedBy": [
-        "ins_e0723d15-c57f-4835-93c8-28c23cb25f79"
+        "ins_e0723d15-c57f-4835-93c8-28c23cb25f79",
+        "ins_16662899-8fb3-4e5d-9e6c-0389b0602446"
       ]
     },
     {
@@ -10356,7 +10380,450 @@
       "installId": "ins_82767e69-8160-4f06-bc92-39e8be1b8c51",
       "likedBy": [
         "ins_82767e69-8160-4f06-bc92-39e8be1b8c51",
-        "ins_0d67c1d1-7c21-4bfa-94d6-921c760b8e9d"
+        "ins_0d67c1d1-7c21-4bfa-94d6-921c760b8e9d",
+        "ins_a04e09b2-6f4d-462b-b9d7-0bf39b2dd566"
+      ]
+    },
+    {
+      "id": "preset-aeba8c67-15e1-4245-85c9-36acebb2c33e",
+      "type": "preset",
+      "name": "Just random stuff",
+      "author": "Burnt",
+      "description": "Just for fun",
+      "tags": [
+        "#Random"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "weather",
+          "lyrics",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "media",
+          "uptime",
+          "date",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": false,
+          "lyrics": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Why have you foresaken me?\nLove getting high smoking d0pe\nMusic is always on\n",
+          "cycle": true,
+          "intervalSec": 20,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Kentucky",
+          "fahrenheit": true,
+          "lat": -30.76143,
+          "lon": 151.44888,
+          "place": "Kentucky, AU",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T00:14:33.511Z",
+      "installId": "ins_98cfa35e-59fd-4762-a1a5-2f3f16bb9037",
+      "likedBy": [
+        "ins_a04e09b2-6f4d-462b-b9d7-0bf39b2dd566",
+        "ins_6403ce18-549c-4158-bcdf-547beedc77c9"
+      ]
+    },
+    {
+      "id": "preset-92142cb4-3d7f-4669-a051-c5001d7316e5",
+      "type": "preset",
+      "name": "Wxrstt",
+      "author": "Im Yalls Daddy",
+      "description": "I Love Music\nLUVRAVEN is day 1\nIM YALLS DADDY",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "💋•",
+          "right": "•💯"
+        },
+        "customFrame": {
+          "top": "🔱━━━━━━🔱",
+          "bottom": "⚡━━━━━━⚡"
+        },
+        "inline": {
+          "afk": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "💫quest 3S💫\n\n🤭timide🤭\n\n🤫selective mute🤫\n\n🥰intersexe🥰\n\n📄lisais les bio📄",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": -7.0877,
+          "lon": 109.2894,
+          "place": "Ca, ID",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T00:30:34.459Z",
+      "installId": "ins_5069703e-ffb5-4ad6-9963-bc6dab6979fc",
+      "likedBy": []
+    },
+    {
+      "id": "preset-1a984160-4f09-47ec-a839-56f2dd223d44",
+      "type": "preset",
+      "name": "Dojovr",
+      "author": "dojowhoplays25",
+      "description": "im chill",
+      "tags": [
+        "sigma"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "💋•",
+          "right": "•💯"
+        },
+        "customFrame": {
+          "top": "🔱━━━━━━🔱",
+          "bottom": "⚡━━━━━━⚡"
+        },
+        "inline": {
+          "afk": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "💫quest 3S💫\n\n🤭timide🤭\n\n🤫selective mute🤫\n\n🥰intersexe🥰\n\n📄lisais les bio📄",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": -7.0877,
+          "lon": 109.2894,
+          "place": "Ca, ID",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T00:44:45.921Z",
+      "installId": "ins_620e4f4a-3d0d-4fea-88f5-b0b8b69fb9ff",
+      "likedBy": [
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
     }
   ],
@@ -10559,6 +11026,15 @@
     ],
     "ins_82767e69-8160-4f06-bc92-39e8be1b8c51": [
       1785696032221
+    ],
+    "ins_98cfa35e-59fd-4762-a1a5-2f3f16bb9037": [
+      1785716073578
+    ],
+    "ins_5069703e-ffb5-4ad6-9963-bc6dab6979fc": [
+      1785717034478
+    ],
+    "ins_620e4f4a-3d0d-4fea-88f5-b0b8b69fb9ff": [
+      1785717886216
     ]
   }
 }
