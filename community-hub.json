@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T05:21:27.906Z",
+  "updatedAt": "2026-08-03T05:22:07.459Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -10828,6 +10828,150 @@
       "likedBy": [
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
       ]
+    },
+    {
+      "id": "preset-e4255b3b-1af2-486c-b9c2-62a4100dd018",
+      "type": "preset",
+      "name": "Bigdaddyjah",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "uptime",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "hearts",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "·:*¨「 Eat the dick n balls」¨*:· \n·:*¨「 my dih hurt」¨*:· \n･｡･[ 💀 Cuddle Me ?👀  ]･｡･ \n༺「 Quest Nigga」༻  \n༺ ♱「 Spot me 20$ 」♱ ༻ \n༺「 ⚠️ 18+ - DNI 🚫 」༻ \n༺ ♱「 A Freak 」♱ ༻\n༺ ♱「 PhantomSenser 」♱ ༻\n༺ ♱「 😝 Socks On 🤪 」♱ ༻\n༺ ♱「 420 Friendly  」♱ ༻\n༺ ♱「 Pornhub.com 」♱ ༻\n༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n༺ ♱「 Pornhub.com」♱ ༻\n ༺ ♱「 Gooner」♱ ༻\n༺ ♱「 myreadingmanga.info」♱ ༻",
+          "cycle": true,
+          "intervalSec": 4,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 5,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "New York ",
+          "fahrenheit": true,
+          "lat": 40.71427,
+          "lon": -74.00597,
+          "place": "New York, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "",
+          "h24": true,
+          "seconds": true,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": false,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T05:22:07.459Z",
+      "installId": "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -11041,6 +11185,9 @@
     ],
     "ins_3bd4fbae-a4a6-42d4-9b96-0b1aab91c2e7": [
       1785726770841
+    ],
+    "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8": [
+      1785734527497
     ]
   }
 }
