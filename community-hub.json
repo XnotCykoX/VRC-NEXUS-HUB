@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T15:27:50.830Z",
+  "updatedAt": "2026-08-03T18:18:17.693Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5235,7 +5235,8 @@
         "ins_19ae16fa-c1b4-474d-8fcc-51d8480d2804",
         "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463",
         "ins_b0bd5620-0bc2-4af1-b2e6-4f35c843840f",
-        "ins_3691582d-37b2-437d-adbf-16cc00e188ee"
+        "ins_3691582d-37b2-437d-adbf-16cc00e188ee",
+        "ins_82041d34-e2d2-486d-8f9d-e9cc9398b524"
       ]
     },
     {
@@ -5387,7 +5388,8 @@
       "installId": "ins_a63d92ef-d33e-464d-a971-6214e6eb24ec",
       "likedBy": [
         "ins_9f97d7a5-c64d-4dec-8b92-065b2a40deab",
-        "ins_37dcb416-d068-4654-a656-cbbeb81c32e7"
+        "ins_37dcb416-d068-4654-a656-cbbeb81c32e7",
+        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1"
       ]
     },
     {
@@ -7928,7 +7930,8 @@
         "ins_22e76dd2-259f-49e0-8e15-3bb230f892b4",
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_2bee09d3-f187-40ee-8c59-0faa1e3fee3a",
-        "ins_066e8a91-5a08-4ee0-856c-87bf270676d5"
+        "ins_066e8a91-5a08-4ee0-856c-87bf270676d5",
+        "ins_b9f8ebcf-fab6-4c61-8a0a-103f66ee4657"
       ]
     },
     {
@@ -8271,7 +8274,8 @@
       "installId": "ins_f8f79caf-da49-46af-b872-dd7558129353",
       "likedBy": [
         "ins_9d6b2097-c89f-4a93-8e5a-aea5a3c25c98",
-        "ins_e92d6035-c611-4772-8267-be67009de910"
+        "ins_e92d6035-c611-4772-8267-be67009de910",
+        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1"
       ]
     },
     {
@@ -9102,7 +9106,8 @@
       "installId": "ins_2b9539db-5bad-490a-a813-bb5eda792562",
       "likedBy": [
         "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
-        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b"
+        "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b",
+        "ins_48925ab4-0d8f-49fc-a10e-f8de955458ec"
       ]
     },
     {
@@ -11726,7 +11731,9 @@
       "publishedAt": "2026-08-03T13:38:12.642Z",
       "installId": "ins_31e342df-eb0d-4ef2-8cec-7c225295fd8e",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_48925ab4-0d8f-49fc-a10e-f8de955458ec"
+      ]
     },
     {
       "id": "preset-440b7215-30e3-4086-aada-c665b7cc8018",
@@ -11875,6 +11882,159 @@
       "likedBy": [
         "ins_0737b626-7092-48da-9bbe-a7efeccff21f"
       ]
+    },
+    {
+      "id": "preset-c22564c4-d76f-461e-88a4-3dfea25b4d16",
+      "type": "preset",
+      "name": "from scrach.",
+      "author": "midnightfangs",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": true,
+          "showLow": true
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T15:45:56.463Z",
+      "installId": "ins_1f103af0-5c29-4bf8-b848-e055da574e5e",
+      "ownerUserId": "usr_190d0dbf-65dd-451d-a0a1-93f4500c6dfc",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -11948,8 +12108,7 @@
       1785314094285
     ],
     "ins_1f103af0-5c29-4bf8-b848-e055da574e5e": [
-      1785318141336,
-      1785324954835
+      1785771956567
     ],
     "ins_58b665a7-2585-6c29-2ece-c7d87f11d658": [
       1785323815930
@@ -12108,6 +12267,9 @@
     ],
     "ins_a1b60b90-9a58-42e4-a4c7-ca9117d870b9": [
       1785765127526
+    ],
+    "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b": [
+      1785779492243
     ]
   }
 }
