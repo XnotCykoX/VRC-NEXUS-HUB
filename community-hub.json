@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T05:23:11.475Z",
+  "updatedAt": "2026-08-03T07:18:02.218Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7924,7 +7924,8 @@
         "ins_b39f4ad8-015a-4c1d-a6ee-ec27ff852019",
         "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
         "ins_22e76dd2-259f-49e0-8e15-3bb230f892b4",
-        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
+        "ins_2bee09d3-f187-40ee-8c59-0faa1e3fee3a"
       ]
     },
     {
@@ -9659,7 +9660,8 @@
         "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b",
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_ae806d71-e294-4ec3-84a7-da23f0be3a25",
-        "ins_91fd20ea-f01d-4d73-9953-a52b1368b9f3"
+        "ins_91fd20ea-f01d-4d73-9953-a52b1368b9f3",
+        "ins_2546ace6-7a36-4fd1-8982-c27a86e6f0bb"
       ]
     },
     {
@@ -10679,7 +10681,9 @@
       "data": null,
       "publishedAt": "2026-08-03T00:30:34.459Z",
       "installId": "ins_5069703e-ffb5-4ad6-9963-bc6dab6979fc",
-      "likedBy": []
+      "likedBy": [
+        "ins_2ce14629-6f7b-4bce-9781-b46226d5b6d5"
+      ]
     },
     {
       "id": "preset-1a984160-4f09-47ec-a839-56f2dd223d44",
@@ -10971,7 +10975,9 @@
       "data": null,
       "publishedAt": "2026-08-03T05:22:07.459Z",
       "installId": "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8",
-      "likedBy": []
+      "likedBy": [
+        "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8"
+      ]
     },
     {
       "id": "preset-f9c12efe-ab17-4cad-90c4-baa6a30cf7de",
@@ -11115,6 +11121,154 @@
       "data": null,
       "publishedAt": "2026-08-03T05:23:11.475Z",
       "installId": "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8",
+      "likedBy": [
+        "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8",
+        "ins_a2d2ec4c-4256-4b44-baa2-9dc806e9f416"
+      ]
+    },
+    {
+      "id": "preset-e99f56dc-fa8f-4401-b020-f35161377a57",
+      "type": "preset",
+      "name": "My personal chatbox",
+      "author": "Exotic2cute",
+      "description": "Top bar represents my 3 sonas & bottom bar represents my hobbies",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════🐮🦨🤖🤎════╗",
+          "bottom": "╚════💤🎮🎨🎵════╝"
+        },
+        "inline": {
+          "battery": false,
+          "time": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "I <3 MonsterGal!!! :3\nFeel free to say hii!",
+          "cycle": true,
+          "intervalSec": 15,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "😴"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "♥",
+            "empty": "♡",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": "1156717851231653918"
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "🏜️",
+          "city": "Mesa",
+          "fahrenheit": true,
+          "lat": 33.42227,
+          "lon": -111.82264,
+          "place": "Mesa, Arizona, US",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": false,
+          "lyrics": false,
+          "weather": true,
+          "time": false,
+          "date": false,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T05:56:01.657Z",
+      "installId": "ins_d68abd78-721b-411c-a9eb-db2f26a743f7",
       "likedBy": []
     }
   ],
@@ -11333,6 +11487,9 @@
     "ins_776c4d5c-0e33-4a5b-9afa-74b3c82b5ee8": [
       1785734527497,
       1785734591710
+    ],
+    "ins_d68abd78-721b-411c-a9eb-db2f26a743f7": [
+      1785736561878
     ]
   }
 }
