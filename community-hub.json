@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T09:22:32.747Z",
+  "updatedAt": "2026-08-03T15:27:50.830Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -9382,7 +9382,8 @@
         "ins_fd26704a-5365-49ab-bd98-2d388330f1bb",
         "ins_753d4d2a-0c05-41c5-ac8a-187fe59eb67c",
         "ins_e0723d15-c57f-4835-93c8-28c23cb25f79",
-        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
+        "ins_f7cea970-b47b-42ae-859c-fbed1a61e951"
       ]
     },
     {
@@ -11276,7 +11277,603 @@
       "publishedAt": "2026-08-03T05:56:01.657Z",
       "installId": "ins_d68abd78-721b-411c-a9eb-db2f26a743f7",
       "likedBy": [
-        "ins_ddc2450b-4656-4307-b1e9-b04e8d663abb"
+        "ins_ddc2450b-4656-4307-b1e9-b04e8d663abb",
+        "ins_67c6c043-0081-42c2-83c6-563da2dd3189"
+      ]
+    },
+    {
+      "id": "preset-cb8467bf-d5c9-4639-91a0-674b7080b106",
+      "type": "preset",
+      "name": "arial",
+      "author": "THESL33PyONE",
+      "description": "Sleepy half the time and loves drawing",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "💋•",
+          "right": "•💯"
+        },
+        "customFrame": {
+          "top": "🔱━━━━━━🔱",
+          "bottom": "⚡━━━━━━⚡"
+        },
+        "inline": {
+          "afk": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "💫quest 3S💫\n\n🤭timide🤭\n\n🤫selective mute🤫\n\n🥰intersexe🥰\n\n📄lisais les bio📄",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": -7.0877,
+          "lon": 109.2894,
+          "place": "Ca, ID",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T12:44:08.175Z",
+      "installId": "ins_6b842d6e-6452-4f52-a620-950800667be9",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_6b842d6e-6452-4f52-a620-950800667be9",
+        "ins_9fa631c3-74fc-42db-b73f-8ab64c045572"
+      ]
+    },
+    {
+      "id": "preset-4e294fee-d14b-49b1-8a7e-50d8604a42c0",
+      "type": "preset",
+      "name": "arial",
+      "author": "THESL33PyONE",
+      "description": "Loves to draw and sleepy",
+      "tags": [
+        "sleepy"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⚠",
+          "right": "⚠"
+        },
+        "customFrame": {
+          "top": "╔═💀══🎵🎙️🎶══💀═╗",
+          "bottom": "╚═🕸️══༒🕷️༒══🕸️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Supporter」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Text here  」¨*:·   \n💭·:*¨「Download Nexus On Meta」¨*:·  \n💭·:*¨「Text here」¨*:·\n\n💬·:*¨「 \"Name\" Group 」¨*:· \n💭·:*¨「Check Bio」¨*:· \n🗯️･｡･「 ⚠️Crystal Is Ass🤑  」･｡･ \n💬·:*¨「 ⚠️13+ IWC☢️  」¨*:·  \n💭·:*¨「Smile for the Pic」¨*:·  \n🗯️･｡･「Best Preset By G4Z」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T12:58:28.998Z",
+      "installId": "ins_6b842d6e-6452-4f52-a620-950800667be9",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-7c58b275-60f8-4e05-891a-915f3f95b510",
+      "type": "preset",
+      "name": "monkeypro111 bitch",
+      "author": "Ill stab you ni",
+      "description": "I throw rocks at kids and porn is love i hate kids",
+      "tags": [
+        "Haha bitch"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "uptime",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "hearts",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗═════╝"
+        },
+        "inline": {
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "·:*¨「 Eat the dick n balls」¨*:· \n·:*¨「 my dih hurt」¨*:· \n･｡･[ 💀 Cuddle Me ?👀  ]･｡･ \n༺「 Quest Nigga」༻  \n༺ ♱「 Spot me 20$ 」♱ ༻ \n༺「 ⚠️ 18+ - DNI 🚫 」༻ \n༺ ♱「 A Freak 」♱ ༻\n༺ ♱「 PhantomSenser 」♱ ༻\n༺ ♱「 😝 Socks On 🤪 」♱ ༻\n༺ ♱「 420 Friendly  」♱ ༻\n༺ ♱「 Pornhub.com 」♱ ༻\n༺ ♱「 👁️‍🗨️Pdf Catcher 🗿」♱ ༻\n༺ ♱「 Pornhub.com」♱ ༻\n ༺ ♱「 Gooner」♱ ༻\n༺ ♱「 myreadingmanga.info」♱ ༻",
+          "cycle": true,
+          "intervalSec": 4,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 5,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "New York ",
+          "fahrenheit": true,
+          "lat": 40.71427,
+          "lon": -74.00597,
+          "place": "New York, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "",
+          "h24": true,
+          "seconds": true,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "time": true,
+          "date": true,
+          "uptime": false,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T13:38:12.642Z",
+      "installId": "ins_31e342df-eb0d-4ef2-8cec-7c225295fd8e",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-440b7215-30e3-4086-aada-c665b7cc8018",
+      "type": "preset",
+      "name": "Merka Preset",
+      "author": "Ak",
+      "description": "dont use",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "》",
+          "right": "《"
+        },
+        "customFrame": {
+          "top": "╔═⚠️══》☢《══⚠️═╗",
+          "bottom": "╚═⚠️══》∞《══⚠️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Is the best」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Alway's Free to Support  」¨*:·   \n💭·:*¨「Text here」¨*:·  \n💭·:*¨「Download Nexus Quest on Meta」¨*:·\n\n💬·:*¨「 Nexus Group 」¨*:· \n💭·:*¨「Nexus Support」¨*:· \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･ \n💬·:*¨「 ⚠️16+ DNI🚫 」¨*:·  \n💭·:*¨「Supporter 4 Group」¨*:·  \n🗯️･｡･「Lost in the sauce」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          },
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto"
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-03T13:52:07.453Z",
+      "installId": "ins_a1b60b90-9a58-42e4-a4c7-ca9117d870b9",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_0737b626-7092-48da-9bbe-a7efeccff21f"
       ]
     }
   ],
@@ -11498,6 +12095,19 @@
     ],
     "ins_d68abd78-721b-411c-a9eb-db2f26a743f7": [
       1785736561878
+    ],
+    "ins_a6afcbd8-ec09-4cfb-beb6-3df704062ace": [
+      1785758027574
+    ],
+    "ins_6b842d6e-6452-4f52-a620-950800667be9": [
+      1785761048245,
+      1785761909033
+    ],
+    "ins_31e342df-eb0d-4ef2-8cec-7c225295fd8e": [
+      1785764292759
+    ],
+    "ins_a1b60b90-9a58-42e4-a4c7-ca9117d870b9": [
+      1785765127526
     ]
   }
 }
