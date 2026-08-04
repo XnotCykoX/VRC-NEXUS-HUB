@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T00:24:20.437Z",
+  "updatedAt": "2026-08-04T01:25:32.712Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7369,7 +7369,8 @@
       "publishedAt": "2026-07-29T20:26:30.463Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
       "likedBy": [
-        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9"
+        "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
       ]
     },
     {
@@ -7503,7 +7504,9 @@
       "data": null,
       "publishedAt": "2026-07-29T20:31:51.885Z",
       "installId": "ins_0f39eb6e-5fcf-4fc7-aa84-91aa018e81d6",
-      "likedBy": []
+      "likedBy": [
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
+      ]
     },
     {
       "id": "preset-6a9baf6b-bc48-445e-a8c8-dc18e67570de",
@@ -7777,7 +7780,8 @@
       "likedBy": [
         "ins_b6c56c22-d5ed-4de7-992e-b277dcb6ec78",
         "ins_40004c3e-77e3-4831-92dd-80432d4335ec",
-        "ins_659105e8-8270-4193-8891-a3a84860c39c"
+        "ins_659105e8-8270-4193-8891-a3a84860c39c",
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
       ]
     },
     {
@@ -9393,7 +9397,8 @@
         "ins_753d4d2a-0c05-41c5-ac8a-187fe59eb67c",
         "ins_e0723d15-c57f-4835-93c8-28c23cb25f79",
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
-        "ins_f7cea970-b47b-42ae-859c-fbed1a61e951"
+        "ins_f7cea970-b47b-42ae-859c-fbed1a61e951",
+        "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7"
       ]
     },
     {
@@ -10254,7 +10259,8 @@
       "likedBy": [
         "ins_e0723d15-c57f-4835-93c8-28c23cb25f79",
         "ins_16662899-8fb3-4e5d-9e6c-0389b0602446",
-        "ins_674dc80f-a6b5-46eb-b299-1f81e5cbd32a"
+        "ins_674dc80f-a6b5-46eb-b299-1f81e5cbd32a",
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
       ]
     },
     {
@@ -12205,7 +12211,8 @@
       "installId": "ins_a6328f94-dd12-4a5e-b280-aa443b277b16",
       "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
       "likedBy": [
-        "ins_892b335e-7093-44a4-98b1-f60a68fa033c"
+        "ins_892b335e-7093-44a4-98b1-f60a68fa033c",
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
       ]
     },
     {
@@ -12359,9 +12366,7 @@
       "publishedAt": "2026-08-03T19:09:19.625Z",
       "installId": "ins_1f103af0-5c29-4bf8-b848-e055da574e5e",
       "ownerUserId": "usr_190d0dbf-65dd-451d-a0a1-93f4500c6dfc",
-      "likedBy": [
-        "ins_edb44cbb-3baa-4584-aaaf-8468df9feb9a"
-      ]
+      "likedBy": []
     },
     {
       "id": "sharepack-52974f37-dfc6-468b-87ce-3a8a7c4f9d93",
@@ -12712,6 +12717,578 @@
       "likedBy": [
         "ins_c0c24a27-ff4c-40eb-91a8-f8411bc4ce17"
       ]
+    },
+    {
+      "id": "preset-b4029e55-123d-4292-9ecd-d51cd4f2b37a",
+      "type": "preset",
+      "name": "Asmo",
+      "author": "Auuzy",
+      "description": "I'm 20 n I'm chill",
+      "tags": [
+        "Whats the word gng"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "pipe",
+        "frame": "stars",
+        "border": "stars",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬Hi",
+          "statuses": "I'm 20\n\n",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": true,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": true,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": true,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵mu",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "♥",
+            "empty": "♡",
+            "head": ""
+          },
+          "barNewline": true,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "nowhere zone",
+          "fahrenheit": true,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": true,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": true
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T00:52:23.007Z",
+      "installId": "ins_24d31863-0861-4679-a61b-92401de99154",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-59049965-311d-401f-a4f3-2104000bec29",
+      "type": "preset",
+      "name": "xbdndm",
+      "author": "Anonymous",
+      "description": "nsnssn",
+      "tags": [
+        "hsshs"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "⚠",
+          "right": "⚠"
+        },
+        "customFrame": {
+          "top": "╔═💀══🎵🎙️🎶══💀═╗",
+          "bottom": "╚═🕸️══༒🕷️༒══🕸️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Text here  」¨*:·   \n💭·:*¨「Download Nexus On Meta」¨*:·  \n💭·:*¨「Text here」¨*:·\n\n💬·:*¨「 \"Name\" Group 」¨*:· \n💭·:*¨「Check Bio」¨*:· \n🗯️･｡･「 ⚠️Crystal Is Ass🤑  」･｡･ \n💬·:*¨「 ⚠️13+ IWC☢️  」¨*:·  \n💭·:*¨「Smile for the Pic」¨*:·  \n🗯️･｡･「Best Preset By G4Z」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T00:57:19.776Z",
+      "installId": "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-77cc2532-7eb0-434e-a5cc-d6d079d1e716",
+      "type": "preset",
+      "name": "Puppy",
+      "author": "Anonymous",
+      "description": "puppy",
+      "tags": [
+        "puppy"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "🦮",
+          "right": "🦮"
+        },
+        "customFrame": {
+          "top": "🦮---------------🦮",
+          "bottom": "🦮---------------🦮"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "🦮",
+          "statuses": "I'm a puppy. Feel free to pet me. \nMost likely sleeping honestly.\nI'm a minor. 16\n🦴🦮WOOF🦮🦴\n🦴🦮mute, wont use chat box🦮🦴 ",
+          "cycle": true,
+          "intervalSec": 9,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "💤"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "Song",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "TX🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true
+        },
+        "date": {
+          "on": false,
+          "emoji": "TD📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "TX🕔"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "VR🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "time": false,
+          "date": false,
+          "uptime": false,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T00:57:59.067Z",
+      "installId": "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-646fcd01-1dbc-42ed-a847-9d8bd698c150",
+      "type": "preset",
+      "name": "HELLDIVER COMMS",
+      "author": "Anonymous",
+      "description": "Helldiver comms",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "time",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "waves",
+        "border": "hearts",
+        "customBorder": {
+          "left": "✡",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "BLACK COMMS= SHUT THE FUCK UP AND MUTE YOUR MIC\nRED COMMS= HAND UP PERMISSION TO SPEAK\nORANGE COMMS= TALK BUT VERY MINIMAL\nGREEN COMMS= YOU MAY SPEAK FREELY.\n",
+          "cycle": true,
+          "intervalSec": 9,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "💤"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "Song",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          }
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": ""
+        },
+        "time": {
+          "on": true,
+          "emoji": "TX🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false
+        },
+        "date": {
+          "on": false,
+          "emoji": "TD📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "TX🕔"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "VR🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "time": false,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T00:58:35.418Z",
+      "installId": "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -12954,6 +13531,14 @@
       1785783887214,
       1785784032748,
       1785784141029
+    ],
+    "ins_24d31863-0861-4679-a61b-92401de99154": [
+      1785804743351
+    ],
+    "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb": [
+      1785805040046,
+      1785805079594,
+      1785805115521
     ]
   }
 }
