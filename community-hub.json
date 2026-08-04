@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T08:22:33.080Z",
+  "updatedAt": "2026-08-04T09:22:25.787Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -11766,7 +11766,8 @@
         "ins_48925ab4-0d8f-49fc-a10e-f8de955458ec",
         "ins_42ac964e-824d-49ee-ac4d-7774315d2afb",
         "ins_7fc20ae8-d4fa-4c4d-a394-f9f37487d30b",
-        "ins_e4efc40a-4e15-4a07-b473-8f7670cc8ea4"
+        "ins_e4efc40a-4e15-4a07-b473-8f7670cc8ea4",
+        "ins_440bc39e-2d20-4a7d-b1ed-831a03c565e2"
       ]
     },
     {
@@ -12070,7 +12071,9 @@
       "publishedAt": "2026-08-03T19:07:12.686Z",
       "installId": "ins_a6328f94-dd12-4a5e-b280-aa443b277b16",
       "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
-      "likedBy": []
+      "likedBy": [
+        "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c"
+      ]
     },
     {
       "id": "preset-2bd1fd88-3cb4-4cb4-a683-eb8041a5d57b",
@@ -16149,6 +16152,66 @@
       "likedBy": [
         "ins_18395458-9a18-4ab2-a577-e066f1aadf42"
       ]
+    },
+    {
+      "id": "script-d86a03ec-0d2f-482e-bfbf-8eea6ab0b927",
+      "type": "script",
+      "name": "grow + shrink - (chat box)",
+      "author": "???",
+      "description": "",
+      "tags": [
+        "grow"
+      ],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 14,
+            "type": "loop",
+            "count": "0",
+            "children": [
+              {
+                "id": 11,
+                "type": "chatbox",
+                "text": "+"
+              },
+              {
+                "id": 3,
+                "type": "height",
+                "value": "1.7",
+                "sweep": true,
+                "from": 0.5,
+                "to": 2,
+                "seconds": 3,
+                "pingpong": false
+              },
+              {
+                "id": 9,
+                "type": "chatbox",
+                "text": "-"
+              },
+              {
+                "id": 8,
+                "type": "height",
+                "value": "",
+                "sweep": true,
+                "from": "2",
+                "to": "0.5",
+                "seconds": "3",
+                "pingpong": false
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T08:39:41.397Z",
+      "installId": "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -16414,6 +16477,9 @@
     "ins_a734b6a8-7e07-4cc5-851e-5ab2e0b72827": [
       1785821096895,
       1785821135108
+    ],
+    "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9": [
+      1785832781471
     ]
   }
 }
