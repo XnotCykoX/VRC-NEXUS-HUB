@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T01:25:32.712Z",
+  "updatedAt": "2026-08-04T03:24:35.755Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5804,7 +5804,8 @@
         "ins_fbab097b-7207-4dbf-afa8-4df6c679c55c",
         "ins_40004c3e-77e3-4831-92dd-80432d4335ec",
         "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
-        "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f"
+        "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f",
+        "ins_64193654-0392-4f43-afde-062951448e8e"
       ]
     },
     {
@@ -7937,7 +7938,8 @@
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_2bee09d3-f187-40ee-8c59-0faa1e3fee3a",
         "ins_066e8a91-5a08-4ee0-856c-87bf270676d5",
-        "ins_b9f8ebcf-fab6-4c61-8a0a-103f66ee4657"
+        "ins_b9f8ebcf-fab6-4c61-8a0a-103f66ee4657",
+        "ins_01ed2897-897f-4ce5-9103-ffd49f193239"
       ]
     },
     {
@@ -8089,7 +8091,8 @@
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_4d201774-9a42-4142-8e1b-ce81e4be602e",
         "ins_6403ce18-549c-4158-bcdf-547beedc77c9",
-        "ins_130cff86-8c26-4b2f-8a9c-e67e55ffe0f8"
+        "ins_130cff86-8c26-4b2f-8a9c-e67e55ffe0f8",
+        "ins_01ed2897-897f-4ce5-9103-ffd49f193239"
       ]
     },
     {
@@ -9259,7 +9262,8 @@
       "likedBy": [
         "ins_8e473691-153c-4fbc-9503-c9534c2bb4d1",
         "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
-        "ins_45673bef-86d7-4c5c-9870-04a3bd38fdd7"
+        "ins_45673bef-86d7-4c5c-9870-04a3bd38fdd7",
+        "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7"
       ]
     },
     {
@@ -13157,7 +13161,9 @@
       "publishedAt": "2026-08-04T00:57:59.067Z",
       "installId": "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_318aa3f8-3300-4d7d-8e6b-d5e8b014a41a"
+      ]
     },
     {
       "id": "preset-646fcd01-1dbc-42ed-a847-9d8bd698c150",
@@ -13287,6 +13293,2518 @@
       "data": null,
       "publishedAt": "2026-08-04T00:58:35.418Z",
       "installId": "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-15585dee-b1e3-4993-916a-1e234e656fa4",
+      "type": "preset",
+      "name": "Sleepz",
+      "author": "GHOST",
+      "description": "Sleep is my drug😴",
+      "tags": [
+        "Sleep",
+        "drug",
+        "Sleep OD",
+        "i love sleep"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "lyrics",
+          "media",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": false,
+          "lyrics": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Dreaming...\n👻👻👻\n🤍🤍🤍\nWsp😜",
+          "cycle": true,
+          "intervalSec": 4,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T01:28:14.434Z",
+      "installId": "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7",
+        "ins_48d31f6b-7c1c-4913-a418-bbaf7653c330"
+      ]
+    },
+    {
+      "id": "preset-e119f0c3-41c3-48d2-880b-bf76a3f7c332",
+      "type": "preset",
+      "name": "ayina",
+      "author": "Anonymous",
+      "description": "I love my husband",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "pipe",
+        "frame": "stars",
+        "border": "stars",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬Hi",
+          "statuses": "I'm 20\n\n",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": true,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": true,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": true,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵mu",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "♥",
+            "empty": "♡",
+            "head": ""
+          },
+          "barNewline": true,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "nowhere zone",
+          "fahrenheit": true,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": true,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": true
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T02:44:04.900Z",
+      "installId": "ins_5525cecc-8eb4-4973-a84f-f216b5b5d210",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "sharepack-559dc50c-be7b-491b-a456-4fe5631cb85a",
+      "type": "sharepack",
+      "name": "Kaykay's Avi dump V1",
+      "author": "Kaykay",
+      "description": "Personal avi dump For roleplays and the sort, updates to come!",
+      "tags": [
+        "half life",
+        "TF2",
+        "SCP",
+        "Deltarune",
+        "Bully"
+      ],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "D E L T A R U N E": [
+            "avtr_0451302e-653d-493e-a20d-4c696e939f9a",
+            "avtr_a8914965-dd05-472f-a551-2731cde68083",
+            "avtr_8d330d80-bc72-410e-ac6a-99add083256f",
+            "avtr_0c0b67ab-48bf-4d07-8c12-0334d826d370",
+            "avtr_e30e7dc9-53e8-493a-9a95-39f0dadf69e9",
+            "avtr_bded3068-5c18-4457-ba8a-813949a96eec"
+          ],
+          "Cute/Optimized": [
+            "avtr_20f903f0-ab1c-4b2a-a87e-0f567d20eb6e",
+            "avtr_ec3e444d-f65c-4daa-b573-7d9eaf505220",
+            "avtr_3da17cf8-1ebd-4866-8ec1-ce65b97ce14f",
+            "avtr_31f7c682-0978-4754-aa69-97399e6cc0fd",
+            "avtr_be427ee3-5447-455c-9738-a48491e7ad9e",
+            "avtr_36dca0dc-7fdf-4c1f-ac36-5ff995d1a080"
+          ],
+          "LEO/Security/MilSim/Terror": [
+            "avtr_80fdfe6b-f359-429d-b34e-97701a5fa07a",
+            "avtr_c8144f56-c426-4c2e-8f19-a7938dea4e1a",
+            "avtr_fcd52901-8f0b-42dd-8f8c-ac4525ad1cab",
+            "avtr_135622b3-68ab-4f24-a4cd-3802539957b4",
+            "avtr_47b61e70-87ed-4747-88b1-d2c9e4a0cd6d",
+            "avtr_834f6b9e-bbfe-4452-9f6e-9b2dcfd6fe08",
+            "avtr_8b63eb72-22f9-4340-9cb3-b96fe415aa5f",
+            "avtr_68a0b475-f1ca-4ef5-b567-285a6f144805",
+            "avtr_a08b38a6-c07d-4132-a0ac-7a859a66e5d4",
+            "avtr_757ee337-f5c1-441a-932a-4423a5a744f5",
+            "avtr_697cd974-2340-43bd-913b-6c1818d00471",
+            "avtr_fdb1c633-b201-4b92-b62e-f8bb618a9662",
+            "avtr_2dd07ed2-ecdf-4a7c-9724-0d9e496cc598",
+            "avtr_c46a2f69-d7fc-4bd4-b4dd-e59d4e550079",
+            "avtr_1b6f0a3e-85f7-47e0-8e60-5eab760b2972",
+            "avtr_56a9b5cb-a09f-4b8e-8498-685bb6243ed7",
+            "avtr_73bdbf54-8956-48d3-943e-36a108f99e31",
+            "avtr_281bc377-6994-4151-8a0a-45e4ea4e8bf0",
+            "avtr_ccc8964c-6a5a-4ec5-964a-aa84debbe5aa",
+            "avtr_83f2ac9f-1a8b-41e3-95ab-47aacde0ece3",
+            "avtr_cd04ee0a-f210-477a-91ff-67031eb9c5d8",
+            "avtr_2f32fab0-d183-45cf-9c85-d2a14c443228",
+            "avtr_f5a9328d-7c09-433f-bee9-808b270ae8ad",
+            "avtr_3a5545d6-84cb-417d-83b8-091373c784ce",
+            "avtr_d3675c63-e861-4b44-a900-1c0e32fae674",
+            "avtr_6e6d4cab-d203-43b4-a909-4323a53ef5ae",
+            "avtr_d4f3858a-031f-4edb-a276-29fa1dfbe95e",
+            "avtr_94f4a87f-0f71-4f65-b5e9-88a9477c3fbd",
+            "avtr_5c56b91b-46f4-455e-a31c-54ca08d27cd3",
+            "avtr_ce40a6ac-e832-489e-82b8-4d1b8204adcc",
+            "avtr_1852336c-3f6f-4df9-aea2-0dc173b167ef",
+            "avtr_f6095598-706e-4d38-953f-8256a78800d6",
+            "avtr_bccd9090-1e0e-4d9c-8877-718a125403dc",
+            "avtr_ac8288e3-0c99-4b46-9c07-a03b3fbdf68c",
+            "avtr_432124bf-9aae-469d-af9d-a8ca0635d956",
+            "avtr_b1d2635c-b394-42bf-bd9c-c3936cc98bb1",
+            "avtr_db462800-7415-473d-acf6-b038d17fa9da",
+            "avtr_90c5bcc6-2f25-4627-beed-414689e1b040",
+            "avtr_4501d1c5-1371-4db5-8cfb-27626859b7a0",
+            "avtr_3f8c73f1-8e27-4a18-980a-8012d368fd2c",
+            "avtr_0541aa0b-77f7-4dc3-afe9-8844c6bfd9be",
+            "avtr_6804f17a-a770-4609-84ba-2f6c193adfdb",
+            "avtr_f1d64a5d-27f3-4d6a-a600-b1ebb5480e36",
+            "avtr_8ed01ce0-362c-4e5f-a841-0a78f6a53b9a",
+            "avtr_fbad6832-761c-4122-a80e-c027eef068fe",
+            "avtr_e3684b1a-ca4a-449d-944e-88070343be8d",
+            "avtr_7da7017d-cc46-44f7-b515-c070e79a39ce",
+            "avtr_f15b4c03-b065-4d7b-aded-ff893ffe40c8",
+            "avtr_ee344be2-fbfd-45c1-b309-b463037505a6",
+            "avtr_9efa23b5-e3bc-4b92-aa20-5b02700ca34f",
+            "avtr_f6c1cd1f-b31e-405a-ab76-b839b92ed4ac",
+            "avtr_c0a9040b-b52b-4930-8ca5-f177987e649f",
+            "avtr_a446997e-0003-49ae-95c9-ea9cb5d9740b",
+            "avtr_ae366f18-57de-4e44-ad50-cc9e9004d2c8",
+            "avtr_dfa7f224-acf9-4393-b0b6-4819d79df928",
+            "avtr_e38a492a-c508-4732-880b-29439af97eed",
+            "avtr_75aa2142-a6a7-4dca-85d0-a2fe4945d90f",
+            "avtr_8ca34936-c315-41eb-a804-026467ce5127",
+            "avtr_1a77e3df-cae7-4ef9-bde2-983dc4c8fb08",
+            "avtr_ebd0a907-d70d-4bb6-87a1-c98ddceeb8c7",
+            "avtr_e73a378e-bcb7-40e2-854c-77480204bbcf",
+            "avtr_01d97976-5122-4e73-aca2-d39f35ba0061",
+            "avtr_6ebf6166-ab17-4fcc-be00-070541360fe9"
+          ],
+          "Service Workers": [
+            "avtr_0a155747-df9d-444c-9b61-72f691f0ff64",
+            "avtr_5094d8b5-4c89-4ac9-9881-77af0033f6fa",
+            "avtr_58873594-2ed5-4adf-92d9-743c99d975bd",
+            "avtr_65311520-5dca-4372-a3f5-1beff6cff354",
+            "avtr_3088ba8a-8b92-4412-b01c-e8e2a87be59c",
+            "avtr_4491bb0e-40ec-4820-8759-a8f7ebea65fd",
+            "avtr_f19449b4-cb3d-4086-b5d8-acec92886ab7",
+            "avtr_c5f37077-8114-40de-9e6b-d2a56b96c9a2",
+            "avtr_c3037339-610c-43c2-8e93-6cafe93db67c",
+            "avtr_0ddf3b18-b828-44dd-9ffe-b1ce14901c2d",
+            "avtr_e69366d9-93d3-4b46-ba9f-00d6ac68b572",
+            "avtr_9e148093-319c-411b-8cf2-c07d84b22e4e",
+            "avtr_fcac4b1f-0b18-406b-a4a6-6834a421dd19",
+            "avtr_916825cb-84ea-4fdf-a085-b3dbc027b3bf",
+            "avtr_8bf2051b-e96a-4333-b3e6-107c094a514b",
+            "avtr_0958108d-2e93-4a79-baaf-00aa3f93ba6d",
+            "avtr_0e77e73d-e1f4-48a8-9bb7-3f8be06fa6fe",
+            "avtr_e1220132-eabf-495b-a9a5-0922c320b6be"
+          ],
+          "Bully: Scholarship Edition": [
+            "avtr_b6966c49-3f38-4ed8-a274-7834bd1d3c39",
+            "avtr_c87c1788-08e9-42b8-971b-927cfa009cf1",
+            "avtr_11c481cb-5bc3-41c8-95f3-01847b5b22e9"
+          ],
+          "Team Fortress 2": [
+            "avtr_e53584c5-6051-4417-b430-1f90b4815f5f",
+            "avtr_532be821-79b4-42fc-b1e5-7ec170831dc8",
+            "avtr_6fbf6966-a509-4894-b6a7-b06c7350da64",
+            "avtr_1d0a4ff2-b4d6-42b5-8d19-687c53ec2206",
+            "avtr_aaee2b3a-54c0-490a-a622-030c291c1a3c",
+            "avtr_69f51fe7-987e-4e75-9f74-af793413bbc7"
+          ],
+          "Half Life": [
+            "avtr_9fa5ee1b-d58b-47da-bc4d-8d53d345de5c",
+            "avtr_d85a72ba-ce50-47e2-a442-9aa3708edd42",
+            "avtr_a8578324-5e08-47df-83c5-5a2db9a41e70",
+            "avtr_f15c62bf-f3b6-40a0-ba1c-a445ea026359",
+            "avtr_2da6fa34-9f5a-4769-b5de-1a12d3358789",
+            "avtr_e242ee91-323c-4031-b42c-5a5c47a4f2d7",
+            "avtr_6c6b2197-e615-4f73-87be-3af2415fa99f",
+            "avtr_166ff4e4-af01-4f27-8566-c5fc1deda0ea",
+            "avtr_3a8db1f0-14b8-4057-ab30-14bb9a7fa0c9",
+            "avtr_3497f9fe-e370-47b4-95a7-edcdcb65f309",
+            "avtr_cc3f559f-ee3d-4c9e-b812-883eed711c96",
+            "avtr_18acbbf0-e64b-41f9-b62d-283fb72cd5c7"
+          ],
+          "SCP:CB": [
+            "avtr_6d477ab8-740b-4434-a906-2273f99cedb8",
+            "avtr_a5315f19-9c05-4e23-bfee-e937f2bcd779",
+            "avtr_82e46eda-ebdd-4e40-8e4c-e59f096044a6",
+            "avtr_d51e4c25-3b49-4752-ae3b-c9e0222e627a",
+            "avtr_949dc2af-cad8-41a8-a87e-bca8981351b0",
+            "avtr_ac6efe22-ad26-47a6-ada0-b32e47412651"
+          ],
+          "Manhunt": [
+            "avtr_7804a9d6-af6f-4d1e-9af8-270d369ba935",
+            "avtr_f8d8105f-1fb6-4e82-bb22-2ae23972f14e",
+            "avtr_01c6a5a6-933d-40d5-ab41-a2cc3184cc2f",
+            "avtr_6fa1d031-b7de-44c4-b611-fd86f594ea05",
+            "avtr_61639a96-c956-46de-b771-d687f2853dc9",
+            "avtr_11a5bf4f-28d3-40bd-8326-18d27627689c",
+            "avtr_81dbf2b2-afc9-4a3b-8e21-338c724c8a28",
+            "avtr_8fc4c0f2-4229-4b70-bb95-9947c986f91a",
+            "avtr_8c5b576b-8adf-409b-9a5e-615a7feee90f",
+            "avtr_8f503059-4cd7-4899-b069-574891671b0d",
+            "avtr_2cdf1bfd-9292-4c10-b4bf-1ec42bebde0e",
+            "avtr_25536adb-3860-4ac7-935a-1368244c75b0",
+            "avtr_11cecb00-eb02-406a-b666-6e48b778431c"
+          ],
+          "Hello neighbor": [
+            "avtr_c467e4ad-9d5a-498b-97b2-5522f82ec41b",
+            "avtr_5b088ff7-2795-48cd-9482-6466dd8f7ab5",
+            "avtr_b9242edf-7b27-4345-af65-1e764dc62cfa",
+            "avtr_4dc42423-2092-49cd-8264-51f69af37422",
+            "avtr_9dc80346-be78-445a-abf4-da0426a1a23e",
+            "avtr_739778e3-6896-4835-a643-c164ac0cff47",
+            "avtr_a71b8c1c-e971-478f-93f3-86d3f5d6e9f4"
+          ],
+          "Oldwar": [
+            "avtr_a22d1d68-e1cf-4b0f-9d6b-c5b8e602d4ba",
+            "avtr_ecda6377-02c8-45b4-86a7-3a2ebfb6fe7f",
+            "avtr_1e66dce5-a7e2-424d-aaa8-c81a6897816c",
+            "avtr_5ac150b6-8bdb-48af-95fd-de7d4aecdf4d",
+            "avtr_ad38ce28-9665-4323-8650-d98c10491ce4",
+            "avtr_50c73d03-c3c8-4c11-a167-427a7bde2d40",
+            "avtr_7c372516-b54a-4c72-8fb1-5b3841b5748a",
+            "avtr_31f06b9f-fbf2-473c-9432-ab3520831f04",
+            "avtr_bf3b3c81-6acd-4ef0-ba96-32dc67840cde",
+            "avtr_f417b4a5-6bae-4ac6-97c0-ccb1e0710ca3",
+            "avtr_bbc42ba8-d397-47b8-8d6a-3d884d0a9680",
+            "avtr_d0deb104-ce73-4eab-8107-901c0e014fc0",
+            "avtr_14b73c6c-4e53-453d-81a4-f2d384db0204"
+          ],
+          "Civvies": [
+            "avtr_5746f40d-5607-455d-86c9-e8c045cc485c",
+            "avtr_0305bc97-67a5-4cd8-83a5-00cc548e6375",
+            "avtr_0dd2b983-3bcc-4d11-89bb-3f213cd12806",
+            "avtr_89711e1e-b8be-4179-aaa0-dab087eb9794",
+            "avtr_1db47534-a57d-4c35-bbc5-f957bdbd3321",
+            "avtr_295542f2-92ad-4bce-951c-5346da1b3fb5",
+            "avtr_8921a532-fbfc-48a2-9e70-1b9793b16339",
+            "avtr_5c8f265e-fe7d-495e-8294-4c51e043ba17",
+            "avtr_59c6095e-9cf5-428f-b9f5-3cc357f27ee4",
+            "avtr_30b3db7a-4e3d-4e6c-b300-3301d4ccf73e",
+            "avtr_80160709-f96d-4fd7-b320-f4579faaab69",
+            "avtr_36bf31e7-83f3-41f9-95dc-0b003c3128eb",
+            "avtr_d3c3ff7f-11a9-4dda-9667-3e6ebb154957",
+            "avtr_e1fe5f2c-193b-4d49-8461-9f08c300d55b",
+            "avtr_a058913a-3212-42e4-b10d-69398873fba5",
+            "avtr_00045d57-0f64-451c-97a7-3c7a61109f9c",
+            "avtr_e58403f3-d6c1-4d17-84b6-a195738cd8a6"
+          ],
+          "Roleplay utility": [
+            "avtr_4b1db404-8ff8-4bdc-b884-b9f7571c60b5"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_0451302e-653d-493e-a20d-4c696e939f9a",
+            "name": "Noelle The Sociopath （DELTARUNE X HOTLINE MIAMI）",
+            "author": "Ciggy Monster",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1979132f-6119-4708-9058-b93cbebe690a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a8914965-dd05-472f-a551-2731cde68083",
+            "name": "Berdly",
+            "author": "JestingMisfit",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3ac5c9b1-9c80-4aac-89f6-4ad5f9170720/2/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_8d330d80-bc72-410e-ac6a-99add083256f",
+            "name": "Susie",
+            "author": "JestingMisfit",
+            "image": "https://api.vrchat.cloud/api/1/image/file_91a5fb1f-d8f9-4d5e-9ffe-327734528e8d/4/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_0c0b67ab-48bf-4d07-8c12-0334d826d370",
+            "name": "Flowery",
+            "author": "JestingMisfit",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a603178d-35cf-427a-915f-a6bae2af268a/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_e30e7dc9-53e8-493a-9a95-39f0dadf69e9",
+            "name": "Noelle Holiday",
+            "author": "JestingMisfit",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e4892c67-8509-48f8-969e-cd70cb724534/2/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_bded3068-5c18-4457-ba8a-813949a96eec",
+            "name": "December Holiday （REUPLOAD）",
+            "author": "Ciggy Monster",
+            "image": "https://api.vrchat.cloud/api/1/image/file_60e8ac68-e2bf-4fd4-b02d-4d5d8b2ec08a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_20f903f0-ab1c-4b2a-a87e-0f567d20eb6e",
+            "name": "optimized raven team leader",
+            "author": "gayfellas",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f6300c14-abff-4c34-b913-08ac3da6aaa7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ec3e444d-f65c-4daa-b573-7d9eaf505220",
+            "name": "McNova ｜ Custom NovaBeast",
+            "author": "Mc`Wally",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fc9c2fab-5731-474d-90b7-ca12403845e8/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3da17cf8-1ebd-4866-8ec1-ce65b97ce14f",
+            "name": "Ralsei‚ The Prince From The Dark ｜｜ PickleMix ［Deltarune］",
+            "author": "JohnPickle123",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6000cb77-f50b-408f-9aa8-2b368d31658c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_31f7c682-0978-4754-aa69-97399e6cc0fd",
+            "name": "Vikentiy's Customizable Rec Room Avatar",
+            "author": "୨ ᴠɪᴋᴇɴᴛɪʏ ୧",
+            "image": "https://api.vrchat.cloud/api/1/image/file_371eb72c-3a8f-4816-a827-ffc4a5f3e6f1/8/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_be427ee3-5447-455c-9738-a48491e7ad9e",
+            "name": "Customizable Rec Room Avatar",
+            "author": "MilkGalaxy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_69f76e63-031d-49c4-9d3e-f07684fb410c/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_36dca0dc-7fdf-4c1f-ac36-5ff995d1a080",
+            "name": "Female Worker Drone",
+            "author": "LizzieGolden",
+            "image": "https://api.vrchat.cloud/api/1/image/file_dfdc765b-5a79-475d-9263-f79493643d26/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_80fdfe6b-f359-429d-b34e-97701a5fa07a",
+            "name": "Gensec Guard ｜ PAYDAY 3",
+            "author": "branden5002",
+            "image": "https://api.vrchat.cloud/api/1/image/file_eb52e29e-a2f3-4e7d-9241-56b5a66f5a1b/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c8144f56-c426-4c2e-8f19-a7938dea4e1a",
+            "name": "Doom on you Mr․ Tango",
+            "author": "King Hywel Dda",
+            "image": "https://api.vrchat.cloud/api/1/image/file_869df7e0-ff8f-4dab-9069-7b01abbfc5b5/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_fcd52901-8f0b-42dd-8f8c-ac4525ad1cab",
+            "name": "PMC Randal",
+            "author": "vsvscscbaibc",
+            "image": "https://api.vrchat.cloud/api/1/image/file_94bdfcf3-7a2c-44a3-86f2-b0a6f6705529/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_135622b3-68ab-4f24-a4cd-3802539957b4",
+            "name": "Los Sueños '99 S․W․A․T",
+            "author": "branden5002",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d9a78150-096f-421b-be82-7b55f5cf49ba/9/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_47b61e70-87ed-4747-88b1-d2c9e4a0cd6d",
+            "name": "Police Officer",
+            "author": "branden5002",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f79c6e52-da09-4582-893e-e536dd7e09e1/2/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_834f6b9e-bbfe-4452-9f6e-9b2dcfd6fe08",
+            "name": "Murkoff Security Guard",
+            "author": "ᴀᴅᴀᴍ-sᴍᴀsʜᴇʀ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ac5d410c-2a55-46ae-a076-0f06834b8ba0/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8b63eb72-22f9-4340-9cb3-b96fe415aa5f",
+            "name": "S․T․A․L․K․E․R․ Remake V3․1",
+            "author": "Danil_Semenov",
+            "image": "https://api.vrchat.cloud/api/1/image/file_969db391-fdd7-4f3d-a22f-7a0a3257523e/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_68a0b475-f1ca-4ef5-b567-285a6f144805",
+            "name": "LSPD Officer - Herr Sigma (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_68a0b475-f1ca-4ef5-b567-285a6f144805.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_a08b38a6-c07d-4132-a0ac-7a859a66e5d4",
+            "name": "FBI Customizable Agent (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_a08b38a6-c07d-4132-a0ac-7a859a66e5d4.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_757ee337-f5c1-441a-932a-4423a5a744f5",
+            "name": "UN │ Gooner Esq Operation Personal (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_757ee337-f5c1-441a-932a-4423a5a744f5.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_697cd974-2340-43bd-913b-6c1818d00471",
+            "name": "LVMPD │ Officer Uniform (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_697cd974-2340-43bd-913b-6c1818d00471.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_fdb1c633-b201-4b92-b62e-f8bb618a9662",
+            "name": "Police Chief - Gooner Esq (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_fdb1c633-b201-4b92-b62e-f8bb618a9662.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_2dd07ed2-ecdf-4a7c-9724-0d9e496cc598",
+            "name": "DPD │ Gooner Esq (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_2dd07ed2-ecdf-4a7c-9724-0d9e496cc598.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_c46a2f69-d7fc-4bd4-b4dd-e59d4e550079",
+            "name": "F.I.B GTA-RP Steve Haines │ Gooner Esq (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_c46a2f69-d7fc-4bd4-b4dd-e59d4e550079.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_1b6f0a3e-85f7-47e0-8e60-5eab760b2972",
+            "name": "UN │ Inteligence Gooner Esq Suit (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_1b6f0a3e-85f7-47e0-8e60-5eab760b2972.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_56a9b5cb-a09f-4b8e-8498-685bb6243ed7",
+            "name": "N.O.O.S.E GTA5 (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_56a9b5cb-a09f-4b8e-8498-685bb6243ed7.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_73bdbf54-8956-48d3-943e-36a108f99e31",
+            "name": "UN │ 1990s Soldier (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_73bdbf54-8956-48d3-943e-36a108f99e31.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_281bc377-6994-4151-8a0a-45e4ea4e8bf0",
+            "name": "F.I.B GTA-RP Public Agent (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_281bc377-6994-4151-8a0a-45e4ea4e8bf0.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_ccc8964c-6a5a-4ec5-964a-aa84debbe5aa",
+            "name": "FBI - Public - Gooner Esq (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_ccc8964c-6a5a-4ec5-964a-aa84debbe5aa.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_83f2ac9f-1a8b-41e3-95ab-47aacde0ece3",
+            "name": "Reclaimed: Walking Dead S&S (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_83f2ac9f-1a8b-41e3-95ab-47aacde0ece3.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_cd04ee0a-f210-477a-91ff-67031eb9c5d8",
+            "name": "U․S Army Infantry （UCP）",
+            "author": "Donny Burger",
+            "image": "https://api.vrchat.cloud/api/1/image/file_600e460b-bcd3-4f0b-886d-b3deb107534b/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_2f32fab0-d183-45cf-9c85-d2a14c443228",
+            "name": "Genome Soldier （Light Infantry） （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cf8bc13c-30e1-4065-9a48-12aabc8e0835/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f5a9328d-7c09-433f-bee9-808b270ae8ad",
+            "name": "Genome Soldier （Arctic） （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_79d8fea4-264a-43cb-9d42-9b8bede61736/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3a5545d6-84cb-417d-83b8-091373c784ce",
+            "name": "Genome Soldier （Heavy） （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8d5ab1d7-8144-443c-b0f9-931e1f8dba42/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d3675c63-e861-4b44-a900-1c0e32fae674",
+            "name": "Solid Snake （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_256b9a34-952d-4b93-9c6a-1f22f44c7775/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6e6d4cab-d203-43b4-a909-4323a53ef5ae",
+            "name": "Genome Soldier （NBC Unit） （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_024aa169-5b33-4db3-83a5-c8ff5fb0ed76/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_d4f3858a-031f-4edb-a276-29fa1dfbe95e",
+            "name": "William Birkin - Umbrella Scientist （Resident Evil 2）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_beeb37b1-acae-4d68-bcda-fddfaffdb44f/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_94f4a87f-0f71-4f65-b5e9-88a9477c3fbd",
+            "name": "Chris Redfield - S․T․A․R․S․ Member V2（Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f9cbc7af-e420-4a77-8e18-63b1f966ebc4/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5c56b91b-46f4-455e-a31c-54ca08d27cd3",
+            "name": "Albert Wesker - Agent Gear （Resident Evil Code Veronica X）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c16553f7-07c9-443c-9ca8-4cd27d3cd1b0/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ce40a6ac-e832-489e-82b8-4d1b8204adcc",
+            "name": "Brad Vickers - S․T․A․R․S․ Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8ce84444-7c37-444a-9cb6-1126e20172d7/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1852336c-3f6f-4df9-aea2-0dc173b167ef",
+            "name": "Joseph Frost - S․T․A․R․S․ Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5679c8c5-9bf1-4cec-b441-ebc15660c26d/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f6095598-706e-4d38-953f-8256a78800d6",
+            "name": "Rebecca Chambers - Rookie S․T․A․R․S Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d7cdef06-5c2c-447f-8477-bbc33d9a505b/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_bccd9090-1e0e-4d9c-8877-718a125403dc",
+            "name": "Richard Aiken - S․T․A․R․S․ Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2be234ac-bb75-4f7b-8cba-2e0789a8b3ad/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ac8288e3-0c99-4b46-9c07-a03b3fbdf68c",
+            "name": "Albert Wesker - S․T․A․R․S․ Captain （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1fd1afc9-d777-404b-b21f-f3006e7b5ef4/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_432124bf-9aae-469d-af9d-a8ca0635d956",
+            "name": "Barry Burton - S․T․A․R․S․ Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_23f08435-60ea-4149-a8d3-3ddbe5eabb7b/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b1d2635c-b394-42bf-bd9c-c3936cc98bb1",
+            "name": "Jill Valentine - S․T․A․R․S․ Member （Resident Evil 1 Remake）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_93abb601-e72b-4340-8e54-5f0ff305196d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_db462800-7415-473d-acf6-b038d17fa9da",
+            "name": "Jill Valentine - BSAA Wet Suit （Resident Evil Revelations）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_39bef0eb-c578-414d-9a29-f770000dbc70/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_90c5bcc6-2f25-4627-beed-414689e1b040",
+            "name": "Jill Valentine - BSAA （Resident Evil 5 Lost In Nightmares）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6b5d27ff-0dc8-4b09-bdc1-6c2fc84d7d11/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_4501d1c5-1371-4db5-8cfb-27626859b7a0",
+            "name": "Pavlov - Russian ＃2 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_4501d1c5-1371-4db5-8cfb-27626859b7a0.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_3f8c73f1-8e27-4a18-980a-8012d368fd2c",
+            "name": "Pavlov - Russian ＃3 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_3f8c73f1-8e27-4a18-980a-8012d368fd2c.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_0541aa0b-77f7-4dc3-afe9-8844c6bfd9be",
+            "name": "Pavlov - Russian ＃5 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_0541aa0b-77f7-4dc3-afe9-8844c6bfd9be.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_6804f17a-a770-4609-84ba-2f6c193adfdb",
+            "name": "Russian 1 TTT? (Consider using https://avtr.zip/avatars)",
+            "author": "Butternuttrnut",
+            "image": "https://thumb.avtr.zip/avtr_6804f17a-a770-4609-84ba-2f6c193adfdb.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_f1d64a5d-27f3-4d6a-a600-b1ebb5480e36",
+            "name": "Pavlov - Russian ＃1 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_f1d64a5d-27f3-4d6a-a600-b1ebb5480e36.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_8ed01ce0-362c-4e5f-a841-0a78f6a53b9a",
+            "name": "Pavlov - Russian ＃4 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_8ed01ce0-362c-4e5f-a841-0a78f6a53b9a.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_fbad6832-761c-4122-a80e-c027eef068fe",
+            "name": "DANLRWM V3 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_fbad6832-761c-4122-a80e-c027eef068fe.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_e3684b1a-ca4a-449d-944e-88070343be8d",
+            "name": "Big Spook - Survivor 3 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_e3684b1a-ca4a-449d-944e-88070343be8d.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_7da7017d-cc46-44f7-b515-c070e79a39ce",
+            "name": "Tabor Tickled (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_7da7017d-cc46-44f7-b515-c070e79a39ce.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_f15b4c03-b065-4d7b-aded-ff893ffe40c8",
+            "name": "Fictional SAS (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_f15b4c03-b065-4d7b-aded-ff893ffe40c8.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_ee344be2-fbfd-45c1-b309-b463037505a6",
+            "name": "Saints & Sinners - Tower Guard (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_ee344be2-fbfd-45c1-b309-b463037505a6.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_9efa23b5-e3bc-4b92-aa20-5b02700ca34f",
+            "name": "Big Spook - Survivor 6 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_9efa23b5-e3bc-4b92-aa20-5b02700ca34f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_f6c1cd1f-b31e-405a-ab76-b839b92ed4ac",
+            "name": "Big Spook - Survivor 1 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_f6c1cd1f-b31e-405a-ab76-b839b92ed4ac.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_c0a9040b-b52b-4930-8ca5-f177987e649f",
+            "name": "Alyx Rebel 2 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_c0a9040b-b52b-4930-8ca5-f177987e649f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_a446997e-0003-49ae-95c9-ea9cb5d9740b",
+            "name": "Bluestripe - Rifleman (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_a446997e-0003-49ae-95c9-ea9cb5d9740b.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_ae366f18-57de-4e44-ad50-cc9e9004d2c8",
+            "name": "Eta-10 \"See No Evil\" (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_ae366f18-57de-4e44-ad50-cc9e9004d2c8.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_dfa7f224-acf9-4393-b0b6-4819d79df928",
+            "name": "Big Spook - Killer 1 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_dfa7f224-acf9-4393-b0b6-4819d79df928.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_e38a492a-c508-4732-880b-29439af97eed",
+            "name": "Big Spook - Killer 2 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_e38a492a-c508-4732-880b-29439af97eed.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_75aa2142-a6a7-4dca-85d0-a2fe4945d90f",
+            "name": "Big Spook - Killer 3 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_75aa2142-a6a7-4dca-85d0-a2fe4945d90f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_8ca34936-c315-41eb-a804-026467ce5127",
+            "name": "Big Spook - Survivor 5 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_8ca34936-c315-41eb-a804-026467ce5127.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_1a77e3df-cae7-4ef9-bde2-983dc4c8fb08",
+            "name": "Big Spook - Survivor 4 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_1a77e3df-cae7-4ef9-bde2-983dc4c8fb08.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_ebd0a907-d70d-4bb6-87a1-c98ddceeb8c7",
+            "name": "CS:GO - GIGN (Consider using https://avtr.zip/avatars)",
+            "author": "Butternut0225_",
+            "image": "https://thumb.avtr.zip/avtr_ebd0a907-d70d-4bb6-87a1-c98ddceeb8c7.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_e73a378e-bcb7-40e2-854c-77480204bbcf",
+            "name": "S&S DANLRWM (Consider using https://avtr.zip/avatars)",
+            "author": "Butternuttrnut",
+            "image": "https://thumb.avtr.zip/avtr_e73a378e-bcb7-40e2-854c-77480204bbcf.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_01d97976-5122-4e73-aca2-d39f35ba0061",
+            "name": "Joe Larper 1 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternuttrnut",
+            "image": "https://thumb.avtr.zip/avtr_01d97976-5122-4e73-aca2-d39f35ba0061.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_6ebf6166-ab17-4fcc-be00-070541360fe9",
+            "name": "Fictional US Military 1 (Consider using https://avtr.zip/avatars)",
+            "author": "Butternuttrnut",
+            "image": "https://thumb.avtr.zip/avtr_6ebf6166-ab17-4fcc-be00-070541360fe9.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_0a155747-df9d-444c-9b61-72f691f0ff64",
+            "name": "Halo 3 Civilian ⁄ Traxus Dock Worker",
+            "author": "Camera-Guy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_068f817e-a5c7-496a-a3a4-94f00055b26b/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5094d8b5-4c89-4ac9-9881-77af0033f6fa",
+            "name": "FNAF Female Tech",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1bc28657-143b-4b83-bc8a-9520b0d28b32/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_58873594-2ed5-4adf-92d9-743c99d975bd",
+            "name": "FNAF Male Day Staff",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_680b1ee2-de2e-4bfe-8ca6-ad8adf317b01/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_65311520-5dca-4372-a3f5-1beff6cff354",
+            "name": "FNAF Female Guard",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_25d323f7-2222-4783-9e78-3cd00840c66d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3088ba8a-8b92-4412-b01c-e8e2a87be59c",
+            "name": "S.C.P Researcher - Site 97 - Public (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_3088ba8a-8b92-4412-b01c-e8e2a87be59c.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_4491bb0e-40ec-4820-8759-a8f7ebea65fd",
+            "name": "FNAF Female Day Staff",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b1b8d2ee-2174-4fab-a9c3-445eb342fb84/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f19449b4-cb3d-4086-b5d8-acec92886ab7",
+            "name": "FNAF Male Technician",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6cbd1aab-31da-4d38-9f81-486321481478/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c5f37077-8114-40de-9e6b-d2a56b96c9a2",
+            "name": "FNAF Male Security Guard",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b1dd2b0b-6ab2-4a00-9cc2-7eeaa482a45d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c3037339-610c-43c2-8e93-6cafe93db67c",
+            "name": "SOTM FazBear MAINTENANCE Worker",
+            "author": "1VRGUY1",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1beeddb4-154b-4410-90c9-da12cca82f3f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0ddf3b18-b828-44dd-9ffe-b1ce14901c2d",
+            "name": "Jc jenson worker",
+            "author": "Chefslimy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_556586b7-0347-4893-a99a-50a132c2c6a7/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e69366d9-93d3-4b46-ba9f-00d6ac68b572",
+            "name": "Navy Worker （MGS1）",
+            "author": "Super Mario PS4",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9a224474-e7e9-4b10-bd3d-f119927355a1/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9e148093-319c-411b-8cf2-c07d84b22e4e",
+            "name": "Public Contractor （Construction Worker）",
+            "author": "epicBEEFY",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1d19c879-cb20-4066-ad85-ac16fe00f883/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_fcac4b1f-0b18-406b-a4a6-6834a421dd19",
+            "name": "Male_05 Citizen",
+            "author": "SpiritedSpy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_63d9be57-536a-48b9-93d0-c2389de7442f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_916825cb-84ea-4fdf-a085-b3dbc027b3bf",
+            "name": "Female_01 Citizen",
+            "author": "SpiritedSpy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6fa027f2-a690-4917-9639-d45abca012c4/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8bf2051b-e96a-4333-b3e6-107c094a514b",
+            "name": "FNAF Male Chef",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2c6a231e-2b93-4e6a-8842-4db4c37717cf/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0958108d-2e93-4a79-baaf-00aa3f93ba6d",
+            "name": "Safety Auditor",
+            "author": "oofhead1234",
+            "image": "https://api.vrchat.cloud/api/1/image/file_df8094bd-9563-4204-8983-b6b29ae1b5c1/4/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0e77e73d-e1f4-48a8-9bb7-3f8be06fa6fe",
+            "name": "Generic Hazmat",
+            "author": "Butternuttrnut",
+            "image": "https://api.vrchat.cloud/api/1/image/file_520d9570-6d0a-4a83-bf8d-888c9b1a9383/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e1220132-eabf-495b-a9a5-0922c320b6be",
+            "name": "David King - Raccoon City Plumber （Resident Evil Outbreak File 1 ＆ 2）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cf7e6448-28c4-44fb-bf2a-2282adf73c2e/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b6966c49-3f38-4ed8-a274-7834bd1d3c39",
+            "name": "Gary Smith",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6d729700-d131-43fc-9ba3-0aa67df97c05/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c87c1788-08e9-42b8-971b-927cfa009cf1",
+            "name": "Pete Kowalski",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8ba92ff3-44d0-4d48-b37b-9b032038e038/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_11c481cb-5bc3-41c8-95f3-01847b5b22e9",
+            "name": "Earnest Jones",
+            "author": "Murdoc fisher",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4abdb5c2-7ade-45cf-917d-ace794da3c2f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e53584c5-6051-4417-b430-1f90b4815f5f",
+            "name": "Engineer",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4c26a9ce-cde9-4d84-833f-d402582fb5fa/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_532be821-79b4-42fc-b1e5-7ec170831dc8",
+            "name": "Spy",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_de91dca8-5330-4abd-b5b8-4fea71cbbec5/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6fbf6966-a509-4894-b6a7-b06c7350da64",
+            "name": "Scout",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e66e88ce-e5d2-4f1a-bdd3-116104434ed6/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1d0a4ff2-b4d6-42b5-8d19-687c53ec2206",
+            "name": "Sniper",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_985bc03b-0a17-45e3-b544-a7c8727a3aa3/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_aaee2b3a-54c0-490a-a622-030c291c1a3c",
+            "name": "Soldier",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ddef9b18-ccc8-44d3-b8b4-53524113f5f0/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_69f51fe7-987e-4e75-9f74-af793413bbc7",
+            "name": "The Merc",
+            "author": "SGDK",
+            "image": "https://api.vrchat.cloud/api/1/image/file_89d58274-cd5b-42f4-8337-259598d990b2/6/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9fa5ee1b-d58b-47da-bc4d-8d53d345de5c",
+            "name": "Graffiti Civilian",
+            "author": "Augustineproto",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6763969a-cf17-4786-bc7b-f80b778efe32/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d85a72ba-ce50-47e2-a442-9aa3708edd42",
+            "name": "Female_04 Citizen",
+            "author": "SpiritedSpy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5084ea81-b14e-4765-a09c-f864d1c783ed/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a8578324-5e08-47df-83c5-5a2db9a41e70",
+            "name": "HL2 - Customizable Male Citizen",
+            "author": "CrazyApplez1637",
+            "image": "https://api.vrchat.cloud/api/1/image/file_78fd188b-5ea6-4eff-a6d0-7efb960087aa/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f15c62bf-f3b6-40a0-ba1c-a445ea026359",
+            "name": "Black Ops Assassin V.2 (HD Classic) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_f15c62bf-f3b6-40a0-ba1c-a445ea026359.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_2da6fa34-9f5a-4769-b5de-1a12d3358789",
+            "name": "Accurate Promo art Gordon Freeman (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_2da6fa34-9f5a-4769-b5de-1a12d3358789.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_e242ee91-323c-4031-b42c-5a5c47a4f2d7",
+            "name": "Scientist (HD Classic) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_e242ee91-323c-4031-b42c-5a5c47a4f2d7.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_6c6b2197-e615-4f73-87be-3af2415fa99f",
+            "name": "Combine Soldier",
+            "author": "CrazyApplez1637",
+            "image": "https://api.vrchat.cloud/api/1/image/file_32380dac-e6a2-4377-bc3e-d57225806146/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_166ff4e4-af01-4f27-8566-c5fc1deda0ea",
+            "name": "Civil Protection",
+            "author": "CrazyApplez1637",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e5828631-fda2-4e52-a0b2-bfe3f280901c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3a8db1f0-14b8-4057-ab30-14bb9a7fa0c9",
+            "name": "Half-Life˸ 2 Gordon Freeman",
+            "author": "la null rat",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bd604448-b626-4526-850e-d139d0145cf5/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_3497f9fe-e370-47b4-95a7-edcdcb65f309",
+            "name": "Male Black ops (HD Classic) (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_3497f9fe-e370-47b4-95a7-edcdcb65f309.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_cc3f559f-ee3d-4c9e-b812-883eed711c96",
+            "name": "Deadlands Customizable Metrocop",
+            "author": "Mesa Vez'eer",
+            "image": "https://api.vrchat.cloud/api/1/image/file_545049a2-c935-4916-9cc8-c4f7096ea510/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_18acbbf0-e64b-41f9-b62d-283fb72cd5c7",
+            "name": "Half Life Security",
+            "author": "Jaymer723",
+            "image": "https://api.vrchat.cloud/api/1/image/file_93aebf35-30b9-463e-a2f6-20910c7e17ee/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6d477ab8-740b-4434-a906-2273f99cedb8",
+            "name": "SCP Site Personnel",
+            "author": "Jaymer723",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7502e302-5c16-4836-a79a-86e9c39ffe79/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a5315f19-9c05-4e23-bfee-e937f2bcd779",
+            "name": "SCP Researcher",
+            "author": "Jaymer723",
+            "image": "https://api.vrchat.cloud/api/1/image/file_586e59bd-ec27-4ebf-94e6-2ed4e2ced666/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_82e46eda-ebdd-4e40-8e4c-e59f096044a6",
+            "name": "SCP Security Guard",
+            "author": "Jaymer723",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8bf4ecb4-b054-4cd0-9e0e-9ff1e79e258f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d51e4c25-3b49-4752-ae3b-c9e0222e627a",
+            "name": "Scp Security⁄Research - Joe",
+            "author": "SGDK",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5d8d491e-7435-44d0-a2d3-3a3c0bd598ee/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_949dc2af-cad8-41a8-a87e-bca8981351b0",
+            "name": "Scp Security⁄Research - Joe‚ Heavy",
+            "author": "SGDK",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7e626165-5dca-478f-9b37-4ee47d924358/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ac6efe22-ad26-47a6-ada0-b32e47412651",
+            "name": "［SCP˸CB］ Epsilon-11 ＂Nine Tailed Fox＂",
+            "author": "Muddsterrr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b47326a6-b833-455c-822a-83e19a9f16f7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_7804a9d6-af6f-4d1e-9af8-270d369ba935",
+            "name": "Hoods (Remaster) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_7804a9d6-af6f-4d1e-9af8-270d369ba935.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_f8d8105f-1fb6-4e82-bb22-2ae23972f14e",
+            "name": "Skinz (No mask) - Manhunt (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_f8d8105f-1fb6-4e82-bb22-2ae23972f14e.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_01c6a5a6-933d-40d5-ab41-a2cc3184cc2f",
+            "name": "Skinz (Fat) Manhunt (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_01c6a5a6-933d-40d5-ab41-a2cc3184cc2f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_6fa1d031-b7de-44c4-b611-fd86f594ea05",
+            "name": "Skinz (Stocky)- Manhunt (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_6fa1d031-b7de-44c4-b611-fd86f594ea05.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_61639a96-c956-46de-b771-d687f2853dc9",
+            "name": "Male hostage - Manhunt (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_61639a96-c956-46de-b771-d687f2853dc9.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_11a5bf4f-28d3-40bd-8326-18d27627689c",
+            "name": "Smileys (Barry) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_11a5bf4f-28d3-40bd-8326-18d27627689c.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_81dbf2b2-afc9-4a3b-8e21-338c724c8a28",
+            "name": "Carcer Police (Jacket) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_81dbf2b2-afc9-4a3b-8e21-338c724c8a28.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_8fc4c0f2-4229-4b70-bb95-9947c986f91a",
+            "name": "James Earl Cash Updated (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_8fc4c0f2-4229-4b70-bb95-9947c986f91a.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_8c5b576b-8adf-409b-9a5e-615a7feee90f",
+            "name": "Smiley (Fug) (Consider using https://avtr.zip/avatars)",
+            "author": "BD372836",
+            "image": "https://thumb.avtr.zip/avtr_8c5b576b-8adf-409b-9a5e-615a7feee90f.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_8f503059-4cd7-4899-b069-574891671b0d",
+            "name": "Innocents (BabyFace) (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_8f503059-4cd7-4899-b069-574891671b0d.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_2cdf1bfd-9292-4c10-b4bf-1ec42bebde0e",
+            "name": "Wardogs - The Fox (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_2cdf1bfd-9292-4c10-b4bf-1ec42bebde0e.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_25536adb-3860-4ac7-935a-1368244c75b0",
+            "name": "Lionel StarkWeather (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_25536adb-3860-4ac7-935a-1368244c75b0.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_11cecb00-eb02-406a-b666-6e48b778431c",
+            "name": "Cerberus / Leader (Consider using https://avtr.zip/avatars)",
+            "author": "Draven_Bair",
+            "image": "https://thumb.avtr.zip/avtr_11cecb00-eb02-406a-b666-6e48b778431c.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_c467e4ad-9d5a-498b-97b2-5522f82ec41b",
+            "name": "Theodore Peterson （Animated） （HN1 HNHNS SN）",
+            "author": "DWERKY_majin",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f04ef3b4-0932-4178-bd98-57316472378c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_5b088ff7-2795-48cd-9482-6466dd8f7ab5",
+            "name": "Theodore Peterson (Hello Neighbor) (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_5b088ff7-2795-48cd-9482-6466dd8f7ab5.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_b9242edf-7b27-4345-af65-1e764dc62cfa",
+            "name": "Theodore Peterson HN2 (Animated) (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_b9242edf-7b27-4345-af65-1e764dc62cfa.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_4dc42423-2092-49cd-8264-51f69af37422",
+            "name": "Dummy/Mannequin (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_4dc42423-2092-49cd-8264-51f69af37422.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_9dc80346-be78-445a-abf4-da0426a1a23e",
+            "name": "Aaron Peterson (animated) (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_9dc80346-be78-445a-abf4-da0426a1a23e.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_739778e3-6896-4835-a643-c164ac0cff47",
+            "name": "Nicky Roth (Alpha 2) (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_739778e3-6896-4835-a643-c164ac0cff47.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_a71b8c1c-e971-478f-93f3-86d3f5d6e9f4",
+            "name": "The Guest (Hello Nieghbor) (Consider using https://avtr.zip/avatars)",
+            "author": "DWERKY_majin",
+            "image": "https://thumb.avtr.zip/avtr_a71b8c1c-e971-478f-93f3-86d3f5d6e9f4.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_a22d1d68-e1cf-4b0f-9d6b-c5b8e602d4ba",
+            "name": "Kaiserliches Heer Infantry Enlisted",
+            "author": "ɦǟռֆ աɨʟʟɨǟʍ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2374036b-6fd2-45a5-8992-905b9fdf385e/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ecda6377-02c8-45b4-86a7-3a2ebfb6fe7f",
+            "name": "13th Centary Knight",
+            "author": "Mickey1107",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e982a2f5-cf86-4cdc-8390-324f5c18add2/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1e66dce5-a7e2-424d-aaa8-c81a6897816c",
+            "name": "TRENCHFACE - Chosen Soldiers",
+            "author": "Ember579",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8a221332-4d7c-40d6-8490-a57989486e27/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5ac150b6-8bdb-48af-95fd-de7d4aecdf4d",
+            "name": "24th Regiment of Foot Enlisted 1879 Zulu War (Consider using https://avtr.zip/avatars)",
+            "author": "Gooner Esq",
+            "image": "https://thumb.avtr.zip/avtr_5ac150b6-8bdb-48af-95fd-de7d4aecdf4d.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
+            "id": "avtr_ad38ce28-9665-4323-8650-d98c10491ce4",
+            "name": "Medieval Ottoman Infantry",
+            "author": "Primo Hoagie",
+            "image": "https://api.vrchat.cloud/api/1/image/file_40eb935d-4e56-4965-8eb4-fe6bc3dd7807/5/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_50c73d03-c3c8-4c11-a167-427a7bde2d40",
+            "name": "Crusader",
+            "author": "Primo Hoagie",
+            "image": "https://api.vrchat.cloud/api/1/image/file_30502d21-a64d-4b2e-aed4-34ef98a24341/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_7c372516-b54a-4c72-8fb1-5b3841b5748a",
+            "name": "Cuman Warrior",
+            "author": "Primo Hoagie",
+            "image": "https://api.vrchat.cloud/api/1/image/file_eaad47da-925c-48c7-b1c7-5f9f44380c71/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_31f06b9f-fbf2-473c-9432-ab3520831f04",
+            "name": "Roman Officer",
+            "author": "Primo Hoagie",
+            "image": "https://api.vrchat.cloud/api/1/image/file_39af31be-6e7b-43f7-b83e-bcdf89812903/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_bf3b3c81-6acd-4ef0-ba96-32dc67840cde",
+            "name": "Thought police",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e6e73513-54a7-445a-bb93-f931eff9aa21/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f417b4a5-6bae-4ac6-97c0-ccb1e0710ca3",
+            "name": "EN",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_460d88aa-808e-4b73-af91-f43a1ca5ae1d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_bbc42ba8-d397-47b8-8d6a-3d884d0a9680",
+            "name": "NCO",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9f94efcc-9ca9-45a1-b412-8d6f5bdc8d9a/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d0deb104-ce73-4eab-8107-901c0e014fc0",
+            "name": "greater bavaria infantry",
+            "author": "FritzWittelbach",
+            "image": "https://api.vrchat.cloud/api/1/image/file_587fbe47-0102-41fa-a5a0-c5399676f470/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_14b73c6c-4e53-453d-81a4-f2d384db0204",
+            "name": "Infantry ENL",
+            "author": "~~༒KAIDEN༒~~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d0922a22-9917-47b4-bdf8-626be6f8c69b/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_5746f40d-5607-455d-86c9-e8c045cc485c",
+            "name": "Generic bad guy",
+            "author": "branden5002",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a29d9862-c9b6-43f4-a05d-2a65806f0513/2/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_0305bc97-67a5-4cd8-83a5-00cc548e6375",
+            "name": "Formal Ghoul",
+            "author": "Augustineproto",
+            "image": "https://api.vrchat.cloud/api/1/image/file_127434cd-e60f-4b52-8712-fb54840c7287/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0dd2b983-3bcc-4d11-89bb-3f213cd12806",
+            "name": "Gambler",
+            "author": "daddy passi",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f49f2213-9336-4528-a954-c8dd2c383baf/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_89711e1e-b8be-4179-aaa0-dab087eb9794",
+            "name": "The Sharks",
+            "author": "BOB320",
+            "image": "https://api.vrchat.cloud/api/1/image/file_20155f9d-e14c-4c25-a0cc-37c7303d16c1/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_1db47534-a57d-4c35-bbc5-f957bdbd3321",
+            "name": "Updated Mafioso WIP",
+            "author": "daddy passi",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f9c4c60e-992d-4059-9eaf-ddb2198ff3a7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_295542f2-92ad-4bce-951c-5346da1b3fb5",
+            "name": "Customizable Suit - Gooner Esq",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_49e50ee9-b220-4945-b3c5-4fcf5d76460a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8921a532-fbfc-48a2-9e70-1b9793b16339",
+            "name": "Customizable Suit Alternate - Gooner Esq",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6132783b-abf7-4cc9-be29-c3b1ff95fd35/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5c8f265e-fe7d-495e-8294-4c51e043ba17",
+            "name": "Customizable Suit Alt 2",
+            "author": "Gooner Esq",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c647649a-5f78-4584-89be-c168a9e317c3/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_59c6095e-9cf5-428f-b9f5-3cc357f27ee4",
+            "name": "DarkRp Citizen｜ Cuakino",
+            "author": "Cuakino",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a82a4e62-4188-4ef3-8ba7-40ab50322a01/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_30b3db7a-4e3d-4e6c-b300-3301d4ccf73e",
+            "name": "Aiden Pearce V2",
+            "author": "oofhead1234",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d575627a-c507-43e9-8118-9f94680729cf/5/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_80160709-f96d-4fd7-b320-f4579faaab69",
+            "name": "Marcus Holloway V2",
+            "author": "oofhead1234",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2d1c227a-6a45-4806-a042-803bc71ac6fb/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_36bf31e7-83f3-41f9-95dc-0b003c3128eb",
+            "name": "Claire Redfield - Sein Island Incident （Resident Evil Revelations 2）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_89cd9eb2-eb64-4d63-b903-55e3d70bdf18/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d3c3ff7f-11a9-4dda-9667-3e6ebb154957",
+            "name": "Miles Upshur - Freelance Journalist （Outlast 1）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3a576e3e-5b77-4caf-be2f-5736daa4ebbd/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e1fe5f2c-193b-4d49-8461-9f08c300d55b",
+            "name": "Chuck Greene - Suvivor Of Las Vagas （Dead Rising 2 Case Zero）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_53f249e8-ad53-41cc-8c64-f7169529ae8e/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a058913a-3212-42e4-b10d-69398873fba5",
+            "name": "Harry Mason - Novel Writer （Silent Hill 1）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2bc2ca25-76d8-494e-ae3a-5d6f1e6d55dc/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_00045d57-0f64-451c-97a7-3c7a61109f9c",
+            "name": "Frank West - Photojournalist （Dead Rising 2006）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_900573b3-f09c-4d2b-92c1-979a5ad2edea/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e58403f3-d6c1-4d17-84b6-a195738cd8a6",
+            "name": "Oswell E․ Spencer - Co-Founder Of Umbrella （Resident Evil 5）",
+            "author": "Nemesis_SKiLzZ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_09581a6d-430c-4d5b-8065-9d6cfe50c549/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_4b1db404-8ff8-4bdc-b884-b9f7571c60b5",
+            "name": "VRC Spectator",
+            "author": "webbtail245",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e3564d10-7904-4ef5-acb2-a62a8f128b19/1/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T02:44:11.251Z",
+      "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
+      "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
+      "likedBy": []
+    },
+    {
+      "id": "preset-849170bb-2e2d-4636-b602-095b49a9c9fb",
+      "type": "preset",
+      "name": "freaky",
+      "author": "Cable",
+      "description": "Uhm freak",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "lyrics",
+          "media",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "stars",
+        "border": "custom",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💫",
+          "statuses": "do you think i am cute?\n\n\n",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "🗣️"
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "💤",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 8,
+            "fill": "▰",
+            "empty": "▱",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Clarksville",
+          "fahrenheit": true,
+          "lat": 36.52977,
+          "lon": -87.35945,
+          "place": "Clarksville, Tennessee, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T02:55:22.781Z",
+      "installId": "ins_4bf6669d-596c-4bcc-b44a-dc0ef06a0f09",
       "ownerUserId": null,
       "likedBy": []
     }
@@ -13525,7 +16043,8 @@
       1785765127526
     ],
     "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b": [
-      1785779492243
+      1785779492243,
+      1785811451386
     ],
     "ins_a6328f94-dd12-4a5e-b280-aa443b277b16": [
       1785783887214,
@@ -13539,6 +16058,15 @@
       1785805040046,
       1785805079594,
       1785805115521
+    ],
+    "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7": [
+      1785806894571
+    ],
+    "ins_5525cecc-8eb4-4973-a84f-f216b5b5d210": [
+      1785811445178
+    ],
+    "ins_4bf6669d-596c-4bcc-b44a-dc0ef06a0f09": [
+      1785812122895
     ]
   }
 }
