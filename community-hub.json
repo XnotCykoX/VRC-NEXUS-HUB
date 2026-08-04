@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T06:27:57.548Z",
+  "updatedAt": "2026-08-04T08:22:33.080Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8234,7 +8234,8 @@
       "installId": "ins_a75bb422-ba5b-4116-9c27-b027e32dd0be",
       "likedBy": [
         "ins_659105e8-8270-4193-8891-a3a84860c39c",
-        "ins_b8dade55-82fc-c3c5-6d38-dd023da6b2f2"
+        "ins_b8dade55-82fc-c3c5-6d38-dd023da6b2f2",
+        "ins_4c88e0c6-9fb6-4023-8611-9488b544b961"
       ]
     },
     {
@@ -8566,7 +8567,8 @@
       "publishedAt": "2026-07-31T13:19:57.376Z",
       "installId": "ins_1c8cc1e5-2204-440b-9a68-f222986ae6e0",
       "likedBy": [
-        "ins_97569ab7-f914-49c5-bdfd-f1f4f5ddf435"
+        "ins_97569ab7-f914-49c5-bdfd-f1f4f5ddf435",
+        "ins_4c88e0c6-9fb6-4023-8611-9488b544b961"
       ]
     },
     {
@@ -8699,9 +8701,7 @@
       "data": null,
       "publishedAt": "2026-08-01T04:15:27.560Z",
       "installId": "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102",
-      "likedBy": [
-        "ins_4c88e0c6-9fb6-4023-8611-9488b544b961"
-      ]
+      "likedBy": []
     },
     {
       "id": "preset-63df1ed9-fa5d-4afe-900e-9f286506573f",
@@ -11613,7 +11613,9 @@
       "publishedAt": "2026-08-03T12:58:28.998Z",
       "installId": "ins_6b842d6e-6452-4f52-a620-950800667be9",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_f88032fc-48c3-4edf-9767-a2ce32c65536"
+      ]
     },
     {
       "id": "preset-7c58b275-60f8-4e05-891a-915f3f95b510",
@@ -13173,7 +13175,9 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_318aa3f8-3300-4d7d-8e6b-d5e8b014a41a",
-        "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c"
+        "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
+        "ins_df51f717-f375-4516-b815-7d836e6245b1",
+        "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749"
       ]
     },
     {
@@ -13307,7 +13311,8 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
-        "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c"
+        "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
+        "ins_18395458-9a18-4ab2-a577-e066f1aadf42"
       ]
     },
     {
@@ -15666,7 +15671,9 @@
       "publishedAt": "2026-08-04T02:44:11.251Z",
       "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
       "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
-      "likedBy": []
+      "likedBy": [
+        "ins_8fe43ae6-d878-4f50-9616-1617b2c2489a"
+      ]
     },
     {
       "id": "preset-849170bb-2e2d-4636-b602-095b49a9c9fb",
@@ -15820,7 +15827,9 @@
       "publishedAt": "2026-08-04T02:55:22.781Z",
       "installId": "ins_4bf6669d-596c-4bcc-b44a-dc0ef06a0f09",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_c8b4f1ef-0122-462b-932c-9dda3046e940"
+      ]
     },
     {
       "id": "preset-044d14e8-5e7a-42c9-be70-b9c4ac3a81f2",
@@ -15979,6 +15988,166 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_1679104c-025f-45db-a077-be2832f3390f"
+      ]
+    },
+    {
+      "id": "preset-f2f235ef-42b7-4e31-af4a-7009f63d6a74",
+      "type": "preset",
+      "name": "Cloudz W/O Lyrics (With cloudz message borders)",
+      "author": "Mr_Cloudz",
+      "description": "",
+      "tags": [
+        "#OfficialClovdz"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "weather",
+          "date",
+          "battery",
+          "media",
+          "lyrics",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "☁️⇔",
+          "right": "⇔☁️"
+        },
+        "customFrame": {
+          "top": "☁️🪦1989-2021🪦☁️",
+          "bottom": "☁️🪦1989-2021🪦☁️"
+        },
+        "inline": {
+          "time": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "🔍",
+          "statuses": "Mr. Cloudz\nDon't fuh with me if you don't love urself\nIm furry so what\nPeople that anti furry are corny asf bru\nidgaf if you hate me its life.\nNexus|Quest support\nMarijuana<3\nIm very understanding and chill\nI love my dad '89-2026💔\n\"Insert cash or select payment type\"\nIm like an ghost, they disappear.\nCom kids are narcissist that are immature asf.\nYou bear the mark~ you're cursed!\nI love the smell of fear~\nOur future isn't bright anyways😛\n#1 Retard here!!\n24 H clock is tuff\nage baiters must die.\nMy dear beloved block button \nthe mute button is there for you yk? attention seeking bih.\nIm single by choice!!\nDeath isn't a escape \nCartels interestingly good in business but horrible for humanity\n↪️The loop continues⤴️\n",
+          "cycle": true,
+          "intervalSec": 8,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "💤"
+        },
+        "movement": {
+          "on": false,
+          "emoji": "j"
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": true,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "spotify",
+          "discordUserId": "1509703396217585674"
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": true,
+          "lat": 18.2612839,
+          "lon": -73.8444985,
+          "place": "Sud Department, Sud Department, HT",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": true,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": true,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": false,
+          "date": false,
+          "uptime": false,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T06:43:52.830Z",
+      "installId": "ins_a6328f94-dd12-4a5e-b280-aa443b277b16",
+      "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
+      "likedBy": [
+        "ins_18395458-9a18-4ab2-a577-e066f1aadf42"
       ]
     }
   ],
@@ -16222,7 +16391,8 @@
     "ins_a6328f94-dd12-4a5e-b280-aa443b277b16": [
       1785783887214,
       1785784032748,
-      1785784141029
+      1785784141029,
+      1785825833185
     ],
     "ins_24d31863-0861-4679-a61b-92401de99154": [
       1785804743351
