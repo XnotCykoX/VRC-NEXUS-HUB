@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T05:25:35.067Z",
+  "updatedAt": "2026-08-04T06:16:43.523Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8287,7 +8287,8 @@
       "likedBy": [
         "ins_9d6b2097-c89f-4a93-8e5a-aea5a3c25c98",
         "ins_e92d6035-c611-4772-8267-be67009de910",
-        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1"
+        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
+        "ins_3633bd40-57a2-4c10-882e-9b6bbd1fb6f7"
       ]
     },
     {
@@ -15971,7 +15972,9 @@
       "publishedAt": "2026-08-04T05:25:35.067Z",
       "installId": "ins_a734b6a8-7e07-4cc5-851e-5ab2e0b72827",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_1679104c-025f-45db-a077-be2832f3390f"
+      ]
     }
   ],
   "publishLog": {
