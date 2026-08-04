@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T16:18:15.751Z",
+  "updatedAt": "2026-08-04T17:18:19.288Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -16544,6 +16544,167 @@
       "publishedAt": "2026-08-04T13:42:37.250Z",
       "installId": "ins_7db99b59-8b18-4617-aff5-d7bc15eb5a55",
       "ownerUserId": null,
+      "likedBy": [
+        "ins_24f0db58-396f-416e-8c19-b499766404d7"
+      ]
+    },
+    {
+      "id": "preset-7d8dad74-18c9-4e82-a2d3-abd8e8b06e8f",
+      "type": "preset",
+      "name": "Thedemon",
+      "author": "Thedemon",
+      "description": "Idk",
+      "tags": [
+        "Idk"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "sparkle",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": true,
+          "battery": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "🎶",
+            "empty": "🎶",
+            "head": "🎧"
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T17:18:19.288Z",
+      "installId": "ins_3ba96be8-c65b-4681-9584-2f68f6e13fb5",
+      "ownerUserId": "usr_1fe4c956-16b9-46e3-a047-c942cca29c4c",
       "likedBy": []
     }
   ],
@@ -16819,6 +16980,9 @@
     ],
     "ins_7db99b59-8b18-4617-aff5-d7bc15eb5a55": [
       1785850957589
+    ],
+    "ins_3ba96be8-c65b-4681-9584-2f68f6e13fb5": [
+      1785863899447
     ]
   }
 }
