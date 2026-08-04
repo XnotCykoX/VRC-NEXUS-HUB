@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T10:29:40.347Z",
+  "updatedAt": "2026-08-04T12:21:28.609Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -13183,7 +13183,8 @@
         "ins_318aa3f8-3300-4d7d-8e6b-d5e8b014a41a",
         "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
         "ins_df51f717-f375-4516-b815-7d836e6245b1",
-        "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749"
+        "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749",
+        "ins_334be390-3479-4e82-a125-6a225d7391f7"
       ]
     },
     {
@@ -16216,6 +16217,168 @@
       "installId": "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "preset-11014d50-ce2d-4d6e-96b9-44ea5fa333e8",
+      "type": "preset",
+      "name": "Bows with a sniper :3",
+      "author": "PINKY",
+      "description": "Yes",
+      "tags": [
+        "Yes PINKY WAS HERE"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "୨୧-",
+          "right": "-୨୧"
+        },
+        "customFrame": {
+          "top": "───୨୧ ▄︻デ╦═一━୨୧───",
+          "bottom": "───୨ৎ───"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "lyrics": true,
+          "battery": true,
+          "uptime": true,
+          "weather": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "PINKSNIPER!!!\nI LOVE CANDY :3",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": true,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T11:48:42.844Z",
+      "installId": "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a",
+      "ownerUserId": "usr_e7eca35f-afd0-4302-b64a-7274e62e5974",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -16484,6 +16647,9 @@
     ],
     "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9": [
       1785832781471
+    ],
+    "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a": [
+      1785844122903
     ]
   }
 }
