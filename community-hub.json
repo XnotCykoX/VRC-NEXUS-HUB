@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T18:18:21.465Z",
+  "updatedAt": "2026-08-05T19:17:05.331Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -17961,6 +17961,159 @@
       "installId": "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "preset-0b21afcf-9019-4e01-9a47-afc580688d7e",
+      "type": "preset",
+      "name": "hi guys",
+      "author": "alastortheone",
+      "description": "The one",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "media",
+          "personal",
+          "lyrics",
+          "weather",
+          "battery",
+          "date",
+          "time",
+          "movement",
+          "mic",
+          "uptime",
+          "afk",
+          "vrcparam"
+        ],
+        "eggMode": true,
+        "separator": "pipe",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "💖",
+          "right": "💖"
+        },
+        "customFrame": {
+          "top": "❤️              ❤️",
+          "bottom": "❤️    ❤️"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "I love my wife \ncan i die",
+          "cycle": true,
+          "intervalSec": 20,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Gay",
+          "label": "Gay"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 5,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "ricevill",
+          "fahrenheit": false,
+          "lat": 43.36386,
+          "lon": -92.55407,
+          "place": "Riceville, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": true,
+          "vrcparam": false,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T19:17:05.331Z",
+      "installId": "ins_5539d47f-4f20-4e3c-a79f-3aca705f9899",
+      "ownerUserId": "usr_cde662a9-51c1-427f-824f-2311f293b896",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -18256,6 +18409,9 @@
     ],
     "ins_c5bf1465-6373-4750-9180-55cfef607f5e": [
       1785936120427
+    ],
+    "ins_5539d47f-4f20-4e3c-a79f-3aca705f9899": [
+      1785957425422
     ]
   }
 }
