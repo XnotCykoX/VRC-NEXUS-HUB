@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T17:18:32.833Z",
+  "updatedAt": "2026-08-05T18:17:51.659Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -12759,7 +12759,8 @@
       "ownerUserId": "usr_190d0dbf-65dd-451d-a0a1-93f4500c6dfc",
       "likedBy": [
         "ins_c0c24a27-ff4c-40eb-91a8-f8411bc4ce17",
-        "ins_34f1e0a6-0d44-465e-848f-d61fc23fb230"
+        "ins_34f1e0a6-0d44-465e-848f-d61fc23fb230",
+        "ins_b8714e85-c75d-4e78-b4e2-a218ce332530"
       ]
     },
     {
@@ -14538,8 +14539,7 @@
       "installId": "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a",
       "ownerUserId": "usr_e7eca35f-afd0-4302-b64a-7274e62e5974",
       "likedBy": [
-        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
-        "ins_07cec2b8-d1fb-4d1a-a9d6-e742dc2f9141"
+        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
       ]
     },
     {
@@ -15013,7 +15013,9 @@
       "publishedAt": "2026-08-05T13:22:00.159Z",
       "installId": "ins_c5bf1465-6373-4750-9180-55cfef607f5e",
       "ownerUserId": "usr_1eeafc6f-28a8-4d9a-92a4-f6d7d36dda4b",
-      "likedBy": []
+      "likedBy": [
+        "ins_36267036-f006-58fd-69bd-69b2b22bd23e"
+      ]
     },
     {
       "id": "sharepack-634d86c5-a385-441b-b9e6-b7c1334e2c5b",
@@ -17798,6 +17800,167 @@
       "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
       "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
       "likedBy": []
+    },
+    {
+      "id": "preset-cd0463c2-6948-4178-81aa-5367d1e83787",
+      "type": "preset",
+      "name": "he's a pdf",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "🫧",
+          "right": "🫧"
+        },
+        "customFrame": {
+          "top": "╔═  💤 ════ 🍼 ═╗",
+          "bottom": "╚═ 💤════🍼═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Subaru~Natsuki0 IS A PDF ASK US ABOUT IT\nSubaru~Natsuki0IS A PDF GO HARASS HIM\nSubaru~Natsuki0 LIKES 8 YEARS OLDS \nSubaru~Natsuki0 HAD CP ON HIS PHONE",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T18:17:51.659Z",
+      "installId": "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -17965,7 +18128,7 @@
       1785594622236
     ],
     "ins_07973189-ef6a-41ad-a650-16ad6b62c918": [
-      1785612266280
+      1785953871683
     ],
     "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463": [
       1785642813540
