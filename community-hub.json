@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T22:18:21.429Z",
+  "updatedAt": "2026-08-05T23:24:05.184Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -7208,7 +7208,8 @@
         "ins_b162c237-c09b-16c6-0526-8759a57c8128",
         "ins_3198c989-1ec5-4744-896d-e4219efb979f",
         "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
-        "ins_34f1e0a6-0d44-465e-848f-d61fc23fb230"
+        "ins_34f1e0a6-0d44-465e-848f-d61fc23fb230",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -8098,7 +8099,6 @@
         "ins_659105e8-8270-4193-8891-a3a84860c39c",
         "ins_525d8d51-a649-4ecd-a63d-ee89fb86349b",
         "ins_e78111de-9f36-4915-9341-51e644c22204",
-        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_4d201774-9a42-4142-8e1b-ce81e4be602e",
@@ -8106,7 +8106,8 @@
         "ins_130cff86-8c26-4b2f-8a9c-e67e55ffe0f8",
         "ins_01ed2897-897f-4ce5-9103-ffd49f193239",
         "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
-        "ins_6ea95963-25db-4fe2-af02-8470b01985a8"
+        "ins_6ea95963-25db-4fe2-af02-8470b01985a8",
+        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598"
       ]
     },
     {
@@ -8248,7 +8249,8 @@
         "ins_659105e8-8270-4193-8891-a3a84860c39c",
         "ins_b8dade55-82fc-c3c5-6d38-dd023da6b2f2",
         "ins_4c88e0c6-9fb6-4023-8611-9488b544b961",
-        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a"
+        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -9287,7 +9289,8 @@
         "ins_8e473691-153c-4fbc-9503-c9534c2bb4d1",
         "ins_48480933-13c6-46f1-b2bb-429acb0c2021",
         "ins_45673bef-86d7-4c5c-9870-04a3bd38fdd7",
-        "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7"
+        "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -9710,7 +9713,9 @@
         "ins_91fd20ea-f01d-4d73-9953-a52b1368b9f3",
         "ins_2546ace6-7a36-4fd1-8982-c27a86e6f0bb",
         "ins_28efecad-90e6-4cdd-aa71-c5371fbd8057",
-        "ins_1960c753-787e-432a-9356-f7335db0575f"
+        "ins_1960c753-787e-432a-9356-f7335db0575f",
+        "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
+        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598"
       ]
     },
     {
@@ -10294,7 +10299,8 @@
         "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7",
         "ins_3198c989-1ec5-4744-896d-e4219efb979f",
         "ins_1dbf60ae-ebcb-447c-b906-eb55c70d74a3",
-        "ins_be821cbf-9221-4645-b336-bd2a6c8eb15f"
+        "ins_be821cbf-9221-4645-b336-bd2a6c8eb15f",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -11940,7 +11946,8 @@
       "installId": "ins_a1b60b90-9a58-42e4-a4c7-ca9117d870b9",
       "ownerUserId": null,
       "likedBy": [
-        "ins_0737b626-7092-48da-9bbe-a7efeccff21f"
+        "ins_0737b626-7092-48da-9bbe-a7efeccff21f",
+        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598"
       ]
     },
     {
@@ -12257,7 +12264,8 @@
       "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
       "likedBy": [
         "ins_892b335e-7093-44a4-98b1-f60a68fa033c",
-        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -13215,7 +13223,8 @@
         "ins_df51f717-f375-4516-b815-7d836e6245b1",
         "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749",
         "ins_334be390-3479-4e82-a125-6a225d7391f7",
-        "ins_3d1db3c3-caaf-4e5d-8543-4889b49d119a"
+        "ins_3d1db3c3-caaf-4e5d-8543-4889b49d119a",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -13833,7 +13842,8 @@
         "ins_fd3ba99b-8b37-4f76-94d5-f9aec2fbb3db",
         "ins_b587d21f-461f-47c6-81d3-753241e655aa",
         "ins_21dad64d-23bd-4289-8b5c-b54b9c38c032",
-        "ins_bf2244ac-823e-467c-98f6-e6700466cf0c"
+        "ins_bf2244ac-823e-467c-98f6-e6700466cf0c",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -13992,7 +14002,8 @@
       "installId": "ins_a734b6a8-7e07-4cc5-851e-5ab2e0b72827",
       "ownerUserId": null,
       "likedBy": [
-        "ins_1679104c-025f-45db-a077-be2832f3390f"
+        "ins_1679104c-025f-45db-a077-be2832f3390f",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -14544,7 +14555,8 @@
       "installId": "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a",
       "ownerUserId": "usr_e7eca35f-afd0-4302-b64a-7274e62e5974",
       "likedBy": [
-        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
+        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
       ]
     },
     {
@@ -18119,6 +18131,165 @@
       "installId": "ins_5539d47f-4f20-4e3c-a79f-3aca705f9899",
       "ownerUserId": "usr_cde662a9-51c1-427f-824f-2311f293b896",
       "likedBy": []
+    },
+    {
+      "id": "preset-9eb2def1-12c2-4e3d-965c-e9cc19491ed5",
+      "type": "preset",
+      "name": "Ledoodles shyte",
+      "author": "LEDOODLE",
+      "description": "buncha funny fnaf stuff",
+      "tags": [
+        "BonnieRisagimp"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "battery",
+          "media",
+          "lyrics",
+          "time",
+          "date",
+          "weather",
+          "mic",
+          "uptime",
+          "afk",
+          "movement",
+          "vrcparam",
+          "instance"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "【",
+          "right": "】"
+        },
+        "customFrame": {
+          "top": "⭐",
+          "bottom": "⭐"
+        },
+        "inline": {
+          "lyrics": false,
+          "media": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "\"The bear that stares, scares, and is a little worse for wear, Freddy Fazbear!\"\ni ❤️ GlamrockbonnieR\n\"we don't have to change\"\nsparky and lefty are the best duo iykyk\n",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": " 🎤"
+        },
+        "afk": {
+          "on": false,
+          "emoji": "😵"
+        },
+        "movement": {
+          "on": false,
+          "emoji": "🏃‍♂"
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🗣️",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 1,
+            "fill": "▰",
+            "empty": "▱",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🗣️"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "☁️",
+          "city": "New jersey ",
+          "fahrenheit": true,
+          "lat": 10.23333,
+          "lon": -61.63333,
+          "place": "New Jersey, Siparia Regional Corporation, TT",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": true,
+          "movement": true,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T23:24:05.184Z",
+      "installId": "ins_1802bbff-951f-467a-9b94-673086b039f4",
+      "ownerUserId": "usr_cf7f68ec-9662-426f-90c8-96e813cc1924",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -18417,6 +18588,9 @@
     ],
     "ins_5539d47f-4f20-4e3c-a79f-3aca705f9899": [
       1785957425422
+    ],
+    "ins_1802bbff-951f-467a-9b94-673086b039f4": [
+      1785972245321
     ]
   }
 }
