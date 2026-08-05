@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T13:22:00.159Z",
+  "updatedAt": "2026-08-05T17:18:24.883Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5391,7 +5391,8 @@
       "likedBy": [
         "ins_9f97d7a5-c64d-4dec-8b92-065b2a40deab",
         "ins_37dcb416-d068-4654-a656-cbbeb81c32e7",
-        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1"
+        "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
       ]
     },
     {
@@ -7243,7 +7244,8 @@
         "ins_d2991832-34db-4cc6-a631-713bc3ef1aa0",
         "ins_2d026113-e263-1401-bcfe-7cca94f08a3f",
         "ins_883ef934-9e71-4c0e-906b-c6b87afd0094",
-        "ins_6efbed47-0134-31a2-e4b8-1e81098cb0be"
+        "ins_6efbed47-0134-31a2-e4b8-1e81098cb0be",
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
       ]
     },
     {
@@ -8300,7 +8302,8 @@
         "ins_e92d6035-c611-4772-8267-be67009de910",
         "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
         "ins_3633bd40-57a2-4c10-882e-9b6bbd1fb6f7",
-        "ins_891413dd-4e74-4d26-9b92-eb0d60da65bf"
+        "ins_891413dd-4e74-4d26-9b92-eb0d60da65bf",
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
       ]
     },
     {
@@ -13668,17 +13671,1362 @@
       "likedBy": []
     },
     {
-      "id": "sharepack-559dc50c-be7b-491b-a456-4fe5631cb85a",
-      "type": "sharepack",
-      "name": "Kaykay's Avi dump V1",
-      "author": "Kaykay",
-      "description": "Personal avi dump For roleplays and the sort, updates to come!",
+      "id": "preset-849170bb-2e2d-4636-b602-095b49a9c9fb",
+      "type": "preset",
+      "name": "freaky",
+      "author": "Cable",
+      "description": "Uhm freak",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "lyrics",
+          "media",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "stars",
+        "border": "custom",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💫",
+          "statuses": "do you think i am cute?\n\n\n",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "🗣️"
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "💤",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 8,
+            "fill": "▰",
+            "empty": "▱",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Clarksville",
+          "fahrenheit": true,
+          "lat": 36.52977,
+          "lon": -87.35945,
+          "place": "Clarksville, Tennessee, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T02:55:22.781Z",
+      "installId": "ins_4bf6669d-596c-4bcc-b44a-dc0ef06a0f09",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_c8b4f1ef-0122-462b-932c-9dda3046e940",
+        "ins_1679104c-025f-45db-a077-be2832f3390f",
+        "ins_fd3ba99b-8b37-4f76-94d5-f9aec2fbb3db",
+        "ins_b587d21f-461f-47c6-81d3-753241e655aa",
+        "ins_21dad64d-23bd-4289-8b5c-b54b9c38c032"
+      ]
+    },
+    {
+      "id": "preset-044d14e8-5e7a-42c9-be70-b9c4ac3a81f2",
+      "type": "preset",
+      "name": "spider man the goat",
+      "author": "Tsk",
+      "description": "He's the goat",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "battery",
+          "media",
+          "lyrics",
+          "time",
+          "date",
+          "weather",
+          "mic",
+          "uptime",
+          "afk",
+          "movement",
+          "vrcparam",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "waves",
+        "border": "hearts",
+        "customBorder": {
+          "left": "─❥",
+          "right": "─❯✹"
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "lyrics": false,
+          "media": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "love my friends\nJesus king\nI'm a furry\ni love tom\nspiderman the goat\nwhy\ntaken\ni love her so much I'm happy we are back together again i love you baby\n",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": " 🎤"
+        },
+        "afk": {
+          "on": false,
+          "emoji": "😵"
+        },
+        "movement": {
+          "on": false,
+          "emoji": "🏃‍♂"
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🗣️",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 1,
+            "fill": "▰",
+            "empty": "▱",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🗣️"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "☁️",
+          "city": "New jersey ",
+          "fahrenheit": true,
+          "lat": 10.23333,
+          "lon": -61.63333,
+          "place": "New Jersey, Siparia Regional Corporation, TT",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": true,
+          "movement": true,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T05:25:35.067Z",
+      "installId": "ins_a734b6a8-7e07-4cc5-851e-5ab2e0b72827",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_1679104c-025f-45db-a077-be2832f3390f"
+      ]
+    },
+    {
+      "id": "preset-f2f235ef-42b7-4e31-af4a-7009f63d6a74",
+      "type": "preset",
+      "name": "Cloudz W/O Lyrics (With cloudz message borders)",
+      "author": "Mr_Cloudz",
+      "description": "",
       "tags": [
-        "half life",
-        "TF2",
-        "SCP",
+        "#OfficialClovdz"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "weather",
+          "date",
+          "battery",
+          "media",
+          "lyrics",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "☁️⇔",
+          "right": "⇔☁️"
+        },
+        "customFrame": {
+          "top": "☁️🪦1989-2021🪦☁️",
+          "bottom": "☁️🪦1989-2021🪦☁️"
+        },
+        "inline": {
+          "time": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "🔍",
+          "statuses": "Mr. Cloudz\nDon't fuh with me if you don't love urself\nIm furry so what\nPeople that anti furry are corny asf bru\nidgaf if you hate me its life.\nNexus|Quest support\nMarijuana<3\nIm very understanding and chill\nI love my dad '89-2026💔\n\"Insert cash or select payment type\"\nIm like an ghost, they disappear.\nCom kids are narcissist that are immature asf.\nYou bear the mark~ you're cursed!\nI love the smell of fear~\nOur future isn't bright anyways😛\n#1 Retard here!!\n24 H clock is tuff\nage baiters must die.\nMy dear beloved block button \nthe mute button is there for you yk? attention seeking bih.\nIm single by choice!!\nDeath isn't a escape \nCartels interestingly good in business but horrible for humanity\n↪️The loop continues⤴️\n",
+          "cycle": true,
+          "intervalSec": 8,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "💤"
+        },
+        "movement": {
+          "on": false,
+          "emoji": "j"
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": true,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "spotify",
+          "discordUserId": "1509703396217585674"
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": true,
+          "lat": 18.2612839,
+          "lon": -73.8444985,
+          "place": "Sud Department, Sud Department, HT",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": true,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": true,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": false,
+          "date": false,
+          "uptime": false,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T06:43:52.830Z",
+      "installId": "ins_a6328f94-dd12-4a5e-b280-aa443b277b16",
+      "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
+      "likedBy": [
+        "ins_18395458-9a18-4ab2-a577-e066f1aadf42",
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
+        "ins_4ef6b711-68b5-417a-a892-3f3e05250d05",
+        "ins_e44dd330-4ccd-44b6-96b7-5b2f3136470b"
+      ]
+    },
+    {
+      "id": "script-d86a03ec-0d2f-482e-bfbf-8eea6ab0b927",
+      "type": "script",
+      "name": "grow + shrink - (chat box)",
+      "author": "???",
+      "description": "",
+      "tags": [
+        "grow"
+      ],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 14,
+            "type": "loop",
+            "count": "0",
+            "children": [
+              {
+                "id": 11,
+                "type": "chatbox",
+                "text": "+"
+              },
+              {
+                "id": 3,
+                "type": "height",
+                "value": "1.7",
+                "sweep": true,
+                "from": 0.5,
+                "to": 2,
+                "seconds": 3,
+                "pingpong": false
+              },
+              {
+                "id": 9,
+                "type": "chatbox",
+                "text": "-"
+              },
+              {
+                "id": 8,
+                "type": "height",
+                "value": "",
+                "sweep": true,
+                "from": "2",
+                "to": "0.5",
+                "seconds": "3",
+                "pingpong": false
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T08:39:41.397Z",
+      "installId": "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+      ]
+    },
+    {
+      "id": "preset-7d8dad74-18c9-4e82-a2d3-abd8e8b06e8f",
+      "type": "preset",
+      "name": "Thedemon",
+      "author": "Thedemon",
+      "description": "Idk",
+      "tags": [
+        "Idk"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "sparkle",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": true,
+          "battery": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "🎶",
+            "empty": "🎶",
+            "head": "🎧"
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-04T17:18:19.288Z",
+      "installId": "ins_3ba96be8-c65b-4681-9584-2f68f6e13fb5",
+      "ownerUserId": "usr_1fe4c956-16b9-46e3-a047-c942cca29c4c",
+      "likedBy": [
+        "ins_ef3decc3-e301-46d9-b6c0-8b0117203584",
+        "ins_c0e97512-3319-40ea-a175-a7b681db12d8"
+      ]
+    },
+    {
+      "id": "preset-bbfb4687-45e5-47ea-aa39-bf1a4037134c",
+      "type": "preset",
+      "name": "Pinkys sniper with a bow",
+      "author": "PINKY",
+      "description": "Fixed the way it looked enjoy",
+      "tags": [
+        "PINKY WAS HERE"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "୨୧-",
+          "right": "-୨୧"
+        },
+        "customFrame": {
+          "top": "───୨୧▄︻デ╦═一━୨୧───",
+          "bottom": "───୨ৎ───"
+        },
+        "inline": {
+          "time": false,
+          "date": false,
+          "lyrics": true,
+          "battery": false,
+          "uptime": false,
+          "weather": false,
+          "movement": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "PINKSNIPER!!!\nI LOVE CANDY :3",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T03:44:47.197Z",
+      "installId": "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a",
+      "ownerUserId": "usr_e7eca35f-afd0-4302-b64a-7274e62e5974",
+      "likedBy": [
+        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
+      ]
+    },
+    {
+      "id": "preset-bb33500e-7108-4b00-9f3b-1b4a82d828ac",
+      "type": "preset",
+      "name": "I love him<3",
+      "author": "CoolGirlPurple",
+      "description": "I love him<3",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T05:29:12.570Z",
+      "installId": "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
+      "ownerUserId": "usr_57b037f2-0c18-4ff6-8996-a0a590a462da",
+      "likedBy": [
+        "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
+        "ins_9081fbd1-f5cb-4053-a4f5-589a0fdb48b3",
+        "ins_346f726b-32cb-4e18-9d4a-71ce462dee00",
+        "ins_07cec2b8-d1fb-4d1a-a9d6-e742dc2f9141"
+      ]
+    },
+    {
+      "id": "preset-a1dab5cb-24e0-4d3d-a801-8d8f2964b2d6",
+      "type": "preset",
+      "name": "ghost",
+      "author": "Ghostboiontop",
+      "description": "Hi",
+      "tags": [
+        "Spiderman"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "none",
+        "border": "sparkle",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": true,
+          "battery": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "🎶",
+            "empty": "🎶",
+            "head": "🎧"
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T08:59:18.465Z",
+      "installId": "ins_16866367-580e-456c-9560-0d7038b9a07d",
+      "ownerUserId": "usr_527ef5df-a406-4a97-b8c3-0dabe32d248e",
+      "likedBy": []
+    },
+    {
+      "id": "preset-dcf929eb-c5b5-4c88-be0b-4b63348627ad",
+      "type": "preset",
+      "name": "e boy / femboy",
+      "author": "Onlyoneking",
+      "description": "noice",
+      "tags": [
+        "Think thighs save li"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-05T13:22:00.159Z",
+      "installId": "ins_c5bf1465-6373-4750-9180-55cfef607f5e",
+      "ownerUserId": "usr_1eeafc6f-28a8-4d9a-92a4-f6d7d36dda4b",
+      "likedBy": []
+    },
+    {
+      "id": "sharepack-634d86c5-a385-441b-b9e6-b7c1334e2c5b",
+      "type": "sharepack",
+      "name": "Kaykay's Avi dump V1.1",
+      "author": "Kaykay",
+      "description": "",
+      "tags": [
         "Deltarune",
-        "Bully"
+        "Half life",
+        "TF2",
+        "Bully",
+        "SCP"
       ],
       "platform": "quest",
       "payload": {
@@ -13689,7 +15037,14 @@
             "avtr_8d330d80-bc72-410e-ac6a-99add083256f",
             "avtr_0c0b67ab-48bf-4d07-8c12-0334d826d370",
             "avtr_e30e7dc9-53e8-493a-9a95-39f0dadf69e9",
-            "avtr_bded3068-5c18-4457-ba8a-813949a96eec"
+            "avtr_bded3068-5c18-4457-ba8a-813949a96eec",
+            "avtr_07f0f007-be1c-4b99-a013-c392ebb131c7",
+            "avtr_3bdf8266-87be-4d1a-8da7-099b5a7ec3e7",
+            "avtr_1997e5be-7bf2-4dd7-9080-e1e14603cc76",
+            "avtr_739af8c7-7f87-41e6-a94b-2d971e5fa1d8",
+            "avtr_d1300a67-3b2e-4f20-b6f5-901f922488cf",
+            "avtr_2cbb56f0-5ad0-4189-a86b-ccaa4ecc2af9",
+            "avtr_59dd7d70-a613-4403-83d2-84b6598cd28f"
           ],
           "Cute/Optimized": [
             "avtr_20f903f0-ab1c-4b2a-a87e-0f567d20eb6e",
@@ -13762,7 +15117,14 @@
             "avtr_ebd0a907-d70d-4bb6-87a1-c98ddceeb8c7",
             "avtr_e73a378e-bcb7-40e2-854c-77480204bbcf",
             "avtr_01d97976-5122-4e73-aca2-d39f35ba0061",
-            "avtr_6ebf6166-ab17-4fcc-be00-070541360fe9"
+            "avtr_6ebf6166-ab17-4fcc-be00-070541360fe9",
+            "avtr_e48fbb84-0e66-425a-b6f4-c59adfeaa920",
+            "avtr_1df295ed-c743-44ef-a82e-edc21d360a7e",
+            "avtr_832e5acf-510c-485b-b32c-ec9a249f38b4",
+            "avtr_0c0ed7da-90cb-4c5b-a585-aa59772e2e96",
+            "avtr_1f72eee9-4ba4-4ec9-b110-afff99a4fcde",
+            "avtr_583dbacf-5e7b-40e8-ab92-d2df57acabe9",
+            "avtr_f0851fc0-1f14-4719-ac5c-8021d8983b04"
           ],
           "Service Workers": [
             "avtr_0a155747-df9d-444c-9b61-72f691f0ff64",
@@ -13787,7 +15149,13 @@
           "Bully: Scholarship Edition": [
             "avtr_b6966c49-3f38-4ed8-a274-7834bd1d3c39",
             "avtr_c87c1788-08e9-42b8-971b-927cfa009cf1",
-            "avtr_11c481cb-5bc3-41c8-95f3-01847b5b22e9"
+            "avtr_11c481cb-5bc3-41c8-95f3-01847b5b22e9",
+            "avtr_e99da8c2-0eef-4bd3-a7c5-f158b0c645e7",
+            "avtr_487ff6f8-0656-4d5a-99bd-09b9606a57b8",
+            "avtr_63c6ea52-15cb-4530-b476-041375862114",
+            "avtr_a18d09de-0e2e-47de-a84c-b0df5b1170d4",
+            "avtr_9b8ecd68-8b94-4d34-96de-372772b10bdf",
+            "avtr_28fa0ae6-f1a5-4d64-855e-95df3916401d"
           ],
           "Team Fortress 2": [
             "avtr_e53584c5-6051-4417-b430-1f90b4815f5f",
@@ -13795,7 +15163,9 @@
             "avtr_6fbf6966-a509-4894-b6a7-b06c7350da64",
             "avtr_1d0a4ff2-b4d6-42b5-8d19-687c53ec2206",
             "avtr_aaee2b3a-54c0-490a-a622-030c291c1a3c",
-            "avtr_69f51fe7-987e-4e75-9f74-af793413bbc7"
+            "avtr_69f51fe7-987e-4e75-9f74-af793413bbc7",
+            "avtr_947d8314-4b02-49db-bef5-bf813f2b1358",
+            "avtr_d67066d1-4cf7-40b5-b893-345c0ce6f466"
           ],
           "Half Life": [
             "avtr_9fa5ee1b-d58b-47da-bc4d-8d53d345de5c",
@@ -13856,7 +15226,13 @@
             "avtr_f417b4a5-6bae-4ac6-97c0-ccb1e0710ca3",
             "avtr_bbc42ba8-d397-47b8-8d6a-3d884d0a9680",
             "avtr_d0deb104-ce73-4eab-8107-901c0e014fc0",
-            "avtr_14b73c6c-4e53-453d-81a4-f2d384db0204"
+            "avtr_14b73c6c-4e53-453d-81a4-f2d384db0204",
+            "avtr_8da8dd43-1124-442e-a205-e90cc48d8211",
+            "avtr_591b7b57-42b0-446e-a9d8-f3a67175d59b",
+            "avtr_533b2982-f946-4ecf-8847-3bd652c401a9",
+            "avtr_5211acf2-4c6b-4b27-b49b-bfee38bce60c",
+            "avtr_60299e85-c551-4eb4-b2a2-d7bde6649d80",
+            "avtr_f80660a6-f972-4eb2-a781-e2c90c73484c"
           ],
           "Civvies": [
             "avtr_5746f40d-5607-455d-86c9-e8c045cc485c",
@@ -13875,10 +15251,46 @@
             "avtr_e1fe5f2c-193b-4d49-8461-9f08c300d55b",
             "avtr_a058913a-3212-42e4-b10d-69398873fba5",
             "avtr_00045d57-0f64-451c-97a7-3c7a61109f9c",
-            "avtr_e58403f3-d6c1-4d17-84b6-a195738cd8a6"
+            "avtr_e58403f3-d6c1-4d17-84b6-a195738cd8a6",
+            "avtr_7fd0adc9-0aa9-4e69-90b6-41a14dc82b2e",
+            "avtr_edf81a8f-50b3-4b57-8805-af4e76cd239d",
+            "avtr_8b61e4d6-f22e-478c-b509-1acd622aff06",
+            "avtr_8e35bdc0-cf22-43d3-9c01-8b306c3d63ad",
+            "avtr_9551a0db-036b-4fd0-bc55-500d8960b379",
+            "avtr_6d9fd359-c273-4f65-9bcd-fd4b1bc64f55",
+            "avtr_7a52adae-6058-45b4-8449-66c7b7c8df20",
+            "avtr_b7a56ae2-92ee-4209-b8ea-de04ec66c780",
+            "avtr_d0774792-ac33-45f0-bb93-cf95db85b793",
+            "avtr_d41ae472-bd09-4294-af3e-150be72fb90c",
+            "avtr_1781d24f-dd66-4310-862c-f1c47317881c",
+            "avtr_902bb440-3ab9-4e10-94a4-7d1cf0c4b98a",
+            "avtr_49e22b83-21b5-40f5-b6ef-55ddead67b1d",
+            "avtr_900399e7-a452-4cf6-b1dc-e0a15b75ce1e",
+            "avtr_1a51ebe7-c6bd-4eb3-b773-775cff93e39d",
+            "avtr_0f30cd4d-8771-4d51-accd-ad11e63538d9",
+            "avtr_1daf0636-fbd8-47a3-aa1b-6cd1d5641afe",
+            "avtr_9be44dc7-6c1e-4fe5-86ab-6efc3e0eaa7e",
+            "avtr_99b03873-b951-4559-8ed4-15af1ae7fa7a",
+            "avtr_64dcd042-8457-4d32-a80f-41a566d5b7cd",
+            "avtr_fefab6c7-fb85-4263-ad0d-d67ef77ca12e",
+            "avtr_c587d9f6-ca1b-490c-9ed4-4b291ad29e67",
+            "avtr_a9685353-74c5-42b2-8fa2-4fc0b376e541",
+            "avtr_1ea99a33-8ccd-4b88-b45a-871098852e63",
+            "avtr_6fed2fd8-4494-4779-a2e5-8c823d110d6e",
+            "avtr_870dde88-adee-4e9a-a04f-8166efacbe47"
           ],
           "Roleplay utility": [
-            "avtr_4b1db404-8ff8-4bdc-b884-b9f7571c60b5"
+            "avtr_4b1db404-8ff8-4bdc-b884-b9f7571c60b5",
+            "avtr_13010f37-5fb0-4065-8a15-d4a3f73031f7"
+          ],
+          "TWD:G": [
+            "avtr_6bccfeb2-aee3-4d8b-99d0-5f4d5859046f",
+            "avtr_e5091a05-17f9-4b0d-8ffb-f03f7cf43213",
+            "avtr_78c6280c-a9f5-44c9-b09e-3105426713ba",
+            "avtr_f738a959-1928-48df-ab00-14a11d86b7d3",
+            "avtr_0cdb10e6-2d8f-4bc4-ad75-2596932f2815",
+            "avtr_84d59e73-7d07-46a3-9ec4-2ad18a7817b6",
+            "avtr_712ae66c-e288-4531-ba5d-656da2a5bd3c"
           ]
         },
         "avatars": [
@@ -13945,6 +15357,83 @@
             "platforms": [
               "android",
               "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_07f0f007-be1c-4b99-a013-c392ebb131c7",
+            "name": "Dess Holiday（Public）",
+            "author": "Viօlet",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fceb3d4b-1d3d-49a5-abea-1a5a9e9d7541/4/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_3bdf8266-87be-4d1a-8da7-099b5a7ec3e7",
+            "name": "skruffy （sneckys avatar shop mascot）",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_0e89a5b8-c784-489f-a24b-8b454d3453e7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1997e5be-7bf2-4dd7-9080-e1e14603cc76",
+            "name": "expie kyomin V2（casualties unknown）",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c538aa6c-cbe6-4485-be9d-60858418ec87/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_739af8c7-7f87-41e6-a94b-2d971e5fa1d8",
+            "name": "susie",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ba12d3cf-25b6-4416-8ca2-ff3854d07bf9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d1300a67-3b2e-4f20-b6f5-901f922488cf",
+            "name": "dess low poly",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a6f75bfa-341a-47b2-b95d-147aeaba9a12/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_2cbb56f0-5ad0-4189-a86b-ccaa4ecc2af9",
+            "name": "rudy low poly",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fb6cefe4-9209-426b-8f36-16edebd59423/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_59dd7d70-a613-4403-83d2-84b6598cd28f",
+            "name": "asriel dreemurr deltarune low poly",
+            "author": "sneckyfox vr",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bbff597c-6e99-469e-9bea-145355bc0ce4/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
             ]
           },
           {
@@ -14668,6 +16157,83 @@
             ]
           },
           {
+            "id": "avtr_e48fbb84-0e66-425a-b6f4-c59adfeaa920",
+            "name": "MW3 SAS",
+            "author": "King Hywel Dda",
+            "image": "https://api.vrchat.cloud/api/1/image/file_23340301-9fca-491c-a10f-1bfe0f924f09/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1df295ed-c743-44ef-a82e-edc21d360a7e",
+            "name": "Black Ops 2 FBI",
+            "author": "King Hywel Dda",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f92dc672-1914-47ab-8389-676c764d79e0/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_832e5acf-510c-485b-b32c-ec9a249f38b4",
+            "name": "Doom 3 Marine",
+            "author": "CL0WN V0M1T",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2de36542-40a9-4469-a1cb-c86333bc39c7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0c0ed7da-90cb-4c5b-a585-aa59772e2e96",
+            "name": "PMC Fog",
+            "author": "Pearce_Cypress",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9f831979-f064-43fd-baec-772f09d43243/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1f72eee9-4ba4-4ec9-b110-afff99a4fcde",
+            "name": "Fallout 3⁄Fallout New Vegas˸ Raider",
+            "author": "vsvscscbaibc",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2f761ee8-a6df-4283-8cf7-6911889fbfc9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_583dbacf-5e7b-40e8-ab92-d2df57acabe9",
+            "name": "UHH",
+            "author": "vsvscscbaibc",
+            "image": "https://api.vrchat.cloud/api/1/image/file_834aa80a-075a-400f-85ea-e5e242ffa3d7/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f0851fc0-1f14-4719-ac5c-8021d8983b04",
+            "name": "JMSDF",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_98d9bd61-d2f3-4b91-85bb-e451150681d0/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
             "id": "avtr_0a155747-df9d-444c-9b61-72f691f0ff64",
             "name": "Halo 3 Civilian ⁄ Traxus Dock Worker",
             "author": "Camera-Guy",
@@ -14898,6 +16464,71 @@
             ]
           },
           {
+            "id": "avtr_e99da8c2-0eef-4bd3-a7c5-f158b0c645e7",
+            "name": "Tom Gurney",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b4d1bc33-b770-424e-b590-c82f14563533/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_487ff6f8-0656-4d5a-99bd-09b9606a57b8",
+            "name": "Norton Williams",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1bcee94e-b81c-4e4e-afbc-ebe21e03afff/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_63c6ea52-15cb-4530-b476-041375862114",
+            "name": "Johnny Vincent",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c37f6814-671f-4377-8283-e0aed0eaf778/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a18d09de-0e2e-47de-a84c-b0df5b1170d4",
+            "name": "Larry ＂Peanut＂ Romano",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e452ce29-4fc2-4ab3-9f73-f456e5747ba5/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9b8ecd68-8b94-4d34-96de-372772b10bdf",
+            "name": "Trent Northwick",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_400480da-293b-45cf-b8ee-7aa22b13f57e/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_28fa0ae6-f1a5-4d64-855e-95df3916401d",
+            "name": "Edgar Munsen (Consider using https://avtr.zip/avatars)",
+            "author": "riflestrife",
+            "image": "https://thumb.avtr.zip/avtr_28fa0ae6-f1a5-4d64-855e-95df3916401d.png",
+            "platforms": [
+              "PC",
+              "Quest"
+            ]
+          },
+          {
             "id": "avtr_e53584c5-6051-4417-b430-1f90b4815f5f",
             "name": "Engineer",
             "author": "ffgameryt",
@@ -14957,6 +16588,28 @@
             "name": "The Merc",
             "author": "SGDK",
             "image": "https://api.vrchat.cloud/api/1/image/file_89d58274-cd5b-42f4-8337-259598d990b2/6/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_947d8314-4b02-49db-bef5-bf813f2b1358",
+            "name": "Pyro",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_64b5762c-8189-448d-b7c1-c01552503642/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d67066d1-4cf7-40b5-b893-345c0ce6f466",
+            "name": "Heavy",
+            "author": "ffgameryt",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ca7b6ab9-619c-4408-8006-b73e726eca07/1/256",
             "platforms": [
               "android",
               "standalonewindows",
@@ -15499,6 +17152,72 @@
             ]
           },
           {
+            "id": "avtr_8da8dd43-1124-442e-a205-e90cc48d8211",
+            "name": "US Soldier DOD˸S",
+            "author": "Luigi The Proto",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6b7a622e-ab7f-41e7-98d6-f0acfcd962a5/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_591b7b57-42b0-446e-a9d8-f3a67175d59b",
+            "name": "Red Army Commissar",
+            "author": "ɦǟռֆ աɨʟʟɨǟʍ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3fc9ebf4-ac9a-47a7-b705-4c1d8cec2c67/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_533b2982-f946-4ecf-8847-3bd652c401a9",
+            "name": "Oceania Inner Party",
+            "author": "ɦǟռֆ աɨʟʟɨǟʍ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_116ed0ad-d023-4a77-a445-e215be706a5a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_5211acf2-4c6b-4b27-b49b-bfee38bce60c",
+            "name": "Soviet Metrocop",
+            "author": "vsvscscbaibc",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3f5e736a-594e-4064-901b-e8ef800403f8/3/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_60299e85-c551-4eb4-b2a2-d7bde6649d80",
+            "name": "Red guard",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_78eea1ec-f706-49a0-903a-bdada273c84f/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f80660a6-f972-4eb2-a781-e2c90c73484c",
+            "name": "Medieval Italian Armor",
+            "author": "vsvscscbaibc",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a2fc87bb-8e68-418c-9235-b7809bac16b3/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
             "id": "avtr_5746f40d-5607-455d-86c9-e8c045cc485c",
             "name": "Generic bad guy",
             "author": "branden5002",
@@ -15685,6 +17404,292 @@
             ]
           },
           {
+            "id": "avtr_7fd0adc9-0aa9-4e69-90b6-41a14dc82b2e",
+            "name": "Simon Henriksson",
+            "author": "riflestrife",
+            "image": "https://api.vrchat.cloud/api/1/image/file_65024cff-4902-4c62-9838-6c7d103cbf11/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_edf81a8f-50b3-4b57-8805-af4e76cd239d",
+            "name": "Zoey L4D",
+            "author": "ᴄᴏᴡᴍᴀɴ",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6c39cf0e-618a-46f8-a281-f3bd19d7a385/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8b61e4d6-f22e-478c-b509-1acd622aff06",
+            "name": "Peter",
+            "author": "I'mBeautyFool",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fcbf79ec-7fce-4367-a3fd-930cb17846c5/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8e35bdc0-cf22-43d3-9c01-8b306c3d63ad",
+            "name": "Male Farmer Soul",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_94add987-0e03-42f3-a140-fda638e25047/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9551a0db-036b-4fd0-bc55-500d8960b379",
+            "name": "Male Hunter Soul",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cf5e6d5c-93dc-4201-af4f-1586a18f7788/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6d9fd359-c273-4f65-9bcd-fd4b1bc64f55",
+            "name": "Male Soul Young 2",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_12eeb3a4-9d60-453b-8a1d-ca472cc2220a/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_7a52adae-6058-45b4-8449-66c7b7c8df20",
+            "name": "Female Soul Adult",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bf1bb691-a817-495c-8d72-8f92e4b42d2b/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_b7a56ae2-92ee-4209-b8ea-de04ec66c780",
+            "name": "Male Soul Old",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_515fe6b2-0a78-4c09-a6e2-25b2932b0b9b/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d0774792-ac33-45f0-bb93-cf95db85b793",
+            "name": "Male Soul Old 3",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f483f22f-f0c0-499d-827b-bb5a4a530d56/4/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_d41ae472-bd09-4294-af3e-150be72fb90c",
+            "name": "Male Soul Young",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3eb6d681-db5a-4d88-8dcf-e07f4adbd411/3/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1781d24f-dd66-4310-862c-f1c47317881c",
+            "name": "Male Soul Young 3",
+            "author": "PPERIANN",
+            "image": "https://api.vrchat.cloud/api/1/image/file_de65e9a8-463f-4ba4-8850-f52e6a5450dd/2/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_902bb440-3ab9-4e10-94a4-7d1cf0c4b98a",
+            "name": "Apocalyptic Survivors",
+            "author": "braytheham",
+            "image": "https://api.vrchat.cloud/api/1/image/file_fb66ab49-c8cc-400d-b43a-1898ad9ca1e9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_49e22b83-21b5-40f5-b6ef-55ddead67b1d",
+            "name": "Dominic Lenetti",
+            "author": "ItsMrGhost",
+            "image": "https://api.vrchat.cloud/api/1/image/file_819316f2-d5c1-4f49-93be-04643371d45c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_900399e7-a452-4cf6-b1dc-e0a15b75ce1e",
+            "name": "John Barren",
+            "author": "ItsMrGhost",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d160e990-0846-4646-96e2-56d61fcccd57/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1a51ebe7-c6bd-4eb3-b773-775cff93e39d",
+            "name": "Terrence Chunk",
+            "author": "ItsMrGhost",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9400309e-915f-4d8d-8f7f-4770ee0a3285/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0f30cd4d-8771-4d51-accd-ad11e63538d9",
+            "name": "Friheds kæmper",
+            "author": "༒Nicholas II༒",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b8bb801d-f307-4ea9-8a8d-5580c225a26e/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1daf0636-fbd8-47a3-aa1b-6cd1d5641afe",
+            "name": "-Cherry's GameStop Guy-",
+            "author": "-CherryGoth-",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f95c424b-2e9a-447b-ab9b-fe47abf0daaa/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_9be44dc7-6c1e-4fe5-86ab-6efc3e0eaa7e",
+            "name": "-Elliot Wyckoff-",
+            "author": "-CherryGoth-",
+            "image": "https://api.vrchat.cloud/api/1/image/file_862364b7-f4d7-4e96-a3a4-d304cd1bc67c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_99b03873-b951-4559-8ed4-15af1ae7fa7a",
+            "name": "-Smoke Break Cherry-",
+            "author": "-CherryGoth-",
+            "image": "https://api.vrchat.cloud/api/1/image/file_dbcb1fe9-8cad-4f79-9bde-45487f3d7f17/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_64dcd042-8457-4d32-a80f-41a566d5b7cd",
+            "name": "Terry Davis",
+            "author": "Hasanloo",
+            "image": "https://api.vrchat.cloud/api/1/image/file_be6c5c5a-ffb0-4407-b670-caf136a39864/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_fefab6c7-fb85-4263-ad0d-d67ef77ca12e",
+            "name": "Michael De Santa",
+            "author": "cat123",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ca4c8cef-8de4-42d9-aa6b-a4adf192b76a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_c587d9f6-ca1b-490c-9ed4-4b291ad29e67",
+            "name": "Franklin Clinton",
+            "author": "cat123",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1f442b8a-4494-4fa9-8f2a-832e2c622fd2/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a9685353-74c5-42b2-8fa2-4fc0b376e541",
+            "name": "Trevor Philips",
+            "author": "cat123",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ce090be9-8bad-44cf-8759-b9b60daabfe1/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_1ea99a33-8ccd-4b88-b45a-871098852e63",
+            "name": "Roman Bellic",
+            "author": "cat123",
+            "image": "https://api.vrchat.cloud/api/1/image/file_aa9653f2-e5a1-4ac0-b167-480b3039a81d/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6fed2fd8-4494-4779-a2e5-8c823d110d6e",
+            "name": "Niko Bellic",
+            "author": "KaoTix_Dynamix",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4bf44b63-595e-4671-b8ac-6ccc5d4fc8df/1/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_870dde88-adee-4e9a-a04f-8166efacbe47",
+            "name": "Niko Bellic ［GTA IV］",
+            "author": "ZombieSnowy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_e011b0c1-d356-4ea5-b203-5a540d303944/5/256",
+            "platforms": [
+              "standalonewindows",
+              "android",
+              "ios"
+            ]
+          },
+          {
             "id": "avtr_4b1db404-8ff8-4bdc-b884-b9f7571c60b5",
             "name": "VRC Spectator",
             "author": "webbtail245",
@@ -15694,549 +17699,93 @@
               "ios",
               "standalonewindows"
             ]
-          }
-        ]
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-04T02:44:11.251Z",
-      "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
-      "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
-      "likedBy": [
-        "ins_8fe43ae6-d878-4f50-9616-1617b2c2489a"
-      ]
-    },
-    {
-      "id": "preset-849170bb-2e2d-4636-b602-095b49a9c9fb",
-      "type": "preset",
-      "name": "freaky",
-      "author": "Cable",
-      "description": "Uhm freak",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "lyrics",
-          "media",
-          "weather",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery",
-          "instance"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "stars",
-        "border": "custom",
-        "customBorder": {
-          "left": "💤",
-          "right": "💤"
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {},
-        "personal": {
-          "on": true,
-          "emoji": "💫",
-          "statuses": "do you think i am cute?\n\n\n",
-          "cycle": false,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": "🗣️"
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "💤",
-          "showProgress": true,
-          "progressStyle": "bar",
-          "bar": {
-            "length": 8,
-            "fill": "▰",
-            "empty": "▱",
-            "head": ""
           },
-          "barNewline": false,
-          "hideAuthor": true,
-          "byFormat": false,
-          "smallDigits": "off",
-          "method": "notification",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "Clarksville",
-          "fahrenheit": true,
-          "lat": 36.52977,
-          "lon": -87.35945,
-          "place": "Clarksville, Tennessee, US",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": true,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": true,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": true,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": true,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-04T02:55:22.781Z",
-      "installId": "ins_4bf6669d-596c-4bcc-b44a-dc0ef06a0f09",
-      "ownerUserId": null,
-      "likedBy": [
-        "ins_c8b4f1ef-0122-462b-932c-9dda3046e940",
-        "ins_1679104c-025f-45db-a077-be2832f3390f",
-        "ins_fd3ba99b-8b37-4f76-94d5-f9aec2fbb3db",
-        "ins_b587d21f-461f-47c6-81d3-753241e655aa",
-        "ins_21dad64d-23bd-4289-8b5c-b54b9c38c032"
-      ]
-    },
-    {
-      "id": "preset-044d14e8-5e7a-42c9-be70-b9c4ac3a81f2",
-      "type": "preset",
-      "name": "spider man the goat",
-      "author": "Tsk",
-      "description": "He's the goat",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "battery",
-          "media",
-          "lyrics",
-          "time",
-          "date",
-          "weather",
-          "mic",
-          "uptime",
-          "afk",
-          "movement",
-          "vrcparam",
-          "instance"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "waves",
-        "border": "hearts",
-        "customBorder": {
-          "left": "─❥",
-          "right": "─❯✹"
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {
-          "lyrics": false,
-          "media": false
-        },
-        "personal": {
-          "on": true,
-          "emoji": "💬",
-          "statuses": "love my friends\nJesus king\nI'm a furry\ni love tom\nspiderman the goat\nwhy\ntaken\ni love her so much I'm happy we are back together again i love you baby\n",
-          "cycle": true,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": " 🎤"
-        },
-        "afk": {
-          "on": false,
-          "emoji": "😵"
-        },
-        "movement": {
-          "on": false,
-          "emoji": "🏃‍♂"
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🗣️",
-          "showProgress": true,
-          "progressStyle": "text",
-          "bar": {
-            "length": 1,
-            "fill": "▰",
-            "empty": "▱",
-            "head": ""
-          },
-          "barNewline": false,
-          "hideAuthor": false,
-          "byFormat": false,
-          "smallDigits": "off",
-          "method": "notification",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🗣️"
-        },
-        "weather": {
-          "on": true,
-          "emoji": "☁️",
-          "city": "New jersey ",
-          "fahrenheit": true,
-          "lat": 10.23333,
-          "lon": -61.63333,
-          "place": "New Jersey, Siparia Regional Corporation, TT",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": true,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": true,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": true,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": true,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": true,
-          "afk": true,
-          "movement": true,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": true,
-          "weather": true,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-04T05:25:35.067Z",
-      "installId": "ins_a734b6a8-7e07-4cc5-851e-5ab2e0b72827",
-      "ownerUserId": null,
-      "likedBy": [
-        "ins_1679104c-025f-45db-a077-be2832f3390f"
-      ]
-    },
-    {
-      "id": "preset-f2f235ef-42b7-4e31-af4a-7009f63d6a74",
-      "type": "preset",
-      "name": "Cloudz W/O Lyrics (With cloudz message borders)",
-      "author": "Mr_Cloudz",
-      "description": "",
-      "tags": [
-        "#OfficialClovdz"
-      ],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "time",
-          "weather",
-          "date",
-          "battery",
-          "media",
-          "lyrics",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "uptime",
-          "instance"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "custom",
-        "border": "custom",
-        "customBorder": {
-          "left": "☁️⇔",
-          "right": "⇔☁️"
-        },
-        "customFrame": {
-          "top": "☁️🪦1989-2021🪦☁️",
-          "bottom": "☁️🪦1989-2021🪦☁️"
-        },
-        "inline": {
-          "time": false
-        },
-        "personal": {
-          "on": false,
-          "emoji": "🔍",
-          "statuses": "Mr. Cloudz\nDon't fuh with me if you don't love urself\nIm furry so what\nPeople that anti furry are corny asf bru\nidgaf if you hate me its life.\nNexus|Quest support\nMarijuana<3\nIm very understanding and chill\nI love my dad '89-2026💔\n\"Insert cash or select payment type\"\nIm like an ghost, they disappear.\nCom kids are narcissist that are immature asf.\nYou bear the mark~ you're cursed!\nI love the smell of fear~\nOur future isn't bright anyways😛\n#1 Retard here!!\n24 H clock is tuff\nage baiters must die.\nMy dear beloved block button \nthe mute button is there for you yk? attention seeking bih.\nIm single by choice!!\nDeath isn't a escape \nCartels interestingly good in business but horrible for humanity\n↪️The loop continues⤴️\n",
-          "cycle": true,
-          "intervalSec": 8,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": "💤"
-        },
-        "movement": {
-          "on": false,
-          "emoji": "j"
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🎵",
-          "showProgress": true,
-          "progressStyle": "both",
-          "bar": {
-            "length": 9,
-            "fill": "━",
-            "empty": "─",
-            "head": "●"
-          },
-          "barNewline": true,
-          "hideAuthor": false,
-          "byFormat": true,
-          "smallDigits": "super",
-          "method": "spotify",
-          "discordUserId": "1509703396217585674"
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": true,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": true,
-          "lat": 18.2612839,
-          "lon": -73.8444985,
-          "place": "Sud Department, Sud Department, HT",
-          "showLocation": false,
-          "showCondition": true,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": true,
-          "seconds": true,
-          "hidePrefix": true,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": true,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": false,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": false,
-          "mic": false,
-          "afk": true,
-          "movement": false,
-          "vrcparam": true,
-          "media": false,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": false,
-          "date": false,
-          "uptime": false,
-          "battery": false
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-04T06:43:52.830Z",
-      "installId": "ins_a6328f94-dd12-4a5e-b280-aa443b277b16",
-      "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
-      "likedBy": [
-        "ins_18395458-9a18-4ab2-a577-e066f1aadf42",
-        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
-        "ins_4ef6b711-68b5-417a-a892-3f3e05250d05",
-        "ins_e44dd330-4ccd-44b6-96b7-5b2f3136470b"
-      ]
-    },
-    {
-      "id": "script-d86a03ec-0d2f-482e-bfbf-8eea6ab0b927",
-      "type": "script",
-      "name": "grow + shrink - (chat box)",
-      "author": "???",
-      "description": "",
-      "tags": [
-        "grow"
-      ],
-      "platform": "quest",
-      "payload": {
-        "blocks": [
           {
-            "id": 14,
-            "type": "loop",
-            "count": "0",
-            "children": [
-              {
-                "id": 11,
-                "type": "chatbox",
-                "text": "+"
-              },
-              {
-                "id": 3,
-                "type": "height",
-                "value": "1.7",
-                "sweep": true,
-                "from": 0.5,
-                "to": 2,
-                "seconds": 3,
-                "pingpong": false
-              },
-              {
-                "id": 9,
-                "type": "chatbox",
-                "text": "-"
-              },
-              {
-                "id": 8,
-                "type": "height",
-                "value": "",
-                "sweep": true,
-                "from": "2",
-                "to": "0.5",
-                "seconds": "3",
-                "pingpong": false
-              }
+            "id": "avtr_13010f37-5fb0-4065-8a15-d4a3f73031f7",
+            "name": "Master Chief Ass Quest",
+            "author": "_ChosenOne_",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b082c4a7-4212-481f-98f4-06eaf83170bc/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_6bccfeb2-aee3-4d8b-99d0-5f4d5859046f",
+            "name": "Kenny （Season 2）",
+            "author": "ZetaVR",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d7bf9f38-8ee9-469a-a48a-0383c4560a65/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_e5091a05-17f9-4b0d-8ffb-f03f7cf43213",
+            "name": "Clementine ［Season 3］",
+            "author": "Mediasaur",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cc7fc1e1-8024-4bbc-80eb-cf950ff3cfc1/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_78c6280c-a9f5-44c9-b09e-3105426713ba",
+            "name": "Clementine ［Season 4］",
+            "author": "Mediasaur",
+            "image": "https://api.vrchat.cloud/api/1/image/file_69c8418b-39de-44d6-a1a3-de4567c1f89e/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_f738a959-1928-48df-ab00-14a11d86b7d3",
+            "name": "Lee Everett ［Season 1］",
+            "author": "Mediasaur",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7191e3c5-8e3f-4b75-9fcf-f3f39187cb24/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_0cdb10e6-2d8f-4bc4-ad75-2596932f2815",
+            "name": "Nick ［twdg］",
+            "author": "AJ_IS_OLIVER",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cf03d44a-3335-4494-a5cc-ec7b1708f82a/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_84d59e73-7d07-46a3-9ec4-2ad18a7817b6",
+            "name": "chet",
+            "author": "RОDENT",
+            "image": "https://api.vrchat.cloud/api/1/image/file_dc675525-f6ee-42a0-853a-82fd9195d017/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_712ae66c-e288-4531-ba5d-656da2a5bd3c",
+            "name": "Luke - TWDG",
+            "author": "Dalе Cooper",
+            "image": "https://api.vrchat.cloud/api/1/image/file_55184033-5f92-4a98-93f0-b71b14890ed9/2/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
             ]
           }
         ]
@@ -16245,809 +17794,9 @@
       "minTier": 0,
       "media": null,
       "data": null,
-      "publishedAt": "2026-08-04T08:39:41.397Z",
-      "installId": "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9",
-      "ownerUserId": null,
-      "likedBy": []
-    },
-    {
-      "id": "preset-7d8dad74-18c9-4e82-a2d3-abd8e8b06e8f",
-      "type": "preset",
-      "name": "Thedemon",
-      "author": "Thedemon",
-      "description": "Idk",
-      "tags": [
-        "Idk"
-      ],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "instance",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "none",
-        "border": "sparkle",
-        "customBorder": {
-          "left": "",
-          "right": ""
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {
-          "media": true,
-          "battery": false
-        },
-        "personal": {
-          "on": false,
-          "emoji": "💬",
-          "statuses": "",
-          "cycle": false,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🎵",
-          "showProgress": true,
-          "progressStyle": "both",
-          "bar": {
-            "length": 9,
-            "fill": "🎶",
-            "empty": "🎶",
-            "head": "🎧"
-          },
-          "barNewline": false,
-          "hideAuthor": true,
-          "byFormat": true,
-          "smallDigits": "super",
-          "method": "auto",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": "",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": true,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-04T17:18:19.288Z",
-      "installId": "ins_3ba96be8-c65b-4681-9584-2f68f6e13fb5",
-      "ownerUserId": "usr_1fe4c956-16b9-46e3-a047-c942cca29c4c",
-      "likedBy": [
-        "ins_ef3decc3-e301-46d9-b6c0-8b0117203584",
-        "ins_c0e97512-3319-40ea-a175-a7b681db12d8"
-      ]
-    },
-    {
-      "id": "preset-bbfb4687-45e5-47ea-aa39-bf1a4037134c",
-      "type": "preset",
-      "name": "Pinkys sniper with a bow",
-      "author": "PINKY",
-      "description": "Fixed the way it looked enjoy",
-      "tags": [
-        "PINKY WAS HERE"
-      ],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "custom",
-        "border": "custom",
-        "customBorder": {
-          "left": "୨୧-",
-          "right": "-୨୧"
-        },
-        "customFrame": {
-          "top": "───୨୧▄︻デ╦═一━୨୧───",
-          "bottom": "───୨ৎ───"
-        },
-        "inline": {
-          "time": false,
-          "date": false,
-          "lyrics": true,
-          "battery": false,
-          "uptime": false,
-          "weather": false,
-          "movement": false
-        },
-        "personal": {
-          "on": true,
-          "emoji": "💬",
-          "statuses": "PINKSNIPER!!!\nI LOVE CANDY :3",
-          "cycle": true,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🎵",
-          "showProgress": false,
-          "progressStyle": "text",
-          "bar": {
-            "length": 12,
-            "fill": "█",
-            "empty": "░",
-            "head": ""
-          },
-          "barNewline": false,
-          "hideAuthor": false,
-          "byFormat": false,
-          "smallDigits": "off",
-          "method": "auto",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": true,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": "",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": true,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": true,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": true,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": true,
-          "weather": true,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-05T03:44:47.197Z",
-      "installId": "ins_1482b234-9ffd-4198-9e88-3531b2b17d6a",
-      "ownerUserId": "usr_e7eca35f-afd0-4302-b64a-7274e62e5974",
-      "likedBy": [
-        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
-      ]
-    },
-    {
-      "id": "preset-bb33500e-7108-4b00-9f3b-1b4a82d828ac",
-      "type": "preset",
-      "name": "I love him<3",
-      "author": "CoolGirlPurple",
-      "description": "I love him<3",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "autoSend": false,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "instance",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": false,
-        "separator": "newline",
-        "frame": "none",
-        "border": "none",
-        "customBorder": {
-          "left": "",
-          "right": ""
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {},
-        "personal": {
-          "on": false,
-          "emoji": "💬",
-          "statuses": "",
-          "cycle": false,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": false,
-          "emoji": "🎵",
-          "showProgress": false,
-          "progressStyle": "text",
-          "bar": {
-            "length": 9,
-            "fill": "█",
-            "empty": "░",
-            "head": ""
-          },
-          "barNewline": false,
-          "hideAuthor": false,
-          "byFormat": false,
-          "smallDigits": "off",
-          "method": "notification",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": "",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": false,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-05T05:29:12.570Z",
-      "installId": "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
-      "ownerUserId": "usr_57b037f2-0c18-4ff6-8996-a0a590a462da",
-      "likedBy": [
-        "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
-        "ins_9081fbd1-f5cb-4053-a4f5-589a0fdb48b3",
-        "ins_346f726b-32cb-4e18-9d4a-71ce462dee00"
-      ]
-    },
-    {
-      "id": "preset-a1dab5cb-24e0-4d3d-a801-8d8f2964b2d6",
-      "type": "preset",
-      "name": "ghost",
-      "author": "Ghostboiontop",
-      "description": "Hi",
-      "tags": [
-        "Spiderman"
-      ],
-      "platform": "quest",
-      "payload": {
-        "autoSend": true,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "instance",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": true,
-        "separator": "newline",
-        "frame": "none",
-        "border": "sparkle",
-        "customBorder": {
-          "left": "",
-          "right": ""
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {
-          "media": true,
-          "battery": false
-        },
-        "personal": {
-          "on": false,
-          "emoji": "💬",
-          "statuses": "",
-          "cycle": false,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": true,
-          "emoji": "🎵",
-          "showProgress": true,
-          "progressStyle": "both",
-          "bar": {
-            "length": 9,
-            "fill": "🎶",
-            "empty": "🎶",
-            "head": "🎧"
-          },
-          "barNewline": false,
-          "hideAuthor": true,
-          "byFormat": true,
-          "smallDigits": "super",
-          "method": "auto",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": "",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": true,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-05T08:59:18.465Z",
-      "installId": "ins_16866367-580e-456c-9560-0d7038b9a07d",
-      "ownerUserId": "usr_527ef5df-a406-4a97-b8c3-0dabe32d248e",
-      "likedBy": []
-    },
-    {
-      "id": "preset-dcf929eb-c5b5-4c88-be0b-4b63348627ad",
-      "type": "preset",
-      "name": "e boy / femboy",
-      "author": "Onlyoneking",
-      "description": "noice",
-      "tags": [
-        "Think thighs save li"
-      ],
-      "platform": "quest",
-      "payload": {
-        "autoSend": false,
-        "order": [
-          "personal",
-          "media",
-          "lyrics",
-          "weather",
-          "instance",
-          "mic",
-          "afk",
-          "movement",
-          "vrcparam",
-          "time",
-          "date",
-          "uptime",
-          "battery"
-        ],
-        "eggMode": false,
-        "separator": "newline",
-        "frame": "none",
-        "border": "none",
-        "customBorder": {
-          "left": "",
-          "right": ""
-        },
-        "customFrame": {
-          "top": "",
-          "bottom": ""
-        },
-        "inline": {},
-        "personal": {
-          "on": false,
-          "emoji": "💬",
-          "statuses": "",
-          "cycle": false,
-          "intervalSec": 5,
-          "text": ""
-        },
-        "mic": {
-          "on": false,
-          "emoji": ""
-        },
-        "afk": {
-          "on": false,
-          "emoji": ""
-        },
-        "movement": {
-          "on": false,
-          "emoji": ""
-        },
-        "vrcparam": {
-          "on": false,
-          "emoji": "",
-          "name": "",
-          "label": ""
-        },
-        "media": {
-          "on": false,
-          "emoji": "🎵",
-          "showProgress": false,
-          "progressStyle": "text",
-          "bar": {
-            "length": 9,
-            "fill": "█",
-            "empty": "░",
-            "head": ""
-          },
-          "barNewline": false,
-          "hideAuthor": false,
-          "byFormat": false,
-          "smallDigits": "off",
-          "method": "notification",
-          "discordUserId": ""
-        },
-        "lyrics": {
-          "on": false,
-          "emoji": "🎤"
-        },
-        "weather": {
-          "on": false,
-          "emoji": "",
-          "city": "",
-          "fahrenheit": false,
-          "lat": null,
-          "lon": null,
-          "place": "",
-          "showLocation": false,
-          "showCondition": false,
-          "showHigh": false,
-          "showLow": false
-        },
-        "instance": {
-          "on": false,
-          "emoji": "🌐",
-          "showName": true,
-          "showCount": true,
-          "showType": false,
-          "showRegion": false,
-          "show18": false
-        },
-        "time": {
-          "on": true,
-          "emoji": "🕐",
-          "h24": false,
-          "seconds": false,
-          "hidePrefix": false,
-          "smallDigits": "off"
-        },
-        "date": {
-          "on": false,
-          "emoji": "📅"
-        },
-        "uptime": {
-          "on": false,
-          "emoji": "⏱️",
-          "smallDigits": "off"
-        },
-        "battery": {
-          "on": false,
-          "emoji": "🔋"
-        },
-        "emojiOn": {
-          "personal": true,
-          "mic": false,
-          "afk": false,
-          "movement": false,
-          "vrcparam": false,
-          "media": true,
-          "lyrics": false,
-          "weather": false,
-          "instance": true,
-          "time": true,
-          "date": true,
-          "uptime": true,
-          "battery": true
-        }
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-05T13:22:00.159Z",
-      "installId": "ins_c5bf1465-6373-4750-9180-55cfef607f5e",
-      "ownerUserId": "usr_1eeafc6f-28a8-4d9a-92a4-f6d7d36dda4b",
+      "publishedAt": "2026-08-05T16:42:44.549Z",
+      "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
+      "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
       "likedBy": []
     }
   ],
@@ -17285,8 +18034,7 @@
       1785765127526
     ],
     "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b": [
-      1785779492243,
-      1785811451386
+      1785948164928
     ],
     "ins_a6328f94-dd12-4a5e-b280-aa443b277b16": [
       1785783887214,
