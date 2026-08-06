@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-06T20:22:23.886Z",
+  "updatedAt": "2026-08-06T21:17:19.802Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -18905,8 +18905,60 @@
       "installId": "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c",
       "ownerUserId": "usr_3b6c4660-ac57-4a81-9204-8578613bfeb7",
       "likedBy": [
-        "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c"
+        "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c",
+        "ins_6dd0fb7a-f89c-4e7e-aa45-479df3862378"
       ]
+    },
+    {
+      "id": "theme-d0ed7fa9-1985-47b7-bb1e-ecdf00c255fc",
+      "type": "theme",
+      "name": "MKultra`s NEON BLOKKY",
+      "author": "veryearthhuman5",
+      "description": "VIBRANT AND FRESHHH",
+      "tags": [
+        "TOPOGRAPHY"
+      ],
+      "platform": "pc",
+      "payload": {
+        "name": "Minecraft Complete",
+        "style": "minecraft",
+        "appBg": "#000000",
+        "panelBg": "#000000",
+        "cardBg": "#000000",
+        "sidebarBg": "#171717",
+        "inputBg": "#000000",
+        "buttonBg": "#253341",
+        "buttonHover": "#6ba844",
+        "buttonText": "#fff7d6",
+        "textPrimary": "#fffbe8",
+        "textSecondary": "#d7c08a",
+        "accent": "#000000",
+        "border": "#17130e",
+        "appBackgroundImage": "repeating-linear-gradient(0deg, rgba(0,0,0,.22) 0 4px, rgba(255,255,255,.035) 4px 8px), linear-gradient(135deg, #1b2615, #31451f 45%, #1b2615)",
+        "panelBackgroundImage": "repeating-linear-gradient(90deg, rgba(255,255,255,.04) 0 8px, rgba(0,0,0,.16) 8px 16px), linear-gradient(#4a3521, #2f2418)",
+        "cardBackgroundImage": "repeating-linear-gradient(0deg, rgba(0,0,0,.18) 0 6px, rgba(255,255,255,.035) 6px 12px), linear-gradient(135deg, #4a3521, #2e2217)",
+        "backgroundSize": "auto",
+        "textureOpacity": "0.42",
+        "fontFamily": "'Segoe UI', system-ui, sans-serif",
+        "rsbInstanceBg": "rgba(0, 0, 0, 0.60)",
+        "rsbAccountBg": "#131125"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": {
+        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
+        "key": "media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
+        "kind": "image",
+        "opacity": 0.85,
+        "blur": 2,
+        "fit": "cover",
+        "glass": true
+      },
+      "data": null,
+      "publishedAt": "2026-08-06T20:34:37.707Z",
+      "installId": "ins_e539a769-6a39-972d-2b85-c40f1b2afa09",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -19223,6 +19275,9 @@
     ],
     "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c": [
       1786047059391
+    ],
+    "ins_e539a769-6a39-972d-2b85-c40f1b2afa09": [
+      1786048477772
     ]
   }
 }
