@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T23:24:05.184Z",
+  "updatedAt": "2026-08-06T02:19:16.943Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -11798,7 +11798,8 @@
         "ins_7fc20ae8-d4fa-4c4d-a394-f9f37487d30b",
         "ins_e4efc40a-4e15-4a07-b473-8f7670cc8ea4",
         "ins_440bc39e-2d20-4a7d-b1ed-831a03c565e2",
-        "ins_9818bfef-31bc-4edf-9496-c0a2511aeabb"
+        "ins_9818bfef-31bc-4edf-9496-c0a2511aeabb",
+        "ins_58c6a17c-925c-4946-b7aa-c8320246859b"
       ]
     },
     {
@@ -14003,7 +14004,8 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_1679104c-025f-45db-a077-be2832f3390f",
-        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
+        "ins_f365fae5-04ba-4f82-adf4-3025c02064a1"
       ]
     },
     {
@@ -17977,7 +17979,9 @@
       "publishedAt": "2026-08-05T18:18:21.465Z",
       "installId": "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_4d6c5f25-f522-4fb0-bef8-11135a269134"
+      ]
     },
     {
       "id": "preset-0b21afcf-9019-4e01-9a47-afc580688d7e",
@@ -18290,6 +18294,108 @@
       "installId": "ins_1802bbff-951f-467a-9b94-673086b039f4",
       "ownerUserId": "usr_cf7f68ec-9662-426f-90c8-96e813cc1924",
       "likedBy": []
+    },
+    {
+      "id": "preset-7a243c1c-22f4-4878-97d2-263ecd70e98d",
+      "type": "preset",
+      "name": "Chatters like me :D",
+      "author": "ㄒ丨匚Ҝㄥ乇 几丨匚Ҝ乇ㄥ",
+      "description": "",
+      "tags": [
+        "Silly Random"
+      ],
+      "platform": "pc",
+      "payload": {
+        "integrations": {
+          "personal_status": true,
+          "window_activity": false,
+          "manager_tab": true,
+          "current_time": true,
+          "media_status": true,
+          "lyricify_lyrics": true,
+          "component_and_network_stats": false,
+          "system_stats": false,
+          "current_world": false,
+          "instance_players": false,
+          "app_uptime": true,
+          "pc_battery": false,
+          "current_date": true
+        },
+        "emojis": {
+          "personal_status": "📝",
+          "media_status": "🎵",
+          "lyricify_lyrics": "📜",
+          "component_and_network_stats": "⚡",
+          "system_stats": "💻",
+          "current_world": "🏠",
+          "instance_players": "👥",
+          "app_uptime": "🕐",
+          "current_date": "📆"
+        },
+        "emojiOn": {
+          "personal_status": true,
+          "window_activity": false,
+          "manager_tab": false,
+          "current_time": false,
+          "media_status": true,
+          "lyricify_lyrics": true,
+          "component_and_network_stats": true,
+          "system_stats": true,
+          "current_world": true,
+          "instance_players": true,
+          "app_uptime": true,
+          "pc_battery": false,
+          "current_date": true
+        },
+        "order": [
+          "personal_status",
+          "window_activity",
+          "manager_tab",
+          "current_time",
+          "media_status",
+          "lyricify_lyrics",
+          "component_and_network_stats",
+          "system_stats",
+          "current_world",
+          "instance_players",
+          "app_uptime",
+          "pc_battery",
+          "current_date"
+        ],
+        "borderStyle": "none",
+        "borderCustomLeft": "",
+        "borderCustomRight": "",
+        "frameStyle": "none",
+        "frameCustomTop": "",
+        "frameCustomBottom": "",
+        "separator": "newline",
+        "options": {
+          "eggMode": true,
+          "topmost": true,
+          "notifySound": true,
+          "lyricsOnlyWhenPlaying": true,
+          "lyricSyncMode": true,
+          "autoMediaSwitch": true,
+          "newSessionDetect": true,
+          "showPausedMedia": true,
+          "showMediaSource": true,
+          "mediaSongProgress": true,
+          "mediaProgressBar": true,
+          "time24h": false,
+          "timeSeconds": false,
+          "timeTz": false,
+          "timeHidePrefix": false
+        },
+        "cycles": []
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-06T00:41:37.586Z",
+      "installId": "ins_e165ae5b-c9b3-072f-dbc8-443c5d13294a",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -18591,6 +18697,12 @@
     ],
     "ins_1802bbff-951f-467a-9b94-673086b039f4": [
       1785972245321
+    ],
+    "ins_e165ae5b-c9b3-072f-dbc8-443c5d13294a": [
+      1785976897889
+    ],
+    "ins_1223fae9-312c-44f2-a3ec-bf408eecbc87": [
+      1785978431082
     ]
   }
 }
