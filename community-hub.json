@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-06T07:27:25.529Z",
+  "updatedAt": "2026-08-06T08:25:07.594Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -162,7 +162,8 @@
       "likedBy": [
         "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
         "ins_d6f67062-a69d-20db-f0b6-aa700c125187",
-        "ins_cc7758bb-6417-4d63-8b45-e8c1addfdf69"
+        "ins_cc7758bb-6417-4d63-8b45-e8c1addfdf69",
+        "ins_e539a769-6a39-972d-2b85-c40f1b2afa09"
       ]
     },
     {
@@ -7952,7 +7953,8 @@
         "ins_066e8a91-5a08-4ee0-856c-87bf270676d5",
         "ins_b9f8ebcf-fab6-4c61-8a0a-103f66ee4657",
         "ins_01ed2897-897f-4ce5-9103-ffd49f193239",
-        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
+        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
+        "ins_1c3df3f7-693c-4a2c-aa80-bc1020fd140d"
       ]
     },
     {
@@ -8107,7 +8109,8 @@
         "ins_01ed2897-897f-4ce5-9103-ffd49f193239",
         "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
         "ins_6ea95963-25db-4fe2-af02-8470b01985a8",
-        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598"
+        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
+        "ins_761addbd-7717-4179-888e-029ef6d96e98"
       ]
     },
     {
@@ -13844,7 +13847,8 @@
         "ins_b587d21f-461f-47c6-81d3-753241e655aa",
         "ins_21dad64d-23bd-4289-8b5c-b54b9c38c032",
         "ins_bf2244ac-823e-467c-98f6-e6700466cf0c",
-        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
+        "ins_761addbd-7717-4179-888e-029ef6d96e98"
       ]
     },
     {
@@ -14005,7 +14009,8 @@
       "likedBy": [
         "ins_1679104c-025f-45db-a077-be2832f3390f",
         "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
-        "ins_f365fae5-04ba-4f82-adf4-3025c02064a1"
+        "ins_f365fae5-04ba-4f82-adf4-3025c02064a1",
+        "ins_761addbd-7717-4179-888e-029ef6d96e98"
       ]
     },
     {
@@ -14717,7 +14722,8 @@
       "likedBy": [
         "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
         "ins_9081fbd1-f5cb-4053-a4f5-589a0fdb48b3",
-        "ins_346f726b-32cb-4e18-9d4a-71ce462dee00"
+        "ins_346f726b-32cb-4e18-9d4a-71ce462dee00",
+        "ins_761addbd-7717-4179-888e-029ef6d96e98"
       ]
     },
     {
@@ -15036,7 +15042,8 @@
       "likedBy": [
         "ins_36267036-f006-58fd-69bd-69b2b22bd23e",
         "ins_c0e97512-3319-40ea-a175-a7b681db12d8",
-        "ins_35ea281a-3861-460d-add7-cc04a8e4989b"
+        "ins_35ea281a-3861-460d-add7-cc04a8e4989b",
+        "ins_fef79f55-5e38-42e2-b208-daa60ff0480d"
       ]
     },
     {
@@ -18403,6 +18410,162 @@
       "installId": "ins_e165ae5b-c9b3-072f-dbc8-443c5d13294a",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "preset-b53fea38-b323-401e-8179-96d3bb1de2f0",
+      "type": "preset",
+      "name": "AngelDust",
+      "author": "KittyCat_O-G",
+      "description": "Angel Dust lovers, and for people who act like angel. ;3",
+      "tags": [
+        "Angel Dust"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-06T07:28:53.017Z",
+      "installId": "ins_fef79f55-5e38-42e2-b208-daa60ff0480d",
+      "ownerUserId": "usr_8cb09087-6481-4cf0-9f5d-dab2655bba1b",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -18710,6 +18873,9 @@
     ],
     "ins_1223fae9-312c-44f2-a3ec-bf408eecbc87": [
       1785978431082
+    ],
+    "ins_fef79f55-5e38-42e2-b208-daa60ff0480d": [
+      1786001333291
     ]
   }
 }
