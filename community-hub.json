@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-06T16:26:55.928Z",
+  "updatedAt": "2026-08-06T20:22:23.886Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8312,7 +8312,8 @@
         "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
         "ins_3633bd40-57a2-4c10-882e-9b6bbd1fb6f7",
         "ins_891413dd-4e74-4d26-9b92-eb0d60da65bf",
-        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
+        "ins_88167a75-8828-44de-8646-bb929f398c53"
       ]
     },
     {
@@ -9869,7 +9870,8 @@
       "likedBy": [
         "ins_fad89578-e9e6-4237-a598-41941d798bb3",
         "ins_2ecb53e1-3b26-3f2f-bc2d-0d573dc0e4dd",
-        "ins_dcf489ea-1ed1-426f-bdcb-356a4e70b783"
+        "ins_dcf489ea-1ed1-426f-bdcb-356a4e70b783",
+        "ins_84279776-7352-4ac7-98c1-86d6a894031f"
       ]
     },
     {
@@ -10456,7 +10458,8 @@
       "likedBy": [
         "ins_82767e69-8160-4f06-bc92-39e8be1b8c51",
         "ins_0d67c1d1-7c21-4bfa-94d6-921c760b8e9d",
-        "ins_a04e09b2-6f4d-462b-b9d7-0bf39b2dd566"
+        "ins_a04e09b2-6f4d-462b-b9d7-0bf39b2dd566",
+        "ins_84279776-7352-4ac7-98c1-86d6a894031f"
       ]
     },
     {
@@ -14250,7 +14253,8 @@
       "installId": "ins_b6775f7a-40cc-4937-b1a5-71636eec58c9",
       "ownerUserId": null,
       "likedBy": [
-        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
+        "ins_7a8ad17f-1130-4691-8cd0-e3ff61f6a5df"
       ]
     },
     {
@@ -14739,7 +14743,8 @@
         "ins_c9a6c1c4-fb63-41ed-85e2-042bf0732eeb",
         "ins_9081fbd1-f5cb-4053-a4f5-589a0fdb48b3",
         "ins_346f726b-32cb-4e18-9d4a-71ce462dee00",
-        "ins_761addbd-7717-4179-888e-029ef6d96e98"
+        "ins_761addbd-7717-4179-888e-029ef6d96e98",
+        "ins_88167a75-8828-44de-8646-bb929f398c53"
       ]
     },
     {
@@ -18325,7 +18330,8 @@
       "ownerUserId": "usr_cf7f68ec-9662-426f-90c8-96e813cc1924",
       "likedBy": [
         "ins_6f015bee-4fce-41c3-acae-07069b4aa4a9",
-        "ins_4ce786a1-77bb-4aa3-a927-4dd4e994f1b1"
+        "ins_4ce786a1-77bb-4aa3-a927-4dd4e994f1b1",
+        "ins_dec82092-51cb-403f-b13f-13364dccc686"
       ]
     },
     {
@@ -18584,7 +18590,9 @@
       "publishedAt": "2026-08-06T07:28:53.017Z",
       "installId": "ins_fef79f55-5e38-42e2-b208-daa60ff0480d",
       "ownerUserId": "usr_8cb09087-6481-4cf0-9f5d-dab2655bba1b",
-      "likedBy": []
+      "likedBy": [
+        "ins_ac16c1d1-a24a-48e6-acb4-32ce48bba9cf"
+      ]
     },
     {
       "id": "preset-806d9dce-ce00-4421-973d-337f8e852aaa",
@@ -18741,6 +18749,164 @@
       "installId": "ins_1ebfeb3e-9e24-40a6-8247-f13d7a80018d",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "preset-44b6e20b-a975-45b6-afd6-3f48fccad110",
+      "type": "preset",
+      "name": "the broken script",
+      "author": "gangle",
+      "description": "can you see me we can hear you you know nothing help me one of us close your eyes behind you 0 corrupted go away worship me",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵do",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-06T20:10:59.283Z",
+      "installId": "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c",
+      "ownerUserId": "usr_3b6c4660-ac57-4a81-9204-8578613bfeb7",
+      "likedBy": [
+        "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c"
+      ]
     }
   ],
   "publishLog": {
@@ -19054,6 +19220,9 @@
     ],
     "ins_1ebfeb3e-9e24-40a6-8247-f13d7a80018d": [
       1786029814680
+    ],
+    "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c": [
+      1786047059391
     ]
   }
 }
