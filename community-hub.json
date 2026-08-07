@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T17:21:01.222Z",
+  "updatedAt": "2026-08-07T22:18:45.287Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5242,7 +5242,8 @@
         "ins_b0bd5620-0bc2-4af1-b2e6-4f35c843840f",
         "ins_3691582d-37b2-437d-adbf-16cc00e188ee",
         "ins_82041d34-e2d2-486d-8f9d-e9cc9398b524",
-        "ins_b86bb638-be19-41da-ad4f-612cd7e9e5c6"
+        "ins_b86bb638-be19-41da-ad4f-612cd7e9e5c6",
+        "ins_437da7a5-ab9e-42d4-9421-2aec98a3be8b"
       ]
     },
     {
@@ -5397,7 +5398,8 @@
         "ins_37dcb416-d068-4654-a656-cbbeb81c32e7",
         "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
-        "ins_f2876ab3-0037-46ed-9135-e2213a4c41fc"
+        "ins_f2876ab3-0037-46ed-9135-e2213a4c41fc",
+        "ins_002af866-6191-44bd-a194-3b7853d6d630"
       ]
     },
     {
@@ -7252,7 +7254,8 @@
         "ins_2d026113-e263-1401-bcfe-7cca94f08a3f",
         "ins_883ef934-9e71-4c0e-906b-c6b87afd0094",
         "ins_6efbed47-0134-31a2-e4b8-1e81098cb0be",
-        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264"
+        "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
+        "ins_002af866-6191-44bd-a194-3b7853d6d630"
       ]
     },
     {
@@ -8324,7 +8327,8 @@
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
         "ins_88167a75-8828-44de-8646-bb929f398c53",
         "ins_35686512-b702-456d-bf6d-7077b4ad1436",
-        "ins_f18e9540-e1e3-44b8-a8ac-77746029ae3c"
+        "ins_f18e9540-e1e3-44b8-a8ac-77746029ae3c",
+        "ins_002af866-6191-44bd-a194-3b7853d6d630"
       ]
     },
     {
@@ -12807,7 +12811,9 @@
       "likedBy": [
         "ins_c0c24a27-ff4c-40eb-91a8-f8411bc4ce17",
         "ins_34f1e0a6-0d44-465e-848f-d61fc23fb230",
-        "ins_b8714e85-c75d-4e78-b4e2-a218ce332530"
+        "ins_b8714e85-c75d-4e78-b4e2-a218ce332530",
+        "ins_437da7a5-ab9e-42d4-9421-2aec98a3be8b",
+        "ins_07973189-ef6a-41ad-a650-16ad6b62c918"
       ]
     },
     {
@@ -14283,7 +14289,8 @@
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
         "ins_7a8ad17f-1130-4691-8cd0-e3ff61f6a5df",
         "ins_a8fc25af-d4be-46a8-bb14-8d27b17711c5",
-        "ins_99ad3518-5527-40fe-87a0-c9d6cc5722c6"
+        "ins_99ad3518-5527-40fe-87a0-c9d6cc5722c6",
+        "ins_002af866-6191-44bd-a194-3b7853d6d630"
       ]
     },
     {
@@ -18061,7 +18068,8 @@
         "ins_c40e34ce-d7f8-42c5-b2f1-7a4355c5e1c6",
         "ins_f18e9540-e1e3-44b8-a8ac-77746029ae3c",
         "ins_845b62fa-4ba3-41f9-86a5-c5de5c840242",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_51d1aa5d-8f54-4f24-b5f7-4618574666e7"
       ]
     },
     {
@@ -18644,8 +18652,7 @@
         "ins_ac16c1d1-a24a-48e6-acb4-32ce48bba9cf",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
-        "ins_4ed89b3c-915a-4dcf-9134-cf6a4bdf9dfc",
-        "ins_32a37bce-dd8f-4253-abc2-b7bb618f19ca"
+        "ins_4ed89b3c-915a-4dcf-9134-cf6a4bdf9dfc"
       ]
     },
     {
@@ -19498,6 +19505,573 @@
       "installId": "ins_16e45cf3-9d42-46d1-8505-aa83203b4590",
       "ownerUserId": "usr_219abb14-11cd-4ee6-bdd1-d8a35de5773c",
       "likedBy": []
+    },
+    {
+      "id": "preset-aa9a7f5b-75a5-4c40-aaca-8ee1ba9582c8",
+      "type": "preset",
+      "name": "Frower",
+      "author": "M.zou",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "time",
+          "mic",
+          "weather",
+          "afk",
+          "movement",
+          "vrcparam",
+          "date",
+          "uptime",
+          "battery",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "『",
+          "right": "』"
+        },
+        "customFrame": {
+          "top": "❀° ┄─────────╮",
+          "bottom": "╰─────────┄ °❀"
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "★ ! Bonjour tous les jouer ! ★\nSi vous parler avec moi je vous endentre pas j'ai ecoute la music.\nÉcris ves dans le chat pls.\n★ ! Merci ! ★",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "fun",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": true,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "super",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "france",
+          "fahrenheit": false,
+          "lat": 46,
+          "lon": 2,
+          "place": "France, FR",
+          "showLocation": true,
+          "showCondition": true,
+          "showHigh": true,
+          "showLow": true
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": false,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": true
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T19:40:48.957Z",
+      "installId": "ins_002af866-6191-44bd-a194-3b7853d6d630",
+      "ownerUserId": "usr_0449a169-d2f1-4584-a956-8a1675b58a9e",
+      "likedBy": []
+    },
+    {
+      "id": "script-e63931db-f062-4a03-bdc6-5a20eafe5065",
+      "type": "script",
+      "name": "height spam",
+      "author": "Pr0t0typ3d_v1",
+      "description": "Spams your height between 0.1 and 10 meters (can be changed )",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 1,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 4,
+                "type": "height",
+                "value": 1.7,
+                "sweep": true,
+                "from": ".1",
+                "to": "10",
+                "seconds": "0.1",
+                "pingpong": true
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T21:06:20.944Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": []
+    },
+    {
+      "id": "script-a5e806ca-8dea-43ee-8409-aaf7e8143a13",
+      "type": "script",
+      "name": "content cache overloader",
+      "author": "Pr0t0typ3d_v1",
+      "description": "This will swap your selected avatars every 5 seconds (can be changed), causing quest users to lag and freeze over a period of time, the bigger file size  the avatar the better.\nThis is due to vrchats poor handling of content caches and will crash your game to reset it.",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 7,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 8,
+                "type": "avatar",
+                "avatarId": "",
+                "label": ""
+              },
+              {
+                "id": 10,
+                "type": "wait",
+                "ms": "5000"
+              },
+              {
+                "id": 9,
+                "type": "avatar",
+                "avatarId": "",
+                "label": ""
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T21:15:37.060Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": []
+    },
+    {
+      "id": "preset-0542ddea-06e5-4ed1-81dd-b500a76da033",
+      "type": "preset",
+      "name": "Uttvm",
+      "author": "titan TV man of vrc",
+      "description": "",
+      "tags": [
+        "Table\\he\\him"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": false,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": false,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T21:15:47.219Z",
+      "installId": "ins_393494b7-02db-4a7f-ad50-c79d5ad2f5b6",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "sharepack-2164822e-2043-4015-8983-f3cab46642df",
+      "type": "sharepack",
+      "name": "Pr0t0typ3d_v1's cool avis",
+      "author": "Pr0t0typ3d_v1",
+      "description": "just download it",
+      "tags": [
+        "cool",
+        "TF2",
+        "scream",
+        "im not putting allat"
+      ],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "Pr0t0typ3d_v1's cool avis": [
+            "avtr_6cab4b08-54dc-486b-8318-f2c891974bea",
+            "avtr_31f7c682-0978-4754-aa69-97399e6cc0fd",
+            "avtr_21c023ff-be8f-4b27-9d10-559625f288a3",
+            "avtr_a43bacec-1d51-41f2-8f2d-361a0393476c",
+            "avtr_76ac3633-f5e9-4545-9704-f6849a9879aa",
+            "avtr_ad1e7d13-f6f2-466a-83dc-b6c630f3f2c7",
+            "avtr_8eda6d31-bfa7-4eff-a993-ed1f22f8b294",
+            "avtr_a342c90b-9f94-48d9-bb99-998f61b007b6",
+            "avtr_005d6287-7145-41f5-8ddc-f246cfedd6b0",
+            "avtr_528d18e5-66da-4de9-ad4f-ed3cefeb30e6",
+            "avtr_62479a69-c37f-4539-9be7-c1d24edacc83",
+            "avtr_38d35028-46ba-40c0-9e90-d39b2ad7eb74"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_6cab4b08-54dc-486b-8318-f2c891974bea",
+            "name": "NoLif Unit˸ Summer Assault Squad 0-9",
+            "author": "Chеfslimy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_56dbc2e9-9250-4ed8-81b8-64a7b65bce81/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_31f7c682-0978-4754-aa69-97399e6cc0fd",
+            "name": "Vikentiy's Customizable Rec Room Avatar",
+            "author": "୨ ᴠɪᴋᴇɴᴛɪʏ ୧",
+            "image": "https://api.vrchat.cloud/api/1/image/file_371eb72c-3a8f-4816-a827-ffc4a5f3e6f1/8/256",
+            "platforms": [
+              "android",
+              "ios",
+              "standalonewindows"
+            ]
+          },
+          {
+            "id": "avtr_21c023ff-be8f-4b27-9d10-559625f288a3",
+            "name": "Resident Evil Village - Ethan Winters",
+            "author": "WTFancy",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3823f2d7-aba6-497d-8dc1-1db692dd33b9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a43bacec-1d51-41f2-8f2d-361a0393476c",
+            "name": "Isaac （TBOI）",
+            "author": "~ Blu ~",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f0b5cf9d-f155-41b7-8f2f-26c268e84299/3/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_76ac3633-f5e9-4545-9704-f6849a9879aa",
+            "name": "Simon Henriksson",
+            "author": "-Splerd-",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8bea8cf5-22e2-4fa5-b964-d7ec9171755c/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_ad1e7d13-f6f2-466a-83dc-b6c630f3f2c7",
+            "name": "Ethan Winters RE7⁄8 mix （not finished）",
+            "author": "riverjayden",
+            "image": "https://api.vrchat.cloud/api/1/image/file_93f9cfde-d184-4934-9ec9-3f384854c3e6/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_8eda6d31-bfa7-4eff-a993-ed1f22f8b294",
+            "name": "Dedsec Member",
+            "author": "oofhead1234",
+            "image": "https://api.vrchat.cloud/api/1/image/file_12039c7a-447f-4b8a-9955-f6f75ab49cd2/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_a342c90b-9f94-48d9-bb99-998f61b007b6",
+            "name": "grunt 3․0",
+            "author": "Coom f7",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5381e43f-fc89-48ac-a98a-5b3b3c4f1254/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_005d6287-7145-41f5-8ddc-f246cfedd6b0",
+            "name": "Delsin Rowe - Infamous",
+            "author": "Redfoxx_1",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bf69bfb1-bc92-49b7-a6d5-86a2b8759eba/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_528d18e5-66da-4de9-ad4f-ed3cefeb30e6",
+            "name": "GhostFace",
+            "author": "PlatinumColt16",
+            "image": "https://api.vrchat.cloud/api/1/image/file_5d3e81cc-8da0-48c6-b17d-6b5004ed8df9/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_62479a69-c37f-4539-9be7-c1d24edacc83",
+            "name": "Commission Avatar ＃1",
+            "author": "Butternuttrnut",
+            "image": "https://api.vrchat.cloud/api/1/image/file_00e6447b-09c1-403e-8e50-05430b388fc5/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          },
+          {
+            "id": "avtr_38d35028-46ba-40c0-9e90-d39b2ad7eb74",
+            "name": "SOTF BugDiver",
+            "author": "StaryClaire_",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9099cfe3-845c-4cbf-a1d2-4ccb2f06f1e7/1/256",
+            "platforms": [
+              "android",
+              "standalonewindows",
+              "ios"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T22:07:30.655Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -19826,6 +20400,17 @@
     ],
     "ins_16e45cf3-9d42-46d1-8505-aa83203b4590": [
       1786083904089
+    ],
+    "ins_002af866-6191-44bd-a194-3b7853d6d630": [
+      1786131649636
+    ],
+    "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee": [
+      1786136781052,
+      1786137337423,
+      1786140450713
+    ],
+    "ins_393494b7-02db-4a7f-ad50-c79d5ad2f5b6": [
+      1786137347315
     ]
   }
 }
