@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T05:19:29.120Z",
+  "updatedAt": "2026-08-07T06:25:03.971Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -18952,7 +18952,8 @@
         "ins_0c4992bc-ced7-4e49-9a2f-d2e40afabb5c",
         "ins_6dd0fb7a-f89c-4e7e-aa45-479df3862378",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_7a0e9f0c-e3b9-4bac-b042-4e383dd2981c"
+        "ins_7a0e9f0c-e3b9-4bac-b042-4e383dd2981c",
+        "ins_fef79f55-5e38-42e2-b208-daa60ff0480d"
       ]
     },
     {
@@ -19319,6 +19320,169 @@
       "installId": "ins_47a02b8b-2fd8-40c8-b83d-800f784c608e",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "preset-dafb7868-1dc9-4895-9c2f-13694e20d0a7",
+      "type": "preset",
+      "name": "67 lordd",
+      "author": "sus",
+      "description": "Baja bka",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "lyrics",
+          "media",
+          "weather",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "stars",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "·˸∗¨༺ ༻¨∗˸·",
+          "bottom": "·˸∗¨༺ ༻¨∗˸·"
+        },
+        "inline": {
+          "time": true,
+          "date": false,
+          "weather": false,
+          "media": false,
+          "lyrics": true,
+          "battery": false,
+          "instance": true,
+          "afk": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💬·:*¨「 I'm furry nyan 」¨*:·\n  💬·:*¨「 meoww 」¨*:·\n💭·:*¨「i pour syrup on my dih」¨*:·  \n🗯️･｡･[ eepy kittyy💤 ]･｡･ \n·:*¨「 suck it off noww 」¨*:·\n  ·:*¨「 jellybean is a weirdo 」¨*:·\n·:*¨「i'm the true leader bow down to me  」¨*:·",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "67"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "★",
+            "empty": "✩",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "sub",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": true,
+          "showRegion": true,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🍙",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "sub"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T06:25:03.971Z",
+      "installId": "ins_16e45cf3-9d42-46d1-8505-aa83203b4590",
+      "ownerUserId": "usr_219abb14-11cd-4ee6-bdd1-d8a35de5773c",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -19644,6 +19808,9 @@
     ],
     "ins_47a02b8b-2fd8-40c8-b83d-800f784c608e": [
       1786079969246
+    ],
+    "ins_16e45cf3-9d42-46d1-8505-aa83203b4590": [
+      1786083904089
     ]
   }
 }
