@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T06:25:03.971Z",
+  "updatedAt": "2026-08-07T08:19:38.395Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -327,7 +327,8 @@
       "publishedAt": "2026-07-06T03:09:18.881Z",
       "installId": "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
       "likedBy": [
-        "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b"
+        "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b",
+        "ins_e539a769-6a39-972d-2b85-c40f1b2afa09"
       ]
     },
     {
@@ -13392,7 +13393,8 @@
       "likedBy": [
         "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
         "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
-        "ins_18395458-9a18-4ab2-a577-e066f1aadf42"
+        "ins_18395458-9a18-4ab2-a577-e066f1aadf42",
+        "ins_73df9332-5e3e-4eb7-93e9-2749e6cdabf8"
       ]
     },
     {
@@ -15099,7 +15101,8 @@
         "ins_fef79f55-5e38-42e2-b208-daa60ff0480d",
         "ins_84279776-7352-4ac7-98c1-86d6a894031f",
         "ins_a0371fa3-0aed-4eda-8bd6-0758a5e5b10f",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_73a294aa-ae65-44c8-9673-733bb51b44f3"
       ]
     },
     {
@@ -18975,7 +18978,7 @@
         "sidebarBg": "#171717",
         "inputBg": "#000000",
         "buttonBg": "#253341",
-        "buttonHover": "#6ba844",
+        "buttonHover": "#8f00d1",
         "buttonText": "#fff7d6",
         "textPrimary": "#fffbe8",
         "textSecondary": "#d7c08a",
@@ -18990,7 +18993,7 @@
         "rsbInstanceBg": "rgba(0, 0, 0, 0.60)",
         "rsbAccountBg": "#131125"
       },
-      "tabOverrides": null,
+      "tabOverrides": {},
       "minTier": 0,
       "media": {
         "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
@@ -19005,7 +19008,9 @@
       "publishedAt": "2026-08-06T20:34:37.707Z",
       "installId": "ins_e539a769-6a39-972d-2b85-c40f1b2afa09",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_e539a769-6a39-972d-2b85-c40f1b2afa09"
+      ]
     },
     {
       "id": "preset-51746ddf-46a3-4ddd-925f-a302af604ace",
