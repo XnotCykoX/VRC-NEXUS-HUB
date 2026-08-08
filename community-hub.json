@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T22:23:13.130Z",
+  "updatedAt": "2026-08-08T22:24:41.652Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -21437,6 +21437,166 @@
       "installId": "ins_1f2ec338-f2d7-444c-8058-d5d635d3a9db",
       "ownerUserId": "usr_a100f647-3a74-4e05-9b50-1f75d47a51b3",
       "likedBy": []
+    },
+    {
+      "id": "preset-a1e0b8af-36de-4fff-a776-cdb70259c95b",
+      "type": "preset",
+      "name": "n",
+      "author": "n",
+      "description": "n",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "time",
+          "battery",
+          "date",
+          "personal",
+          "weather",
+          "lyrics",
+          "media",
+          "afk",
+          "mic",
+          "movement",
+          "vrcparam",
+          "uptime"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "》",
+          "right": "《"
+        },
+        "customFrame": {
+          "top": "╔═⚠️══》☢《══⚠️═╗",
+          "bottom": "╚═⚠️══卐🤡卐══⚠️═╝"
+        },
+        "inline": {
+          "time": true,
+          "date": true,
+          "weather": false,
+          "media": false,
+          "lyrics": false,
+          "battery": true
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "💭·:*¨「Nexus Is the best」¨*:·  \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･  \n💬·:*¨「 Alway's Free to Support  」¨*:·   \n💭·:*¨「Text here」¨*:·  \n💭·:*¨「Download Nexus Quest on Meta」¨*:·\n\n💬·:*¨「 Nexus Group 」¨*:· \n💭·:*¨「Nexus Support」¨*:· \n🗯️･｡･[ 💀 Nexus User's 👀 ]･｡･ \n💬·:*¨「 ⚠️16+ DNI🚫 」¨*:·  \n💭·:*¨「Supporter 4 Group」¨*:·  \n🗯️･｡･「Lost in the sauce」･｡･ ",
+          "cycle": true,
+          "intervalSec": 10,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "🥺",
+            "empty": "🥴",
+            "head": "👅"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💦",
+          "city": "Ontario",
+          "fahrenheit": true,
+          "lat": 34.06334,
+          "lon": -117.65089,
+          "place": "Ontario, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋Um"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": true,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T22:24:41.652Z",
+      "installId": "ins_617eb284-e81f-46ba-89a6-0e1c2f4d4650",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -21795,6 +21955,9 @@
     ],
     "ins_1f2ec338-f2d7-444c-8058-d5d635d3a9db": [
       1786219254939
+    ],
+    "ins_617eb284-e81f-46ba-89a6-0e1c2f4d4650": [
+      1786227881708
     ]
   }
 }
