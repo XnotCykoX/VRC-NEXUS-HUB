@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T22:24:41.652Z",
+  "updatedAt": "2026-08-08T23:22:53.613Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -18871,7 +18871,8 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_ff4d83d6-d363-41ba-b7b3-cd2bb6d577b4"
+        "ins_ff4d83d6-d363-41ba-b7b3-cd2bb6d577b4",
+        "ins_a8fc25af-d4be-46a8-bb14-8d27b17711c5"
       ]
     },
     {
@@ -21239,7 +21240,8 @@
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
-        "ins_54dc9a41-6c48-4c07-b5c1-187e76f7e4aa"
+        "ins_54dc9a41-6c48-4c07-b5c1-187e76f7e4aa",
+        "ins_ea45c557-0b4c-4e99-93a6-8e2f5ed8e968"
       ]
     },
     {
@@ -21595,6 +21597,165 @@
       "data": null,
       "publishedAt": "2026-08-08T22:24:41.652Z",
       "installId": "ins_617eb284-e81f-46ba-89a6-0e1c2f4d4650",
+      "ownerUserId": null,
+      "likedBy": []
+    },
+    {
+      "id": "preset-1b77c71d-f9d8-4514-90f8-26a1d8853449",
+      "type": "preset",
+      "name": "mine",
+      "author": "Mine",
+      "description": "Mine",
+      "tags": [
+        "Mine"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "weather",
+          "battery",
+          "date",
+          "media",
+          "lyrics",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "none",
+        "customBorder": {
+          "left": "|  ",
+          "right": "  |"
+        },
+        "customFrame": {
+          "top": "╔════➿💢💭💦════╗",
+          "bottom": "╚════💤💝💗🥰════╝"
+        },
+        "inline": {
+          "lyrics": true,
+          "mic": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "༺  Ephesians 4:32  ༻\n·:*¨  Check Bio ?  ¨*:· \n･｡･  I'm a catboy:3  ･｡･\n༺  Quest/pcvr User  ༻  \n༺  I'M 15 don't touch me  ༻ \n༺  single  ༻\n༺  feel free to approach me ༻\n༺  meoww:3 ༻\n༺ My favs are Dylan Kam Nay and Pixie ༻",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "Mute"
+        },
+        "afk": {
+          "on": false,
+          "emoji": "🤫"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "super",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "💦",
+          "city": "Crossville",
+          "fahrenheit": true,
+          "lat": 35.94896,
+          "lon": -85.0269,
+          "place": "Crossville, Tennessee, US",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": true,
+          "afk": true,
+          "movement": true,
+          "vrcparam": true,
+          "media": true,
+          "lyrics": true,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T23:22:53.613Z",
+      "installId": "ins_b3b89a21-9364-4479-ae9a-18474856c176",
       "ownerUserId": null,
       "likedBy": []
     }
@@ -21958,6 +22119,9 @@
     ],
     "ins_617eb284-e81f-46ba-89a6-0e1c2f4d4650": [
       1786227881708
+    ],
+    "ins_b3b89a21-9364-4479-ae9a-18474856c176": [
+      1786231374076
     ]
   }
 }
