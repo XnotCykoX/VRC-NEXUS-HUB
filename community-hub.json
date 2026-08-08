@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T06:27:15.264Z",
+  "updatedAt": "2026-08-08T09:23:47.780Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5818,7 +5818,8 @@
         "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f",
         "ins_64193654-0392-4f43-afde-062951448e8e",
         "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
-        "ins_e6f29bda-3ca1-494c-8062-1268d9752a46"
+        "ins_e6f29bda-3ca1-494c-8062-1268d9752a46",
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
       ]
     },
     {
@@ -20314,7 +20315,8 @@
         "ins_ddd03792-b701-4da3-ba8b-56d9e8ab7566",
         "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
-        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
+        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
+        "ins_78966a6b-85bd-42b7-ab52-73d9c485985f"
       ]
     },
     {
@@ -20475,43 +20477,6 @@
       "likedBy": [
         "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
-      ]
-    },
-    {
-      "id": "script-392abaf4-1c83-4b44-9915-341b2980f14c",
-      "type": "script",
-      "name": "fe unlock avatar",
-      "author": "lavashatters",
-      "description": "Works on anything with that lock prefab\n(kinda)",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "blocks": [
-          {
-            "id": 5,
-            "type": "loop",
-            "count": "0",
-            "children": [
-              {
-                "id": 6,
-                "type": "set",
-                "param": "_locked",
-                "kind": "off",
-                "value": 1
-              }
-            ]
-          }
-        ]
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-08T05:20:33.177Z",
-      "installId": "ins_b1683427-1f8e-441e-a541-6e5e888f4efc",
-      "ownerUserId": "usr_7d78d5f6-c563-4c84-9de9-ba48eb6e6407",
-      "likedBy": [
-        "ins_b1683427-1f8e-441e-a541-6e5e888f4efc"
       ]
     }
   ],
@@ -20857,7 +20822,8 @@
       1786137347315
     ],
     "ins_b1683427-1f8e-441e-a541-6e5e888f4efc": [
-      1786166433217
+      1786166433217,
+      1786171238911
     ]
   }
 }
