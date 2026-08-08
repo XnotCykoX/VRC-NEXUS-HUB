@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T17:25:24.207Z",
+  "updatedAt": "2026-08-08T22:23:13.130Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -1086,7 +1086,8 @@
         "ins_b16ed39d-4138-401e-b3c1-2c33720df8b9",
         "ins_2ecb53e1-3b26-3f2f-bc2d-0d573dc0e4dd",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -6800,7 +6801,8 @@
       "installId": "ins_f2fcdd33-7ff1-402e-a787-9fef5b53305c",
       "likedBy": [
         "ins_7ed5e2e3-b8f4-42c9-91f4-f4f1c36de1bc",
-        "ins_a781ff9d-5f2a-4a6a-9f5b-a284ae9b5301"
+        "ins_a781ff9d-5f2a-4a6a-9f5b-a284ae9b5301",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -6934,7 +6936,8 @@
       "publishedAt": "2026-07-29T15:23:23.207Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
       "likedBy": [
-        "ins_c7737195-cce3-4e63-83cd-aea44bcda826"
+        "ins_c7737195-cce3-4e63-83cd-aea44bcda826",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -7068,7 +7071,8 @@
       "publishedAt": "2026-07-29T15:29:09.420Z",
       "installId": "ins_959b92e6-5ea9-478f-af40-47b141c04294",
       "likedBy": [
-        "ins_8c1976ed-1bb4-4009-b702-5bc412314746"
+        "ins_8c1976ed-1bb4-4009-b702-5bc412314746",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -7532,7 +7536,8 @@
       "installId": "ins_0f39eb6e-5fcf-4fc7-aa84-91aa018e81d6",
       "likedBy": [
         "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7",
-        "ins_c7737195-cce3-4e63-83cd-aea44bcda826"
+        "ins_c7737195-cce3-4e63-83cd-aea44bcda826",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -7808,7 +7813,8 @@
         "ins_b6c56c22-d5ed-4de7-992e-b277dcb6ec78",
         "ins_40004c3e-77e3-4831-92dd-80432d4335ec",
         "ins_659105e8-8270-4193-8891-a3a84860c39c",
-        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7"
+        "ins_a244e491-f92c-4167-8032-cf1e1f69c5e7",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -7972,7 +7978,8 @@
         "ins_a550930f-69c3-4439-9f93-adaf2cdc7a02",
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
         "ins_b42d7dd4-441c-9ba9-15d8-8d00341ee898",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -8134,7 +8141,8 @@
         "ins_1b1e6814-c86f-42ca-9b41-3c4cf6f0a886",
         "ins_9edd8b30-3368-47fc-9399-ce303e7402ac",
         "ins_ebdf470f-7469-426b-b299-e462e8d036de",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -8482,7 +8490,8 @@
         "ins_ca688cd4-2ae3-44f5-944b-8f19663c4a45",
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
         "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -8892,7 +8901,8 @@
         "ins_5cfb8b01-8e77-4857-ad0a-55fa4216b58b",
         "ins_edb44cbb-3baa-4584-aaaf-8468df9feb9a",
         "ins_3198c989-1ec5-4744-896d-e4219efb979f",
-        "ins_4c88e0c6-9fb6-4023-8611-9488b544b961"
+        "ins_4c88e0c6-9fb6-4023-8611-9488b544b961",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -9325,7 +9335,8 @@
         "ins_c49bfeac-c7ae-48c0-a3c0-39073f7ee5f7",
         "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -9754,7 +9765,8 @@
         "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_e6f29bda-3ca1-494c-8062-1268d9752a46",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -10650,7 +10662,8 @@
         "ins_a04e09b2-6f4d-462b-b9d7-0bf39b2dd566",
         "ins_6403ce18-549c-4158-bcdf-547beedc77c9",
         "ins_90b0d795-88e5-4c1e-896f-8ceef9b46a9c",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -11392,7 +11405,8 @@
         "ins_d68568d5-68f8-4ad0-9eb8-0a70bf023ce4",
         "ins_36267036-f006-58fd-69bd-69b2b22bd23e",
         "ins_848c3678-4ed1-49ce-ad38-fb9a633e6f4a",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -11698,7 +11712,8 @@
         "ins_f88032fc-48c3-4edf-9767-a2ce32c65536",
         "ins_440bc39e-2d20-4a7d-b1ed-831a03c565e2",
         "ins_2ccd50c4-b071-4bee-b33d-4bf817a216ae",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -12833,7 +12848,9 @@
         "ins_b8714e85-c75d-4e78-b4e2-a218ce332530",
         "ins_437da7a5-ab9e-42d4-9421-2aec98a3be8b",
         "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
-        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795",
+        "ins_b53956c2-e368-480c-a7e3-c1572c39dde9",
+        "ins_63c76da2-814d-4ced-aa82-3a4bc6551434"
       ]
     },
     {
@@ -13426,7 +13443,8 @@
         "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
         "ins_18395458-9a18-4ab2-a577-e066f1aadf42",
         "ins_73df9332-5e3e-4eb7-93e9-2749e6cdabf8",
-        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -13598,7 +13616,8 @@
         "ins_f08ad9af-4336-4a96-bf53-2e24c0c59bb3",
         "ins_a550930f-69c3-4439-9f93-adaf2cdc7a02",
         "ins_84279776-7352-4ac7-98c1-86d6a894031f",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -13922,7 +13941,8 @@
         "ins_f554c45a-31b9-46da-9729-a6563c5748c1",
         "ins_d1972ab4-1d43-4189-a6be-51b8d6ed1f30",
         "ins_840c5b3d-635c-4b99-bcad-b0c3f177a69e",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -14316,7 +14336,8 @@
         "ins_7a8ad17f-1130-4691-8cd0-e3ff61f6a5df",
         "ins_a8fc25af-d4be-46a8-bb14-8d27b17711c5",
         "ins_99ad3518-5527-40fe-87a0-c9d6cc5722c6",
-        "ins_002af866-6191-44bd-a194-3b7853d6d630"
+        "ins_002af866-6191-44bd-a194-3b7853d6d630",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -15143,7 +15164,8 @@
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_73a294aa-ae65-44c8-9673-733bb51b44f3",
         "ins_dcf489ea-1ed1-426f-bdcb-356a4e70b783",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_201fcfb4-97b8-5fd8-5766-66505512e6f8"
       ]
     },
     {
@@ -18100,7 +18122,9 @@
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_51d1aa5d-8f54-4f24-b5f7-4618574666e7",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
-        "ins_53b8d653-29a4-4e67-9f09-08a44240c56e"
+        "ins_53b8d653-29a4-4e67-9f09-08a44240c56e",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_b8ef300e-e499-4dc4-b5da-ebc2a295b44e"
       ]
     },
     {
@@ -18420,7 +18444,8 @@
         "ins_4ce786a1-77bb-4aa3-a927-4dd4e994f1b1",
         "ins_dec82092-51cb-403f-b13f-13364dccc686",
         "ins_b96cfbb7-1f80-455e-a12b-74d9a4216c9c",
-        "ins_b7722c14-883f-4996-bfb2-10a960308544"
+        "ins_b7722c14-883f-4996-bfb2-10a960308544",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
       ]
     },
     {
@@ -18685,7 +18710,9 @@
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
         "ins_4ed89b3c-915a-4dcf-9134-cf6a4bdf9dfc",
         "ins_e343ebfb-a5a9-4e00-8734-ab95d8301670",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_fce6ea39-80cd-4ced-a678-1a5191c65383"
       ]
     },
     {
@@ -18843,7 +18870,8 @@
       "installId": "ins_1ebfeb3e-9e24-40a6-8247-f13d7a80018d",
       "ownerUserId": null,
       "likedBy": [
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_ff4d83d6-d363-41ba-b7b3-cd2bb6d577b4"
       ]
     },
     {
@@ -19009,7 +19037,9 @@
         "ins_01e29612-f211-4925-941d-842c95bb6fb4",
         "ins_c3208a29-b4dc-413e-abb9-4893f2696eca",
         "ins_aa3febdc-931c-4315-ae49-ee36a6f94795",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_d37f6ece-194c-4778-85fe-5f077041c912"
       ]
     },
     {
@@ -19540,7 +19570,9 @@
       "publishedAt": "2026-08-07T06:25:03.971Z",
       "installId": "ins_16e45cf3-9d42-46d1-8505-aa83203b4590",
       "ownerUserId": "usr_219abb14-11cd-4ee6-bdd1-d8a35de5773c",
-      "likedBy": []
+      "likedBy": [
+        "ins_7cbf7cf8-a044-46bb-8791-6c358825f8cc"
+      ]
     },
     {
       "id": "preset-aa9a7f5b-75a5-4c40-aaca-8ee1ba9582c8",
@@ -19695,7 +19727,8 @@
       "installId": "ins_002af866-6191-44bd-a194-3b7853d6d630",
       "ownerUserId": "usr_0449a169-d2f1-4584-a956-8a1675b58a9e",
       "likedBy": [
-        "ins_ae4b06c6-977e-406d-b610-cdafa279f818"
+        "ins_ae4b06c6-977e-406d-b610-cdafa279f818",
+        "ins_7cbf7cf8-a044-46bb-8791-6c358825f8cc"
       ]
     },
     {
@@ -19734,7 +19767,9 @@
       "publishedAt": "2026-08-07T21:06:20.944Z",
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
-      "likedBy": []
+      "likedBy": [
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f"
+      ]
     },
     {
       "id": "preset-0542ddea-06e5-4ed1-81dd-b500a76da033",
@@ -20177,7 +20212,9 @@
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
-        "ins_4319e70b-67c8-45f1-a36d-787d11f2d370"
+        "ins_4319e70b-67c8-45f1-a36d-787d11f2d370",
+        "ins_2e45b186-eea8-43c6-938e-75911754d84b",
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f"
       ]
     },
     {
@@ -20341,7 +20378,9 @@
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
         "ins_78966a6b-85bd-42b7-ab52-73d9c485985f",
         "ins_e72a9f26-6202-404d-8027-a08df5af62b0",
-        "ins_1fa3b004-0482-47e0-907a-52cfb51405b1"
+        "ins_1fa3b004-0482-47e0-907a-52cfb51405b1",
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f",
+        "ins_15b8c8dd-0834-4dd6-a476-8d1933f5b468"
       ]
     },
     {
@@ -20501,7 +20540,9 @@
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
         "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
-        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
+        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f",
+        "ins_2b18e0a5-6b8c-4667-8114-421c5a2d3819"
       ]
     },
     {
@@ -21196,6 +21237,205 @@
       "publishedAt": "2026-08-08T17:25:24.207Z",
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": [
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_54dc9a41-6c48-4c07-b5c1-187e76f7e4aa"
+      ]
+    },
+    {
+      "id": "script-f304fa03-f871-4aac-8f04-72b37fde5a96",
+      "type": "script",
+      "name": "Size",
+      "author": "Mac_The_Man42",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 1,
+            "type": "wait",
+            "ms": "5000"
+          },
+          {
+            "id": 2,
+            "type": "height",
+            "value": 1.7,
+            "sweep": true,
+            "from": "1.82",
+            "to": ".1",
+            "seconds": ".3",
+            "pingpong": false
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T17:51:59.231Z",
+      "installId": "ins_2e45b186-eea8-43c6-938e-75911754d84b",
+      "ownerUserId": null,
+      "likedBy": [
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f"
+      ]
+    },
+    {
+      "id": "preset-deae87ee-510a-47f2-a905-b9ef7cc684c3",
+      "type": "preset",
+      "name": "my settings (no lyrics)",
+      "author": "brizzle",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "media",
+          "lyrics",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "uptime",
+          "date",
+          "battery",
+          "instance",
+          "personal"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "❤❤❤❤❤❤",
+          "bottom": "❤❤❤❤❤❤"
+        },
+        "inline": {
+          "media": false,
+          "battery": false,
+          "personal": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "",
+          "statuses": "I'm 14\ntcc members are corny\nhe/him\npansexual\nhows ur day?\nYZYSZN\nprob listening to kanye\nerp is weird\n\"can i talk my shit again?\" - KanYe West\nMFDOOM\nYES I'M A FURRY\nI'm a star how could i not shine\nwelcome to the good life!\nw beanzzzzz35\n",
+          "cycle": true,
+          "intervalSec": 5,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": "Mood"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎧",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 5,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": true,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": false,
+          "showCount": false,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "",
+          "smallDigits": "super"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": false,
+          "time": false,
+          "date": false,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T20:00:54.858Z",
+      "installId": "ins_1f2ec338-f2d7-444c-8058-d5d635d3a9db",
+      "ownerUserId": "usr_a100f647-3a74-4e05-9b50-1f75d47a51b3",
       "likedBy": []
     }
   ],
@@ -21549,6 +21789,12 @@
     ],
     "ins_a33d40e8-0f64-4bc6-9544-07299d6abfaf": [
       1786187508574
+    ],
+    "ins_2e45b186-eea8-43c6-938e-75911754d84b": [
+      1786211519303
+    ],
+    "ins_1f2ec338-f2d7-444c-8058-d5d635d3a9db": [
+      1786219254939
     ]
   }
 }
