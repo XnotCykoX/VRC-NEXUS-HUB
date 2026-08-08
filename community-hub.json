@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T01:22:36.066Z",
+  "updatedAt": "2026-08-08T05:20:33.177Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5533,7 +5533,8 @@
       "installId": "ins_ae12ddec-fba1-486a-a2c2-726f9731acd5",
       "likedBy": [
         "ins_b2d02025-ae23-4ae8-8f92-b1d6f725486f",
-        "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a"
+        "ins_b5a6f08c-3ec2-4659-85a2-f9e69ea5b08a",
+        "ins_a2689d03-75b9-4fda-b53d-26fd87d56b9a"
       ]
     },
     {
@@ -12150,7 +12151,8 @@
       "ownerUserId": "usr_eece7d2d-c596-4f88-8dd2-b620d14fd369",
       "likedBy": [
         "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
-        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479"
+        "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
+        "ins_a2689d03-75b9-4fda-b53d-26fd87d56b9a"
       ]
     },
     {
@@ -13271,7 +13273,8 @@
         "ins_00fe6df0-d7e2-4030-9f04-dda2e0cf9749",
         "ins_334be390-3479-4e82-a125-6a225d7391f7",
         "ins_3d1db3c3-caaf-4e5d-8543-4889b49d119a",
-        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460"
+        "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
+        "ins_a0371fa3-0aed-4eda-8bd6-0758a5e5b10f"
       ]
     },
     {
@@ -18979,7 +18982,9 @@
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_7a0e9f0c-e3b9-4bac-b042-4e383dd2981c",
         "ins_fef79f55-5e38-42e2-b208-daa60ff0480d",
-        "ins_01e29612-f211-4925-941d-842c95bb6fb4"
+        "ins_01e29612-f211-4925-941d-842c95bb6fb4",
+        "ins_c3208a29-b4dc-413e-abb9-4893f2696eca",
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
       ]
     },
     {
@@ -19860,7 +19865,9 @@
       "publishedAt": "2026-08-07T21:15:47.219Z",
       "installId": "ins_393494b7-02db-4a7f-ad50-c79d5ad2f5b6",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+      ]
     },
     {
       "id": "sharepack-2164822e-2043-4015-8983-f3cab46642df",
@@ -20301,7 +20308,9 @@
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
         "ins_ddd03792-b701-4da3-ba8b-56d9e8ab7566",
-        "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b"
+        "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
       ]
     },
     {
@@ -20460,8 +20469,44 @@
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
-        "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b"
+        "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
+        "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
       ]
+    },
+    {
+      "id": "script-392abaf4-1c83-4b44-9915-341b2980f14c",
+      "type": "script",
+      "name": "fe unlock avatar",
+      "author": "lavashatters",
+      "description": "Works on anything with that lock prefab\n(kinda)",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 5,
+            "type": "loop",
+            "count": "0",
+            "children": [
+              {
+                "id": 6,
+                "type": "set",
+                "param": "_locked",
+                "kind": "off",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T05:20:33.177Z",
+      "installId": "ins_b1683427-1f8e-441e-a541-6e5e888f4efc",
+      "ownerUserId": "usr_7d78d5f6-c563-4c84-9de9-ba48eb6e6407",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -20804,6 +20849,9 @@
     ],
     "ins_393494b7-02db-4a7f-ad50-c79d5ad2f5b6": [
       1786137347315
+    ],
+    "ins_b1683427-1f8e-441e-a541-6e5e888f4efc": [
+      1786166433217
     ]
   }
 }
