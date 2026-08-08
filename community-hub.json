@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T22:21:14.961Z",
+  "updatedAt": "2026-08-08T01:20:27.491Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5399,7 +5399,8 @@
         "ins_7e604015-8d76-4a12-a3cb-c141bb97dac1",
         "ins_9629db5f-59e9-4b8d-996a-0bb593fec264",
         "ins_f2876ab3-0037-46ed-9135-e2213a4c41fc",
-        "ins_002af866-6191-44bd-a194-3b7853d6d630"
+        "ins_002af866-6191-44bd-a194-3b7853d6d630",
+        "ins_32383c32-1364-4034-8f3e-14fef4fda201"
       ]
     },
     {
@@ -5815,7 +5816,8 @@
         "ins_9e6a0238-ad9a-4374-bc53-f91ef142d479",
         "ins_b0623dc0-34f0-4567-8785-1c26591cdb0f",
         "ins_64193654-0392-4f43-afde-062951448e8e",
-        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a"
+        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
+        "ins_e6f29bda-3ca1-494c-8062-1268d9752a46"
       ]
     },
     {
@@ -9740,7 +9742,8 @@
         "ins_1960c753-787e-432a-9356-f7335db0575f",
         "ins_baa5c1bc-08eb-45cb-8b85-827ca887fafd",
         "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_e6f29bda-3ca1-494c-8062-1268d9752a46"
       ]
     },
     {
@@ -10332,7 +10335,8 @@
         "ins_e53bbcfb-24bd-4574-8753-d4cb5e951460",
         "ins_a550930f-69c3-4439-9f93-adaf2cdc7a02",
         "ins_47ef2308-18a2-47f4-a513-bc1b2dc35658",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_e6f29bda-3ca1-494c-8062-1268d9752a46"
       ]
     },
     {
@@ -13403,7 +13407,8 @@
         "ins_9e881e17-d6cf-4f20-9eba-6649a13885cb",
         "ins_b1878e7f-1100-4d6f-bfe7-f6b93b9aff9c",
         "ins_18395458-9a18-4ab2-a577-e066f1aadf42",
-        "ins_73df9332-5e3e-4eb7-93e9-2749e6cdabf8"
+        "ins_73df9332-5e3e-4eb7-93e9-2749e6cdabf8",
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
       ]
     },
     {
@@ -14948,7 +14953,8 @@
       "installId": "ins_16866367-580e-456c-9560-0d7038b9a07d",
       "ownerUserId": "usr_527ef5df-a406-4a97-b8c3-0dabe32d248e",
       "likedBy": [
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
       ]
     },
     {
@@ -19658,7 +19664,9 @@
       "publishedAt": "2026-08-07T19:40:48.957Z",
       "installId": "ins_002af866-6191-44bd-a194-3b7853d6d630",
       "ownerUserId": "usr_0449a169-d2f1-4584-a956-8a1675b58a9e",
-      "likedBy": []
+      "likedBy": [
+        "ins_ae4b06c6-977e-406d-b610-cdafa279f818"
+      ]
     },
     {
       "id": "script-e63931db-f062-4a03-bdc6-5a20eafe5065",
@@ -19694,51 +19702,6 @@
       "media": null,
       "data": null,
       "publishedAt": "2026-08-07T21:06:20.944Z",
-      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
-      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
-      "likedBy": []
-    },
-    {
-      "id": "script-a5e806ca-8dea-43ee-8409-aaf7e8143a13",
-      "type": "script",
-      "name": "content cache overloader",
-      "author": "Pr0t0typ3d_v1",
-      "description": "This will swap your selected avatars every 5 seconds (can be changed), causing quest users to lag and freeze over a period of time, the bigger file size  the avatar the better.\nThis is due to vrchats poor handling of content caches and will crash your game to reset it.",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "blocks": [
-          {
-            "id": 7,
-            "type": "loop",
-            "count": 0,
-            "children": [
-              {
-                "id": 8,
-                "type": "avatar",
-                "avatarId": "",
-                "label": ""
-              },
-              {
-                "id": 10,
-                "type": "wait",
-                "ms": "5000"
-              },
-              {
-                "id": 9,
-                "type": "avatar",
-                "avatarId": "",
-                "label": ""
-              }
-            ]
-          }
-        ]
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-07T21:15:37.060Z",
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": []
@@ -20074,6 +20037,428 @@
       "likedBy": [
         "ins_2e45b186-eea8-43c6-938e-75911754d84b"
       ]
+    },
+    {
+      "id": "script-24a6f26a-1977-462b-81fb-4c26341c5a61",
+      "type": "script",
+      "name": "Content cache overloader 2.0",
+      "author": "Pr0t0typ3d_v1",
+      "description": "Added height spam, spam messages, more avi spam selections",
+      "tags": [
+        "Trolling"
+      ],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 27,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 8,
+                "type": "avatar",
+                "avatarId": "avtr_c2ebedf2-ec15-404c-b343-a76c4bc5fcdb",
+                "label": "Ethan Winters - RE7"
+              },
+              {
+                "id": 10,
+                "type": "wait",
+                "ms": "5000"
+              },
+              {
+                "id": 9,
+                "type": "avatar",
+                "avatarId": "avtr_a8a9b413-3cbe-41c1-abb5-3414fde01f04",
+                "label": "ethan winters re7"
+              },
+              {
+                "id": 29,
+                "type": "wait",
+                "ms": "5000"
+              },
+              {
+                "id": 30,
+                "type": "avatar",
+                "avatarId": "avtr_62479a69-c37f-4539-9be7-c1d24edacc83",
+                "label": "Commission Avatar ＃1"
+              },
+              {
+                "id": 31,
+                "type": "wait",
+                "ms": "5000"
+              },
+              {
+                "id": 32,
+                "type": "avatar",
+                "avatarId": "avtr_528d18e5-66da-4de9-ad4f-ed3cefeb30e6",
+                "label": "GhostFace"
+              },
+              {
+                "id": 33,
+                "type": "wait",
+                "ms": "5000"
+              },
+              {
+                "id": 34,
+                "type": "avatar",
+                "avatarId": "avtr_02fc43d7-eb67-4a69-bb69-dadc75033604",
+                "label": "Musketeer˸ Bubonic - Cryptid Capture Squad"
+              },
+              {
+                "id": 35,
+                "type": "wait",
+                "ms": "5000"
+              }
+            ]
+          },
+          {
+            "id": 36,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 37,
+                "type": "height",
+                "value": 1.7,
+                "sweep": true,
+                "from": "0.1",
+                "to": "100",
+                "seconds": "1",
+                "pingpong": true
+              },
+              {
+                "id": 38,
+                "type": "chatbox",
+                "text": "(insert spam text here)"
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T22:33:08.528Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": []
+    },
+    {
+      "id": "preset-d19c1383-e49b-4475-bbb4-c3201f236191",
+      "type": "preset",
+      "name": "Charging animated",
+      "author": "Pr0t0typ3d_v1",
+      "description": "A short ... For charging",
+      "tags": [
+        "Animated"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "pipe",
+        "frame": "lines",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Charging\nCharging.\nCharging..\nCharging...",
+          "cycle": true,
+          "intervalSec": 2,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T23:09:03.556Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": [
+        "ins_ddd03792-b701-4da3-ba8b-56d9e8ab7566"
+      ]
+    },
+    {
+      "id": "preset-f4df1088-d309-46a6-aa9c-0e086096f6bf",
+      "type": "preset",
+      "name": "socials promoting",
+      "author": "Pr0t0typ3d_v1",
+      "description": "Insert your socials duh",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "pipe",
+        "frame": "lines",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "afk": false,
+          "battery": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "˖ ࣪ ⊹My socials: (INSERT LINK/NAME HERE) ⊹ ࣪ ˖\n˖ ࣪ ⊹My socials: (INSERT LINK/NAME HERE) ⊹ ࣪ ˖\n˖ ࣪ ⊹My socials: (INSERT LINK/NAME HERE) ⊹ ࣪ ˖\n˖ ࣪ ⊹My socials: (INSERT LINK/NAME HERE) ⊹ ࣪ ˖",
+          "cycle": true,
+          "intervalSec": 0.1,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "sub"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-07T23:09:49.101Z",
+      "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
+      "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -20409,7 +20794,10 @@
     "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee": [
       1786136781052,
       1786137337423,
-      1786140450713
+      1786140450713,
+      1786141988651,
+      1786144143915,
+      1786144189213
     ],
     "ins_393494b7-02db-4a7f-ad50-c79d5ad2f5b6": [
       1786137347315
