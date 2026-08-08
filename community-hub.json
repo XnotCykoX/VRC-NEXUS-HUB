@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-08T09:26:07.544Z",
+  "updatedAt": "2026-08-08T11:20:47.878Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -14813,8 +14813,7 @@
         "ins_7fc20ae8-d4fa-4c4d-a394-f9f37487d30b",
         "ins_29805749-a62b-4268-929a-8790a2bd1e66",
         "ins_8a82c9b3-0c18-4d1c-a5c6-551c778815ba",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
       ]
     },
     {
@@ -20337,7 +20336,8 @@
         "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e",
-        "ins_78966a6b-85bd-42b7-ab52-73d9c485985f"
+        "ins_78966a6b-85bd-42b7-ab52-73d9c485985f",
+        "ins_e72a9f26-6202-404d-8027-a08df5af62b0"
       ]
     },
     {
@@ -20499,6 +20499,160 @@
         "ins_cf6dfe20-cef7-4d7c-a3d7-e3eb7254b80b",
         "ins_b087d25b-140c-48a4-914b-7fd27ee1db4e"
       ]
+    },
+    {
+      "id": "preset-1f97a292-08d7-4fe4-8382-cb3f75e2e3e0",
+      "type": "preset",
+      "name": "diddy",
+      "author": "Anonymous",
+      "description": "Ycfy",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "pipe",
+        "frame": "lines",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Charging\nCharging.\nCharging..\nCharging...",
+          "cycle": true,
+          "intervalSec": 2,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "",
+          "fahrenheit": false,
+          "lat": null,
+          "lon": null,
+          "place": "",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": false,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-08T11:11:48.424Z",
+      "installId": "ins_a33d40e8-0f64-4bc6-9544-07299d6abfaf",
+      "ownerUserId": null,
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -20845,6 +20999,9 @@
     "ins_b1683427-1f8e-441e-a541-6e5e888f4efc": [
       1786166433217,
       1786171238911
+    ],
+    "ins_a33d40e8-0f64-4bc6-9544-07299d6abfaf": [
+      1786187508574
     ]
   }
 }
