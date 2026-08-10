@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T12:24:41.292Z",
+  "updatedAt": "2026-08-10T12:24:53.518Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -22632,29 +22632,6 @@
       "data": null,
       "publishedAt": "2026-08-10T12:15:47.429Z",
       "installId": "ins_f72e1765-8d7a-47d9-9605-536753d83e66",
-      "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
-      "status": "approved",
-      "likedBy": []
-    },
-    {
-      "id": "hostedinstance-78c66384-686b-4033-be04-1fd80c166830",
-      "type": "hostedinstance",
-      "name": "Murder Four",
-      "author": "_cykoo_",
-      "description": "",
-      "tags": [],
-      "platform": "quest",
-      "payload": {
-        "worldId": "wrld_test2",
-        "instanceId": "222~private(usr_1)~canRequestInvite~region(us)",
-        "worldName": "Murder Four"
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-10T12:24:41.292Z",
-      "installId": "ins_c78a856a-8e32-4a66-bd6e-286bf2084c9e",
       "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
       "status": "approved",
       "likedBy": []
