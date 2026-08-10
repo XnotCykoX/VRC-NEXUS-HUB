@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T17:23:14.062Z",
+  "updatedAt": "2026-08-10T23:22:31.474Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -14854,7 +14854,8 @@
         "ins_29805749-a62b-4268-929a-8790a2bd1e66",
         "ins_8a82c9b3-0c18-4d1c-a5c6-551c778815ba",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc"
+        "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
+        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092"
       ]
     },
     {
@@ -15187,7 +15188,8 @@
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
         "ins_201fcfb4-97b8-5fd8-5766-66505512e6f8",
         "ins_3725467e-c2cc-4c0d-8fc6-5d5a4760dc99",
-        "ins_d1972ab4-1d43-4189-a6be-51b8d6ed1f30"
+        "ins_d1972ab4-1d43-4189-a6be-51b8d6ed1f30",
+        "ins_b8f63be2-e3e7-45c8-b52a-e70f0787b348"
       ]
     },
     {
@@ -18148,7 +18150,8 @@
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
         "ins_b8ef300e-e499-4dc4-b5da-ebc2a295b44e",
         "ins_7930657e-742e-41de-8fc6-b12654a4e0e4",
-        "ins_5013df90-8abf-4b10-abee-a722e5b78916"
+        "ins_5013df90-8abf-4b10-abee-a722e5b78916",
+        "ins_ff9503a3-a0ee-47d3-9d38-8aff1b279259"
       ]
     },
     {
@@ -19280,7 +19283,9 @@
       "publishedAt": "2026-08-07T03:15:45.476Z",
       "installId": "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_a647d5fe-8f97-4cce-8261-b34371bea001"
+      ]
     },
     {
       "id": "preset-d2ecdc4a-9ae1-47c1-9ce3-58f6b0b73d27",
@@ -19801,7 +19806,8 @@
       "installId": "ins_ecc5cd01-2ef4-4e97-8782-eafdc1571bee",
       "ownerUserId": "usr_369f99ad-a25e-4315-98e1-8522c7a0ef41",
       "likedBy": [
-        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f"
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f",
+        "ins_2e45b186-eea8-43c6-938e-75911754d84b"
       ]
     },
     {
@@ -21285,7 +21291,8 @@
         "ins_5013df90-8abf-4b10-abee-a722e5b78916",
         "ins_dbc7b81b-2b58-48c4-b99e-2e77d586d49a",
         "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
-        "ins_d002ea70-76a8-4565-b5b4-5f35f24e4b9f"
+        "ins_d002ea70-76a8-4565-b5b4-5f35f24e4b9f",
+        "ins_a6980da0-720e-4ebf-9868-eea6b0f2aff5"
       ]
     },
     {
@@ -21324,7 +21331,8 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f",
-        "ins_71fe36c4-3018-4d2a-8006-6881b58bfd3e"
+        "ins_71fe36c4-3018-4d2a-8006-6881b58bfd3e",
+        "ins_2e45b186-eea8-43c6-938e-75911754d84b"
       ]
     },
     {
@@ -22137,7 +22145,8 @@
       "likedBy": [
         "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
         "ins_5604d707-6081-4947-b700-143dc9ee60bb",
-        "ins_cca70e72-a54b-419f-8cf8-37ce54428a69"
+        "ins_cca70e72-a54b-419f-8cf8-37ce54428a69",
+        "ins_5d4697bf-12fc-4357-9430-d5adc812d49a"
       ]
     },
     {
@@ -22457,7 +22466,9 @@
       "publishedAt": "2026-08-10T00:02:20.754Z",
       "installId": "ins_c6e76920-38eb-45cb-97d2-2e68d0d76cf4",
       "ownerUserId": null,
-      "likedBy": []
+      "likedBy": [
+        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092"
+      ]
     },
     {
       "id": "preset-babaf712-037c-4665-a127-e9a117945942",
@@ -22641,6 +22652,156 @@
       "publishedAt": "2026-08-10T12:15:47.429Z",
       "installId": "ins_f72e1765-8d7a-47d9-9605-536753d83e66",
       "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "script-9a29655c-2fcb-4183-b8ce-36c90af621e2",
+      "type": "script",
+      "name": "TF2 Police Soldier",
+      "author": "Mac_The_Man42",
+      "description": "This script only works with dicksalot_, Luigi The Proto and ffgameryt customizable Soldier avatar.",
+      "tags": [
+        "Police TF2"
+      ],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 40,
+            "type": "wait",
+            "ms": "5000"
+          },
+          {
+            "id": 37,
+            "type": "set",
+            "param": "Hats",
+            "kind": "num",
+            "value": "13"
+          },
+          {
+            "id": 41,
+            "type": "wait",
+            "ms": 500
+          },
+          {
+            "id": 38,
+            "type": "set",
+            "param": "Shirts",
+            "kind": "num",
+            "value": "3"
+          },
+          {
+            "id": 43,
+            "type": "wait",
+            "ms": 500
+          },
+          {
+            "id": 42,
+            "type": "set",
+            "param": "Flakcatcher",
+            "kind": "on",
+            "value": 1
+          },
+          {
+            "id": 48,
+            "type": "wait",
+            "ms": 500
+          },
+          {
+            "id": 44,
+            "type": "set",
+            "param": "Shoes",
+            "kind": "num",
+            "value": "3"
+          },
+          {
+            "id": 57,
+            "type": "wait",
+            "ms": 500
+          },
+          {
+            "id": 58,
+            "type": "set",
+            "param": "Weapons",
+            "kind": "num",
+            "value": "8"
+          },
+          {
+            "id": 56,
+            "type": "wait",
+            "ms": "3000"
+          },
+          {
+            "id": 49,
+            "type": "set",
+            "param": "Uber",
+            "kind": "on",
+            "value": 1
+          },
+          {
+            "id": 50,
+            "type": "loop",
+            "count": 0,
+            "children": [
+              {
+                "id": 52,
+                "type": "wait",
+                "ms": 500
+              },
+              {
+                "id": 53,
+                "type": "set",
+                "param": "Blu",
+                "kind": "on",
+                "value": 1
+              },
+              {
+                "id": 54,
+                "type": "wait",
+                "ms": 500
+              },
+              {
+                "id": 55,
+                "type": "set",
+                "param": "Blu",
+                "kind": "off",
+                "value": 1
+              }
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-10T18:51:07.017Z",
+      "installId": "ins_2e45b186-eea8-43c6-938e-75911754d84b",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": [
+        "ins_2e45b186-eea8-43c6-938e-75911754d84b"
+      ]
+    },
+    {
+      "id": "script-aa7a1408-83a5-4b62-84e5-d5a27107464e",
+      "type": "script",
+      "name": "frennifaz_76",
+      "author": "Frennifaz_76",
+      "description": "Just a chill person with a funny personlity",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": []
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-10T18:52:52.174Z",
+      "installId": "ins_1feb4c60-40b5-40a8-bce7-68a7e22b6cac",
+      "ownerUserId": null,
       "status": "approved",
       "likedBy": []
     }
@@ -22996,7 +23157,7 @@
       1786187508574
     ],
     "ins_2e45b186-eea8-43c6-938e-75911754d84b": [
-      1786211519303
+      1786387867135
     ],
     "ins_1f2ec338-f2d7-444c-8058-d5d635d3a9db": [
       1786219254939
@@ -23038,6 +23199,9 @@
     ],
     "ins_c78a856a-8e32-4a66-bd6e-286bf2084c9e": [
       1786364682380
+    ],
+    "ins_1feb4c60-40b5-40a8-bce7-68a7e22b6cac": [
+      1786387972262
     ]
   }
 }
