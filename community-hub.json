@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T06:25:47.266Z",
+  "updatedAt": "2026-08-10T12:24:10.569Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5823,7 +5823,8 @@
         "ins_5d4697bf-12fc-4357-9430-d5adc812d49a",
         "ins_e6f29bda-3ca1-494c-8062-1268d9752a46",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
-        "ins_0cb5982c-f2af-481c-bb18-663598b2f772"
+        "ins_0cb5982c-f2af-481c-bb18-663598b2f772",
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
       ]
     },
     {
@@ -6804,7 +6805,8 @@
       "likedBy": [
         "ins_7ed5e2e3-b8f4-42c9-91f4-f4f1c36de1bc",
         "ins_a781ff9d-5f2a-4a6a-9f5b-a284ae9b5301",
-        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
       ]
     },
     {
@@ -10367,7 +10369,8 @@
         "ins_47ef2308-18a2-47f4-a513-bc1b2dc35658",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_e6f29bda-3ca1-494c-8062-1268d9752a46",
-        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983"
+        "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
+        "ins_5c8cb398-f475-46f6-8bc8-b091c9f6c828"
       ]
     },
     {
@@ -13953,7 +13956,8 @@
         "ins_840c5b3d-635c-4b99-bcad-b0c3f177a69e",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
-        "ins_b6453e88-48a3-49e7-9895-75e3cf7baa0a"
+        "ins_b6453e88-48a3-49e7-9895-75e3cf7baa0a",
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
       ]
     },
     {
@@ -15009,7 +15013,8 @@
       "ownerUserId": "usr_527ef5df-a406-4a97-b8c3-0dabe32d248e",
       "likedBy": [
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
-        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795"
+        "ins_aa3febdc-931c-4315-ae49-ee36a6f94795",
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
       ]
     },
     {
@@ -21273,7 +21278,8 @@
         "ins_90ba947b-e235-410f-6e79-837f411e196e",
         "ins_5013df90-8abf-4b10-abee-a722e5b78916",
         "ins_dbc7b81b-2b58-48c4-b99e-2e77d586d49a",
-        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
+        "ins_d002ea70-76a8-4565-b5b4-5f35f24e4b9f"
       ]
     },
     {
@@ -21963,7 +21969,8 @@
         "ins_dbc7b81b-2b58-48c4-b99e-2e77d586d49a",
         "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
         "ins_5604d707-6081-4947-b700-143dc9ee60bb",
-        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
+        "ins_6db9bd72-29b6-45af-8f77-9436b4bc9f22"
       ]
     },
     {
@@ -22282,7 +22289,10 @@
       "publishedAt": "2026-08-09T23:31:34.676Z",
       "installId": "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
       "ownerUserId": "usr_6e3362e0-9caa-4cb9-a6ae-43d17b13e679",
-      "likedBy": []
+      "likedBy": [
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
+        "ins_b3fee23f-fc8c-4045-8c5d-d075deb7398c"
+      ]
     },
     {
       "id": "preset-c6f13012-ec7e-481e-a2cc-6da5b11f0564",
@@ -22597,12 +22607,62 @@
       "installId": "ins_c6e76920-38eb-45cb-97d2-2e68d0d76cf4",
       "ownerUserId": null,
       "likedBy": []
+    },
+    {
+      "id": "grouppromo-28f9d5d8-63e4-43e3-9cfd-44b2543120ff",
+      "type": "grouppromo",
+      "name": "Cross Reality",
+      "author": "_cykoo_",
+      "description": "test",
+      "tags": [
+        "test"
+      ],
+      "platform": "quest",
+      "payload": {
+        "groupId": "grp_2a32825c-e439-41db-8cb8-367a52b392bd",
+        "iconUrl": "https://api.vrchat.cloud/api/1/file/file_2dbcb97b-f8fd-445d-b138-6fedf6a90ebe/1/file",
+        "bannerUrl": "https://api.vrchat.cloud/api/1/file/file_3de22ebc-5c61-4152-adf8-92bff5f6e83a/1/file",
+        "memberCount": 1900,
+        "shortCode": "CROSS",
+        "discriminator": "3317"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-10T12:15:47.429Z",
+      "installId": "ins_f72e1765-8d7a-47d9-9605-536753d83e66",
+      "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "hostedinstance-280ef971-fcce-43ee-bb35-c16f5d1c8943",
+      "type": "hostedinstance",
+      "name": "The Great Pug",
+      "author": "_cykoo_",
+      "description": "come hang",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "worldId": "wrld_test1",
+        "instanceId": "111~region(eu)",
+        "worldName": "The Great Pug"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-10T12:24:10.569Z",
+      "installId": "ins_af15fa2e-44c5-45cb-a9af-4d9f655c30c1",
+      "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
     "ins_00000000-0000-0000-0000-000000000000": [
-      1783397011111,
-      1783398533651
+      1786363385662
     ],
     "ins_83f6991e-7a16-0984-7cfe-8aa8e0f6375b": [
       1784244882913,
@@ -22978,6 +23038,18 @@
       1786320062234,
       1786320140998,
       1786320741576
+    ],
+    "ins_a591c604-d9ec-4600-b61a-e17f24bc8811": [
+      1786363563444
+    ],
+    "ins_d0bdde4a-76d3-48d1-b988-4150e604110e": [
+      1786363592683
+    ],
+    "ins_f72e1765-8d7a-47d9-9605-536753d83e66": [
+      1786364148556
+    ],
+    "ins_af15fa2e-44c5-45cb-a9af-4d9f655c30c1": [
+      1786364651683
     ]
   }
 }
