@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-11T02:21:43.698Z",
+  "updatedAt": "2026-08-11T13:21:32.478Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -368,7 +368,7 @@
       "tabOverrides": {},
       "minTier": 1,
       "media": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
+        "url": "https://api.vrc-nexus.online/media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
         "key": "media/fc36165e-d471-4eea-8f3c-7af1f5d01106.mp4",
         "kind": "video",
         "opacity": 0.8,
@@ -437,7 +437,7 @@
       "tabOverrides": null,
       "minTier": 0,
       "media": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/2cc7c552-edc8-4125-a584-1c6d5ffe91b5.gif",
+        "url": "https://api.vrc-nexus.online/media/2cc7c552-edc8-4125-a584-1c6d5ffe91b5.gif",
         "key": "media/2cc7c552-edc8-4125-a584-1c6d5ffe91b5.gif",
         "kind": "image",
         "opacity": 1,
@@ -483,7 +483,7 @@
       "tabOverrides": null,
       "minTier": 0,
       "media": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/54f0b2db-8f83-484b-9932-0c77e885909c.gif",
+        "url": "https://api.vrc-nexus.online/media/54f0b2db-8f83-484b-9932-0c77e885909c.gif",
         "key": "media/54f0b2db-8f83-484b-9932-0c77e885909c.gif",
         "kind": "image",
         "opacity": 1,
@@ -851,7 +851,7 @@
       "minTier": 0,
       "media": null,
       "data": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/a3f9cbd6-ad0a-459b-a7fa-d4587985c6b4.json",
+        "url": "https://api.vrc-nexus.online/media/a3f9cbd6-ad0a-459b-a7fa-d4587985c6b4.json",
         "key": "media/a3f9cbd6-ad0a-459b-a7fa-d4587985c6b4.json"
       },
       "publishedAt": "2026-07-16T23:34:42.913Z",
@@ -943,7 +943,7 @@
       "minTier": 1,
       "media": null,
       "data": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/5c542486-f526-4b59-91d7-fed57caddb03.json",
+        "url": "https://api.vrc-nexus.online/media/5c542486-f526-4b59-91d7-fed57caddb03.json",
         "key": "media/5c542486-f526-4b59-91d7-fed57caddb03.json"
       },
       "publishedAt": "2026-07-17T05:11:13.640Z",
@@ -7989,7 +7989,8 @@
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
         "ins_47b45ca3-3f1e-4644-8dde-60a830449c67",
         "ins_0cb5982c-f2af-481c-bb18-663598b2f772",
-        "ins_6be53e40-f4b3-4c94-919b-33b835cadf6e"
+        "ins_6be53e40-f4b3-4c94-919b-33b835cadf6e",
+        "ins_fd9f9dd5-1edf-4762-9716-0bf56dc279fb"
       ]
     },
     {
@@ -19114,7 +19115,7 @@
       "tabOverrides": {},
       "minTier": 0,
       "media": {
-        "url": "https://pub-de5e75a2db6f4cd8b2082dc88619f4ab.r2.dev/media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
+        "url": "https://api.vrc-nexus.online/media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
         "key": "media/cd796a85-7a4d-4470-b717-9e51801dffa9.jpg",
         "kind": "image",
         "opacity": 0.85,
@@ -20259,7 +20260,8 @@
       "likedBy": [
         "ins_4319e70b-67c8-45f1-a36d-787d11f2d370",
         "ins_2e45b186-eea8-43c6-938e-75911754d84b",
-        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f"
+        "ins_a46b10c5-7a72-45bd-b55a-8b995989bc7f",
+        "ins_c540090c-61bf-4894-b276-8cc27bbf9d4c"
       ]
     },
     {
@@ -20429,7 +20431,9 @@
         "ins_c010ad41-3c6b-43b1-8b33-3f1804abbf2b",
         "ins_0cb5982c-f2af-481c-bb18-663598b2f772",
         "ins_90ba947b-e235-410f-6e79-837f411e196e",
-        "ins_954f1d21-7ea1-4ef1-be68-9929ad8676f3"
+        "ins_954f1d21-7ea1-4ef1-be68-9929ad8676f3",
+        "ins_8ed0d12b-9695-4beb-9a0d-e7495e8eaf99",
+        "ins_406a1295-a187-45ce-9c2d-55a95508d692"
       ]
     },
     {
@@ -21301,8 +21305,7 @@
         "ins_dbc7b81b-2b58-48c4-b99e-2e77d586d49a",
         "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
         "ins_d002ea70-76a8-4565-b5b4-5f35f24e4b9f",
-        "ins_a6980da0-720e-4ebf-9868-eea6b0f2aff5",
-        "ins_df4d03c9-a2ef-44b5-9306-5471d948f1a8"
+        "ins_a6980da0-720e-4ebf-9868-eea6b0f2aff5"
       ]
     },
     {
@@ -21997,7 +22000,8 @@
         "ins_5604d707-6081-4947-b700-143dc9ee60bb",
         "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
         "ins_6db9bd72-29b6-45af-8f77-9436b4bc9f22",
-        "ins_954f1d21-7ea1-4ef1-be68-9929ad8676f3"
+        "ins_954f1d21-7ea1-4ef1-be68-9929ad8676f3",
+        "ins_c5311169-7df2-45db-969a-368d7b279bf6"
       ]
     },
     {
@@ -22481,7 +22485,8 @@
       "installId": "ins_c6e76920-38eb-45cb-97d2-2e68d0d76cf4",
       "ownerUserId": null,
       "likedBy": [
-        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092"
+        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092",
+        "ins_a9ea40e6-fed7-448f-95c8-bceb5d4c7a97"
       ]
     },
     {
@@ -22644,34 +22649,6 @@
       ]
     },
     {
-      "id": "grouppromo-28f9d5d8-63e4-43e3-9cfd-44b2543120ff",
-      "type": "grouppromo",
-      "name": "Cross Reality",
-      "author": "_cykoo_",
-      "description": "test",
-      "tags": [
-        "test"
-      ],
-      "platform": "quest",
-      "payload": {
-        "groupId": "grp_2a32825c-e439-41db-8cb8-367a52b392bd",
-        "iconUrl": "https://api.vrchat.cloud/api/1/file/file_2dbcb97b-f8fd-445d-b138-6fedf6a90ebe/1/file",
-        "bannerUrl": "https://api.vrchat.cloud/api/1/file/file_3de22ebc-5c61-4152-adf8-92bff5f6e83a/1/file",
-        "memberCount": 1900,
-        "shortCode": "CROSS",
-        "discriminator": "3317"
-      },
-      "tabOverrides": null,
-      "minTier": 0,
-      "media": null,
-      "data": null,
-      "publishedAt": "2026-08-10T12:15:47.429Z",
-      "installId": "ins_f72e1765-8d7a-47d9-9605-536753d83e66",
-      "ownerUserId": "usr_c51e0349-7ddb-4674-98a3-02b1feb6c4aa",
-      "status": "approved",
-      "likedBy": []
-    },
-    {
       "id": "script-9a29655c-2fcb-4183-b8ce-36c90af621e2",
       "type": "script",
       "name": "TF2 Police Soldier",
@@ -22820,6 +22797,191 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": []
+    },
+    {
+      "id": "preset-8daa6b43-b7a3-4f37-87f6-ed93918f9f5b",
+      "type": "preset",
+      "name": "Food",
+      "author": "Bluebie",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "《",
+          "right": "》"
+        },
+        "customFrame": {
+          "top": "🍎--------------------🍎",
+          "bottom": "🥭--------------------🥭"
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "『🍓Gonna touch him🍓』\n『🍰\"When I cover my left hand w my eye i cant see\"-Jay🍰』\n『🥨Gore is an eating🥨』\n『🌮Vivi likes femboys🌮』\n",
+          "cycle": true,
+          "intervalSec": 6,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": true,
+          "emoji": "🌙",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 9,
+            "fill": "━",
+            "empty": "─",
+            "head": "🫐"
+          },
+          "barNewline": true,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "🌧️",
+          "city": "Pueblo, Colorado",
+          "fahrenheit": true,
+          "lat": 38.25445,
+          "lon": -104.60914,
+          "place": "Pueblo, Colorado, US",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": false,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T04:41:32.580Z",
+      "installId": "ins_e64c682d-5566-4b23-8945-d9f3aa3bd996",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "grouppromo-c87e1d35-733d-4f6a-b73b-c358777b6272",
+      "type": "grouppromo",
+      "name": "Hatin law",
+      "author": "hatinfowha",
+      "description": "jOin",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "groupId": "grp_54da55f3-25b7-4703-8799-a22b1caf1a10",
+        "iconUrl": "https://api.vrchat.cloud/api/1/file/file_109e1a13-a806-4d7d-a17d-3cc5fdc4fdd6/1/file",
+        "bannerUrl": "https://api.vrchat.cloud/api/1/file/file_68b9f1e3-9bf9-43f3-a7f7-2c6216b37ac6/1/file",
+        "memberCount": 140,
+        "shortCode": "HATIN",
+        "discriminator": "0074"
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T07:52:49.089Z",
+      "installId": "ins_99ff1598-7c12-4bfe-beb9-e0c89f5ad10b",
+      "ownerUserId": "usr_255fcf24-5bca-4189-8b14-c9614cc9beda",
+      "status": "pending",
+      "likedBy": [
+        "ins_99ff1598-7c12-4bfe-beb9-e0c89f5ad10b"
+      ],
+      "moderatedAt": "2026-08-11T12:59:36.224Z",
+      "moderationReason": null
     }
   ],
   "publishLog": {
@@ -23217,6 +23379,15 @@
     ],
     "ins_1feb4c60-40b5-40a8-bce7-68a7e22b6cac": [
       1786387972262
+    ],
+    "ins_e64c682d-5566-4b23-8945-d9f3aa3bd996": [
+      1786423292796
+    ],
+    "ins_59ca46a5-9461-438a-a6de-744dd1f8bfe7": [
+      1786431893647
+    ],
+    "ins_99ff1598-7c12-4bfe-beb9-e0c89f5ad10b": [
+      1786434769260
     ]
   }
 }
