@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-11T19:19:23.812Z",
+  "updatedAt": "2026-08-11T19:21:27.171Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -23303,6 +23303,163 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": []
+    },
+    {
+      "id": "preset-a20e976b-1815-43c7-9930-6580cf7effcf",
+      "type": "preset",
+      "name": "Potato",
+      "author": "~EmeraldAly2088",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": false,
+        "separator": "newline",
+        "frame": "none",
+        "border": "none",
+        "customBorder": {
+          "left": "",
+          "right": ""
+        },
+        "customFrame": {
+          "top": "",
+          "bottom": ""
+        },
+        "inline": {
+          "media": false
+        },
+        "personal": {
+          "on": false,
+          "emoji": "💬",
+          "statuses": "",
+          "cycle": true,
+          "intervalSec": 9,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": true,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "🎵",
+          "showProgress": false,
+          "progressStyle": "text",
+          "bar": {
+            "length": 9,
+            "fill": "█",
+            "empty": "░",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "off",
+          "method": "spotify",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "Buckeye ",
+          "fahrenheit": true,
+          "lat": 33.37032,
+          "lon": -112.58378,
+          "place": "Buckeye, Arizona, US",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": true,
+          "showLow": true
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": true,
+          "showRegion": true,
+          "show18": true
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": true,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T19:21:27.171Z",
+      "installId": "ins_8279ab55-5f78-4356-a405-81776ead8688",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -23715,6 +23872,9 @@
     ],
     "ins_88aeb9cd-12d6-4d64-b585-a744acfdef18": [
       1786469529129
+    ],
+    "ins_8279ab55-5f78-4356-a405-81776ead8688": [
+      1786476087474
     ]
   }
 }
