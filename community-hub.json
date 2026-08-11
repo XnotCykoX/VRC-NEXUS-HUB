@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-11T20:26:19.887Z",
+  "updatedAt": "2026-08-11T22:24:37.425Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -8359,7 +8359,8 @@
         "ins_88167a75-8828-44de-8646-bb929f398c53",
         "ins_35686512-b702-456d-bf6d-7077b4ad1436",
         "ins_f18e9540-e1e3-44b8-a8ac-77746029ae3c",
-        "ins_002af866-6191-44bd-a194-3b7853d6d630"
+        "ins_002af866-6191-44bd-a194-3b7853d6d630",
+        "ins_6811ccaa-0ec4-4977-bd01-4b29861d15fb"
       ]
     },
     {
@@ -18745,7 +18746,8 @@
         "ins_e343ebfb-a5a9-4e00-8734-ab95d8301670",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
-        "ins_fce6ea39-80cd-4ced-a678-1a5191c65383"
+        "ins_fce6ea39-80cd-4ced-a678-1a5191c65383",
+        "ins_e0050ef8-192a-4ed5-b868-b25cb21d0917"
       ]
     },
     {
@@ -19976,7 +19978,8 @@
       "ownerUserId": null,
       "likedBy": [
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
-        "ins_ce0becb3-716e-4305-85ff-309e79e9599b"
+        "ins_ce0becb3-716e-4305-85ff-309e79e9599b",
+        "ins_1c411d05-bb6b-412e-9343-bb815b931f77"
       ]
     },
     {
@@ -23618,6 +23621,483 @@
       "installId": "ins_607bace4-2120-451a-82c4-1230868ddd68",
       "ownerUserId": null,
       "status": "approved",
+      "likedBy": [
+        "ins_607bace4-2120-451a-82c4-1230868ddd68"
+      ]
+    },
+    {
+      "id": "preset-045ff044-c51e-444b-afd0-99bf2a9488ab",
+      "type": "preset",
+      "name": "England / Arthur kirkland",
+      "author": "Tamaki suoh!!",
+      "description": "hetalia!!! hhhehe",
+      "tags": [
+        "hetalia"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "  ",
+          "right": " "
+        },
+        "customFrame": {
+          "top": "────୨ৎ────",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Im not schizophrenic.\nflying mint bunny is real\nno cap lad🤑\ni hate dirty french people\nim not gay\nI HAVE FRIEBNDS STOP\nim not a tsundere stfu",
+          "cycle": true,
+          "intervalSec": 4,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "RH",
+          "label": "bhop enabled"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 10,
+            "fill": "━",
+            "empty": "─",
+            "head": "🍓"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "Gay town",
+          "fahrenheit": true,
+          "lat": 55.10639,
+          "lon": -8.13583,
+          "place": "Gay Town, Ulster, IE",
+          "showLocation": true,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T20:27:22.110Z",
+      "installId": "ins_607bace4-2120-451a-82c4-1230868ddd68",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": [
+        "ins_607bace4-2120-451a-82c4-1230868ddd68"
+      ]
+    },
+    {
+      "id": "preset-04ae9b14-a010-448d-9e22-495dc626901c",
+      "type": "preset",
+      "name": "Canada / Matthew",
+      "author": "Tamaki suoh!!",
+      "description": "hees so cute!! Hetalia",
+      "tags": [
+        "hetalia"
+      ],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "media",
+          "lyrics",
+          "weather",
+          "instance",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "  ",
+          "right": " "
+        },
+        "customFrame": {
+          "top": "────୨ৎ────",
+          "bottom": ""
+        },
+        "inline": {},
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Im so alonnneee\nhi\nim not america boi\nim not gay\n",
+          "cycle": true,
+          "intervalSec": 4,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "RH",
+          "label": "bhop enabled"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 10,
+            "fill": "━",
+            "empty": "─",
+            "head": "🍓"
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": true,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "Gay town",
+          "fahrenheit": true,
+          "lat": 55.10639,
+          "lon": -8.13583,
+          "place": "Gay Town, Ulster, IE",
+          "showLocation": true,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": true,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T20:28:23.911Z",
+      "installId": "ins_607bace4-2120-451a-82c4-1230868ddd68",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": [
+        "ins_607bace4-2120-451a-82c4-1230868ddd68"
+      ]
+    },
+    {
+      "id": "preset-85702a96-167e-4d6d-89cd-7111eeff4a95",
+      "type": "preset",
+      "name": "..",
+      "author": ".",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "lyrics",
+          "media",
+          "weather",
+          "mic",
+          "afk",
+          "movement",
+          "vrcparam",
+          "time",
+          "date",
+          "uptime",
+          "battery",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "stars",
+        "border": "custom",
+        "customBorder": {
+          "left": "💤",
+          "right": "💤"
+        },
+        "customFrame": {
+          "top": "🍄_______________________",
+          "bottom": ""
+        },
+        "inline": {
+          "media": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💫",
+          "statuses": "F:milo:he/they:\nDNI:fake claimers T.R.A.S.H ",
+          "cycle": true,
+          "intervalSec": 9,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": "🗣️"
+        },
+        "afk": {
+          "on": false,
+          "emoji": ""
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "",
+          "label": ""
+        },
+        "media": {
+          "on": false,
+          "emoji": "💤",
+          "showProgress": true,
+          "progressStyle": "bar",
+          "bar": {
+            "length": 8,
+            "fill": "▰",
+            "empty": "▱",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": true,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "notification",
+          "discordUserId": ""
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "",
+          "city": "Clarksville",
+          "fahrenheit": true,
+          "lat": 36.52977,
+          "lon": -87.35945,
+          "place": "Clarksville, Tennessee, US",
+          "showLocation": false,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": true,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕐",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": true,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": true,
+          "mic": true,
+          "afk": false,
+          "movement": false,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-11T22:24:37.425Z",
+      "installId": "ins_07973189-ef6a-41ad-a650-16ad6b62c918",
+      "ownerUserId": null,
+      "status": "approved",
       "likedBy": []
     }
   ],
@@ -23785,7 +24265,8 @@
       1785594622236
     ],
     "ins_07973189-ef6a-41ad-a650-16ad6b62c918": [
-      1786409082172
+      1786409082172,
+      1786487077448
     ],
     "ins_71c95bef-13a9-49d5-8bbc-00665a5ea463": [
       1785642813540
@@ -24036,7 +24517,9 @@
       1786476087474
     ],
     "ins_607bace4-2120-451a-82c4-1230868ddd68": [
-      1786479979910
+      1786479979910,
+      1786480042220,
+      1786480103942
     ]
   }
 }
