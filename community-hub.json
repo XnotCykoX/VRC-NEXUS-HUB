@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-12T01:25:02.890Z",
+  "updatedAt": "2026-08-12T09:19:25.668Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -6811,7 +6811,8 @@
         "ins_7ed5e2e3-b8f4-42c9-91f4-f4f1c36de1bc",
         "ins_a781ff9d-5f2a-4a6a-9f5b-a284ae9b5301",
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
-        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
+        "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102"
       ]
     },
     {
@@ -7994,7 +7995,8 @@
         "ins_0cb5982c-f2af-481c-bb18-663598b2f772",
         "ins_6be53e40-f4b3-4c94-919b-33b835cadf6e",
         "ins_fd9f9dd5-1edf-4762-9716-0bf56dc279fb",
-        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598"
+        "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
+        "ins_ca065115-110a-4156-bdaf-d610c3669c67"
       ]
     },
     {
@@ -9785,7 +9787,8 @@
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_e6f29bda-3ca1-494c-8062-1268d9752a46",
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
-        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102"
       ]
     },
     {
@@ -9935,7 +9938,8 @@
         "ins_2ecb53e1-3b26-3f2f-bc2d-0d573dc0e4dd",
         "ins_dcf489ea-1ed1-426f-bdcb-356a4e70b783",
         "ins_84279776-7352-4ac7-98c1-86d6a894031f",
-        "ins_a81282ec-f619-4f32-9aef-06222a2d8790"
+        "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
+        "ins_3fab7114-b9e2-e02c-c528-af8dbffd7fef"
       ]
     },
     {
@@ -13970,7 +13974,8 @@
         "ins_11fc7795-d1bb-4f85-b1a6-c30fdda33983",
         "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
         "ins_b6453e88-48a3-49e7-9895-75e3cf7baa0a",
-        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb"
+        "ins_a5556620-84ea-4a6a-9a34-a1bb3b709ffb",
+        "ins_bc49e9d6-4977-4fdb-96a2-5153f9c8f102"
       ]
     },
     {
@@ -14365,7 +14370,8 @@
         "ins_a8fc25af-d4be-46a8-bb14-8d27b17711c5",
         "ins_99ad3518-5527-40fe-87a0-c9d6cc5722c6",
         "ins_002af866-6191-44bd-a194-3b7853d6d630",
-        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf"
+        "ins_950dac07-e983-4b64-9a88-1708fe9bfecf",
+        "ins_010e55a7-cc33-472b-bc2c-869fde6a7ccd"
       ]
     },
     {
@@ -14865,7 +14871,8 @@
         "ins_8a82c9b3-0c18-4d1c-a5c6-551c778815ba",
         "ins_a81282ec-f619-4f32-9aef-06222a2d8790",
         "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
-        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092"
+        "ins_75f0f5ac-fcbc-4366-a1ca-33eade0a3092",
+        "ins_9699e0b4-dc02-4146-9b1f-3917c4511cdc"
       ]
     },
     {
@@ -15199,7 +15206,8 @@
         "ins_201fcfb4-97b8-5fd8-5766-66505512e6f8",
         "ins_3725467e-c2cc-4c0d-8fc6-5d5a4760dc99",
         "ins_d1972ab4-1d43-4189-a6be-51b8d6ed1f30",
-        "ins_b8f63be2-e3e7-45c8-b52a-e70f0787b348"
+        "ins_b8f63be2-e3e7-45c8-b52a-e70f0787b348",
+        "ins_d5493fa0-c5af-41be-97dd-68b594f84792"
       ]
     },
     {
@@ -21151,7 +21159,9 @@
       "publishedAt": "2026-08-08T16:04:41.928Z",
       "installId": "ins_002af866-6191-44bd-a194-3b7853d6d630",
       "ownerUserId": "usr_0449a169-d2f1-4584-a956-8a1675b58a9e",
-      "likedBy": []
+      "likedBy": [
+        "ins_3fab7114-b9e2-e02c-c528-af8dbffd7fef"
+      ]
     },
     {
       "id": "preset-c98f1942-1fc2-4f63-9982-c78b4fc1369f",
@@ -22016,7 +22026,9 @@
         "ins_c5311169-7df2-45db-969a-368d7b279bf6",
         "ins_70cfe013-496d-4e6b-9adc-5d8b80a7d5e0",
         "ins_4380ae4b-b39d-4c9d-b9e7-e63a268dc64f",
-        "ins_4a3cfd7c-2218-4122-9a97-6825c5f5da67"
+        "ins_4a3cfd7c-2218-4122-9a97-6825c5f5da67",
+        "ins_164b4f35-336d-4101-8980-2c85bf9b85da",
+        "ins_b12d20c1-df55-4b0c-a0a1-629912008aa1"
       ]
     },
     {
@@ -22343,7 +22355,9 @@
         "ins_5a0f57f3-5865-4a91-841f-8b9a777fb7cc",
         "ins_d310414f-1838-44e7-a03d-8d5127a8b8d7",
         "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598",
-        "ins_e3276403-2359-49bb-84e3-df49ac498dd9"
+        "ins_e3276403-2359-49bb-84e3-df49ac498dd9",
+        "ins_2ad2adf1-cbe6-4a4f-80fc-261bb0341cb2",
+        "ins_7ded5371-c690-4711-a70e-7c36a8709bd7"
       ]
     },
     {
@@ -23631,7 +23645,8 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": [
-        "ins_607bace4-2120-451a-82c4-1230868ddd68"
+        "ins_607bace4-2120-451a-82c4-1230868ddd68",
+        "ins_69a8215e-72f2-463e-87a4-902af74ff9ff"
       ]
     },
     {
@@ -23949,7 +23964,8 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": [
-        "ins_607bace4-2120-451a-82c4-1230868ddd68"
+        "ins_607bace4-2120-451a-82c4-1230868ddd68",
+        "ins_2b29f3b5-5572-46c5-b883-3cd809c552ef"
       ]
     },
     {
@@ -24111,6 +24127,233 @@
         "ins_4ce7c549-8708-4519-90fc-a124ad607d36",
         "ins_36904de9-12f2-4e6e-afee-f8b3ce815df9"
       ]
+    },
+    {
+      "id": "preset-db195369-ced3-446d-a91e-39d95caccb5b",
+      "type": "preset",
+      "name": "Dot Dot",
+      "author": "..",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "autoSend": true,
+        "order": [
+          "personal",
+          "time",
+          "date",
+          "media",
+          "weather",
+          "mic",
+          "battery",
+          "lyrics",
+          "afk",
+          "movement",
+          "vrcparam",
+          "uptime",
+          "instance"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "custom",
+        "customBorder": {
+          "left": "♡",
+          "right": "♡"
+        },
+        "customFrame": {
+          "top": "╔════⭑⭑🍒⭑⭑════╗",
+          "bottom": "╚════⭑⭑🍒⭑⭑════╝"
+        },
+        "inline": {
+          "battery": false,
+          "time": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "You got a complaint?\nDiscord: Simply_amor\nNumber?\nI treat everyone equal \"you all getting slimed out\"\nAnyone know how to Gleek?\nIs it pink \"asking for a friend\"\nIf you're reading this you're gay\nYou're lwk my type.\nYou're a cool gal/guy\nDo you know my name?\nAge: 16 \nDOB: Sep 16, 2009\nMe and you..?\nTV is off run \nTurn around\nWE SHOULD LWK PLAY TWISTER\nThank you for not killing your self.",
+          "cycle": true,
+          "intervalSec": 15,
+          "text": ""
+        },
+        "mic": {
+          "on": false,
+          "emoji": ""
+        },
+        "afk": {
+          "on": false,
+          "emoji": "😴"
+        },
+        "movement": {
+          "on": false,
+          "emoji": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "Rainbow",
+          "label": "Meow"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎶",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 12,
+            "fill": "♥",
+            "empty": "♡",
+            "head": ""
+          },
+          "barNewline": false,
+          "hideAuthor": false,
+          "byFormat": false,
+          "smallDigits": "off",
+          "method": "auto",
+          "discordUserId": "1156717851231653918"
+        },
+        "lyrics": {
+          "on": false,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": true,
+          "emoji": "",
+          "city": "Kyota",
+          "fahrenheit": true,
+          "lat": 34.8045,
+          "lon": 135.76682,
+          "place": "Kyōtanabe, Kyoto, JP",
+          "showLocation": true,
+          "showCondition": false,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🕰️",
+          "h24": false,
+          "seconds": false,
+          "hidePrefix": true,
+          "smallDigits": "off"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "⏱️",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": false,
+          "emoji": "🔋"
+        },
+        "emojiOn": {
+          "personal": false,
+          "mic": false,
+          "afk": true,
+          "movement": false,
+          "vrcparam": false,
+          "media": false,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": false,
+          "date": false,
+          "uptime": true,
+          "battery": false
+        }
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-12T03:52:08.218Z",
+      "installId": "ins_ead38511-84fe-4672-b7af-b1c61b85947f",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "script-00835479-391b-4c4b-acde-fd69569e59d3",
+      "type": "script",
+      "name": "cool 67",
+      "author": "shoer",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "blocks": [
+          {
+            "id": 1,
+            "type": "chatbox",
+            "text": ""
+          },
+          {
+            "id": 2,
+            "type": "chatbox",
+            "text": ""
+          },
+          {
+            "id": 3,
+            "type": "wait",
+            "ms": 500
+          },
+          {
+            "id": 4,
+            "type": "ramp",
+            "param": "",
+            "from": 0,
+            "to": 1,
+            "seconds": 5,
+            "pingpong": false
+          },
+          {
+            "id": 5,
+            "type": "ramp",
+            "param": "",
+            "from": 0,
+            "to": 1,
+            "seconds": 5,
+            "pingpong": false
+          },
+          {
+            "id": 6,
+            "type": "set",
+            "param": "",
+            "kind": "num",
+            "value": 1
+          },
+          {
+            "id": 7,
+            "type": "random",
+            "param": "",
+            "min": 0,
+            "max": 1
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-08-12T06:56:51.126Z",
+      "installId": "ins_e3376df7-405b-440f-a77c-ae470c78ce52",
+      "ownerUserId": "usr_8df6153a-ba07-49db-a894-b7db723eefbb",
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -24535,6 +24778,12 @@
     ],
     "ins_9d7d4b49-310f-4db0-bf8c-4dc3fbb32598": [
       1786495329429
+    ],
+    "ins_ead38511-84fe-4672-b7af-b1c61b85947f": [
+      1786506728457
+    ],
+    "ins_e3376df7-405b-440f-a77c-ae470c78ce52": [
+      1786517811509
     ]
   }
 }
