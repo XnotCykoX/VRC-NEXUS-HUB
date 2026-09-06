@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-05T02:48:45.093Z",
+  "updatedAt": "2026-09-06T03:37:12.271Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5251,7 +5251,8 @@
         "ins_ad913b0b-6188-4884-af62-debe948e65ee",
         "ins_48cd171b-5197-4eb5-b948-340f083b6286",
         "ins_725231ee-04f7-4360-8122-4c9bf362bcbc",
-        "ins_3d44c435-0832-431f-9832-5a2ff765d057"
+        "ins_3d44c435-0832-431f-9832-5a2ff765d057",
+        "ins_0fe26259-7bf1-4929-ac91-3020ed817c43"
       ]
     },
     {
@@ -24365,6 +24366,969 @@
       "ownerUserId": "usr_8df6153a-ba07-49db-a894-b7db723eefbb",
       "status": "approved",
       "likedBy": []
+    },
+    {
+      "id": "sharepack-8edadea6-0997-4f52-a0e4-c3cfc09e969b",
+      "type": "sharepack",
+      "name": "Ben 10 avis",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [
+        "Ben 10"
+      ],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "Ben 10": [
+            "avtr_f21cf20a-da55-49bd-891b-51a93f3fdcba",
+            "avtr_9190e23c-e99b-49de-bf82-86799df60128",
+            "avtr_84debbce-06b7-4800-87d0-487e7936cd2b",
+            "avtr_c68cf191-d9e1-47e1-aafd-5782912f40b0",
+            "avtr_71f28dc1-8669-4fa6-a9b5-80900b48f9ae",
+            "avtr_b95464f0-2af0-475e-bce1-fa92f5771265",
+            "avtr_fd0ed2b5-b38b-462f-9cbd-d7b8cf93243b",
+            "avtr_1dd98506-0427-459f-821b-c3a6b0bd2888",
+            "avtr_474c448d-cdd7-4417-8a85-17980db88ef9",
+            "avtr_c7f0dcd1-0196-43b6-bf99-e292ee82a46f",
+            "avtr_c2c05d8e-a125-43c0-9457-b2fe7c41d0be",
+            "avtr_7e947eb9-e797-43f6-97ec-0a804e983833",
+            "avtr_5aff7fd8-6ebb-425e-b23d-0b155800156e",
+            "avtr_e2b96572-83b5-4f0c-bb16-f7916470af5e",
+            "avtr_ca08c15c-03dd-49d4-9365-446e0b0a1bf3",
+            "avtr_4f8729fe-fe12-4f09-bf52-7bc204a786f5",
+            "avtr_5257b3bf-158c-4db5-9a49-fefbb888721c",
+            "avtr_24124967-cf58-4031-aab0-945f4c2de878",
+            "avtr_882109e5-04a4-4ce5-8384-655e3c19cbde",
+            "avtr_550ae5a1-09e9-4770-90fa-67906e141efa",
+            "avtr_41a4492f-b3f8-463b-9aaf-e089d609989c",
+            "avtr_830a69be-3f3a-4aa2-ad9a-c5d759892f99",
+            "avtr_334217b1-0386-4aa8-934c-a12bad27bf0b",
+            "avtr_c384a086-9cd6-4f67-ab75-85186145e9d4",
+            "avtr_143009ae-5080-4579-bfb8-a486aa9068e9",
+            "avtr_cc6db715-02b9-4960-bd22-3d7fe99ad738",
+            "avtr_17ed4704-3776-4ba2-8082-2e49bd0686f7",
+            "avtr_e92d86be-9fe5-4509-a76d-75e55b00a5f8",
+            "avtr_c7e6b71b-f0ea-4ee0-bf32-cb9bc91c8d23",
+            "avtr_8ddf0c03-9c46-4c3e-993e-6e380a90923e",
+            "avtr_fefc851b-40db-41bb-969e-313b14addd50",
+            "avtr_026c3ec4-93bb-430e-a822-db6e98f94010",
+            "avtr_beb1cbbb-0545-43e9-8182-8aadc2dcadc3",
+            "avtr_c2cc5c0f-797f-42d9-9835-46fcde5bf386",
+            "avtr_9204abb6-3bbf-424e-b648-f706285448b8",
+            "avtr_7f8adfff-82e1-4ca1-b43c-384b90482fa6",
+            "avtr_bea16dad-1542-46fc-8829-44f65da16a02",
+            "avtr_91c07338-3a2a-4501-bda6-8b199914c2dd",
+            "avtr_8744819c-13a7-476c-a680-bff18c3222ba"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_f21cf20a-da55-49bd-891b-51a93f3fdcba",
+            "name": "OV Spitter",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7b772eea-de07-4c42-90a7-99e29e6abfa4/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_9190e23c-e99b-49de-bf82-86799df60128",
+            "name": "The Void",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_31fc8114-48b1-4c19-bb85-8e94302dc5fc/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_84debbce-06b7-4800-87d0-487e7936cd2b",
+            "name": "Astrodactyle",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_d72ddb5d-e389-4caa-aab9-75412340bd1d/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c68cf191-d9e1-47e1-aafd-5782912f40b0",
+            "name": "（Public） In Between UAF and OV Ben Tennyson",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b20a5d7e-59bc-4d11-828e-48c1fabc75cb/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_71f28dc1-8669-4fa6-a9b5-80900b48f9ae",
+            "name": "（Public） Omniverse Ben 10",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1c357d17-dbbc-41db-ad96-53186ea96a3c/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_b95464f0-2af0-475e-bce1-fa92f5771265",
+            "name": "（Public） Ultimate Alien Ben 10",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_9ea0579f-e8db-4636-b0cc-b24dc8b7ba52/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_fd0ed2b5-b38b-462f-9cbd-d7b8cf93243b",
+            "name": "（Public） Alien Force Ben 10",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_0c23e882-a3dc-411c-b9fc-9c838afc6789/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_1dd98506-0427-459f-821b-c3a6b0bd2888",
+            "name": "Public Bigchill",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ea4f4ba1-d926-4651-9d17-9bb366d8c913/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_474c448d-cdd7-4417-8a85-17980db88ef9",
+            "name": "Public Fourarms",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7ea31092-f064-4b6f-a7f5-8b4a8d361188/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c7f0dcd1-0196-43b6-bf99-e292ee82a46f",
+            "name": "Public Jetray",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b59f9444-bd24-4b5e-a03b-26f964665b80/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c2c05d8e-a125-43c0-9457-b2fe7c41d0be",
+            "name": "Public Armadrillo",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_cc278198-b996-4364-9de0-f58a3cd6803f/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_7e947eb9-e797-43f6-97ec-0a804e983833",
+            "name": "Public Lodestar",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_91448159-23bd-41ca-9648-a55e76b82e85/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_5aff7fd8-6ebb-425e-b23d-0b155800156e",
+            "name": "Public Snare-oh",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_60b8e40d-1b46-408b-b07c-c8f824f14a5a/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_e2b96572-83b5-4f0c-bb16-f7916470af5e",
+            "name": "Public Ripjaws",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8b5756b2-c99d-4900-b28d-f208d580a20d/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_ca08c15c-03dd-49d4-9365-446e0b0a1bf3",
+            "name": "Public Upgrade",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_485c5caa-6b4b-4a17-993a-1bc36f02f83b/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_4f8729fe-fe12-4f09-bf52-7bc204a786f5",
+            "name": "Public Greymatter",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a1d9183d-eb3c-4ff3-b0a7-afd12d26519d/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_5257b3bf-158c-4db5-9a49-fefbb888721c",
+            "name": "Public Cannonbolt",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f5f81446-2914-4b77-8b13-65b87d78ea9b/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_24124967-cf58-4031-aab0-945f4c2de878",
+            "name": "Public Gravattack",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_aebc188a-686b-467a-916f-90722f797628/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_882109e5-04a4-4ce5-8384-655e3c19cbde",
+            "name": "Public ChamAlien",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_01cee44b-0298-4474-a246-0f51f9177f70/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_550ae5a1-09e9-4770-90fa-67906e141efa",
+            "name": "Public Fasttrack",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f516ce29-4d17-446b-a767-4ee5eb2f9d88/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_41a4492f-b3f8-463b-9aaf-e089d609989c",
+            "name": "Public Bullfrag",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8cd5ecbd-343d-439e-bdde-e843b1851a02/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_830a69be-3f3a-4aa2-ad9a-c5d759892f99",
+            "name": "Public Eyeguy",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f1d564f9-7fb1-47d7-afb0-d5f97b06bcd3/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_334217b1-0386-4aa8-934c-a12bad27bf0b",
+            "name": "Public Ghostfreak",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1a35d24f-7e45-41b5-b4c8-93796bfa0c35/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c384a086-9cd6-4f67-ab75-85186145e9d4",
+            "name": "Public Humungousaur",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6fe5c5ad-916f-4698-96a3-47a6dbb7bd57/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_143009ae-5080-4579-bfb8-a486aa9068e9",
+            "name": "Public Stinkfly",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6bbece96-8407-4aa9-bf34-7d5602d2c4a5/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_cc6db715-02b9-4960-bd22-3d7fe99ad738",
+            "name": "Public Goop",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3283270a-a27f-447b-a266-c16eb6bf3b86/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_17ed4704-3776-4ba2-8082-2e49bd0686f7",
+            "name": "Public Brainstorm",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ead82607-63ff-4909-bc38-d4a13af4b90e/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_e92d86be-9fe5-4509-a76d-75e55b00a5f8",
+            "name": "Public Amphibian",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_abd8a020-98b1-4209-820d-c319a2925274/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c7e6b71b-f0ea-4ee0-bf32-cb9bc91c8d23",
+            "name": "Public Clockwork",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_391a7c0f-ac68-4b7f-95da-e277f4e86d28/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_8ddf0c03-9c46-4c3e-993e-6e380a90923e",
+            "name": "Public Ditto",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_0c153160-cd0d-4374-a0e0-b5670b0ad9e2/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_fefc851b-40db-41bb-969e-313b14addd50",
+            "name": "Public Echo Echo",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c39c4de6-95e5-497c-89a0-0504e6336fb9/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_026c3ec4-93bb-430e-a822-db6e98f94010",
+            "name": "Public Heatblast",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3f35b82b-6b40-4ca8-8edf-27d359baf7ad/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_beb1cbbb-0545-43e9-8182-8aadc2dcadc3",
+            "name": "Public Swampfire",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c3d3fa4e-ba15-482d-abc0-9b7910b4c1d9/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_c2cc5c0f-797f-42d9-9835-46fcde5bf386",
+            "name": "Public Rath",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_605b492f-cd59-46cf-8bae-61a9e24b11b5/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_9204abb6-3bbf-424e-b648-f706285448b8",
+            "name": "Public Waterhazard",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c06d38e4-c3da-4358-b0f0-20ac9f6efb6a/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_7f8adfff-82e1-4ca1-b43c-384b90482fa6",
+            "name": "Diamondhead",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_7717eb45-fe80-41d1-9dab-4f35bcb8abcb/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_bea16dad-1542-46fc-8829-44f65da16a02",
+            "name": "XLR8",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2451d75d-fe36-4d69-8c95-0315ae2911ff/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_91c07338-3a2a-4501-bda6-8b199914c2dd",
+            "name": "Public Spider-Monkey",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_15e8455c-808a-42fa-b759-8e4d8d734c84/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_8744819c-13a7-476c-a680-bff18c3222ba",
+            "name": "Public Young Ben",
+            "author": "public",
+            "image": "https://api.vrchat.cloud/api/1/image/file_94216428-3b0f-4507-a2fd-9218ccf62440/1/256",
+            "platforms": []
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-09-05T03:27:13.739Z",
+      "installId": "ins_71a866e7-8d0d-404f-a984-20ca4f1ccb22",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "preset-0825ff2f-98e3-4694-b688-c7db3016c1c0",
+      "type": "preset",
+      "name": "my chatbox preset use if u want",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "art": {
+          "on": false,
+          "id": "hub:art-4196690f-d067-44bb-9ec7-bab1c3210379",
+          "custom": "",
+          "library": {},
+          "cachedFor": "hub:art-4196690f-d067-44bb-9ec7-bab1c3210379",
+          "cached": "╭────────────╮\n⬜ ☁️ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ▦ ☁️\n⬜ ⬜ ☁️ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ⬜ 🛩️ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ☁️ ⬜ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ⬜ ⬜ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n╰────────────╯"
+        },
+        "games": {
+          "on": false,
+          "emoji": "🎮",
+          "game": "ttt",
+          "mode": "auto",
+          "speed": 2
+        },
+        "autoSend": true,
+        "groupsOpen": {
+          "vrchat": true,
+          "media": true,
+          "live": false,
+          "time": false,
+          "headset": true,
+          "you": true
+        },
+        "schedule": {
+          "on": false,
+          "rules": []
+        },
+        "sync": {
+          "on": false,
+          "rules": []
+        },
+        "order": [
+          "art",
+          "personal",
+          "media",
+          "lyrics",
+          "time",
+          "weather",
+          "instance",
+          "vrcparam",
+          "moon",
+          "date",
+          "uptime",
+          "alerts",
+          "activity",
+          "games",
+          "here",
+          "friends",
+          "invites",
+          "avatar",
+          "nexus",
+          "countdown",
+          "timer",
+          "battery",
+          "devuptime",
+          "refresh",
+          "worn",
+          "thermal",
+          "wifi",
+          "volume",
+          "ram",
+          "storage",
+          "template",
+          "nexushere",
+          "heartrate"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "arrows",
+        "customBorder": {
+          "left": "  ",
+          "right": " "
+        },
+        "customFrame": {
+          "top": "────୨ৎ────",
+          "bottom": "─────────"
+        },
+        "inline": {
+          "weather": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "local femboy :b\nHe/Him\nEpic The Musical is peak\nAnime Lover\nMusic Lover\nArtist\nlove drawing \nSingle",
+          "cycle": true,
+          "intervalSec": "30",
+          "text": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "RH",
+          "label": "bhop enabled"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "method": "notification",
+          "discordUserId": "",
+          "lastfmUser": "",
+          "showProgress": true,
+          "progressStyle": "both",
+          "bar": {
+            "length": 10,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "barAbove": false,
+          "hideAuthor": true,
+          "byFormat": true,
+          "smallDigits": "off"
+        },
+        "alerts": {
+          "on": false,
+          "emoji": "🔔",
+          "mode": "all",
+          "watch": [],
+          "unfriend": true,
+          "holdSec": 12
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💌",
+          "city": "London",
+          "fahrenheit": false,
+          "lat": 51.50853,
+          "lon": -0.12574,
+          "place": "London, England, GB",
+          "placeCity": "London",
+          "placeState": "England",
+          "placeCountry": "GB",
+          "placeMode": "full",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🦴",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "super"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋",
+          "showTemp": false,
+          "showChargeTime": false
+        },
+        "ram": {
+          "on": false,
+          "emoji": "🧠",
+          "mode": "usedtotal",
+          "label": true,
+          "smallDigits": "off"
+        },
+        "storage": {
+          "on": false,
+          "emoji": "💾",
+          "mode": "freetotal",
+          "label": true,
+          "smallDigits": "off"
+        },
+        "app": {
+          "on": false,
+          "emoji": "📱",
+          "label": true,
+          "skipSelf": true,
+          "diag": false
+        },
+        "friends": {
+          "on": false,
+          "emoji": "👥",
+          "label": true
+        },
+        "activity": {
+          "on": false,
+          "emoji": "📡",
+          "holdSec": 25,
+          "kinds": "all"
+        },
+        "invites": {
+          "on": false,
+          "emoji": "✉️",
+          "hideZero": true
+        },
+        "avatar": {
+          "on": false,
+          "emoji": "🧍",
+          "label": true
+        },
+        "here": {
+          "on": false,
+          "emoji": "📍",
+          "label": true
+        },
+        "nexus": {
+          "on": false,
+          "emoji": "💠",
+          "showRank": true,
+          "showHours": true,
+          "showCoins": true
+        },
+        "heartrate": {
+          "on": false,
+          "emoji": "❤️",
+          "source": "pulsoid",
+          "token": "",
+          "hrKey": "",
+          "hrId": "",
+          "style": "heart",
+          "label": false,
+          "staleSec": 8,
+          "zoneRest": 60,
+          "zoneHigh": 100
+        },
+        "nexushere": {
+          "on": false,
+          "emoji": "🟢",
+          "ownerOnly": false,
+          "style": "count",
+          "staleSec": 150,
+          "alertSec": 10
+        },
+        "template": {
+          "on": false,
+          "emoji": "📝",
+          "text": ""
+        },
+        "countdown": {
+          "on": false,
+          "emoji": "🎂",
+          "date": "",
+          "label": "",
+          "hideAfter": true
+        },
+        "timer": {
+          "on": false,
+          "emoji": "⏳",
+          "mode": "stopwatch",
+          "startedAt": 0,
+          "targetSec": 300,
+          "running": false
+        },
+        "moon": {
+          "on": false,
+          "emoji": "",
+          "showPhase": true,
+          "showSeason": true
+        },
+        "thermal": {
+          "on": false,
+          "emoji": "🌡️",
+          "onlyWhenWarm": true
+        },
+        "wifi": {
+          "on": false,
+          "emoji": "📶",
+          "mode": "bars"
+        },
+        "volume": {
+          "on": false,
+          "emoji": "🔊",
+          "mode": "percent",
+          "label": true
+        },
+        "refresh": {
+          "on": false,
+          "emoji": "🖥️"
+        },
+        "devuptime": {
+          "on": false,
+          "emoji": "🕶️",
+          "smallDigits": "off"
+        },
+        "worn": {
+          "on": false,
+          "emoji": "🙂"
+        },
+        "emojiOn": {
+          "personal": false,
+          "alerts": true,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true,
+          "ram": true,
+          "storage": true,
+          "app": true,
+          "friends": true,
+          "activity": true,
+          "invites": true,
+          "avatar": true,
+          "here": true,
+          "nexus": true,
+          "nexushere": true,
+          "heartrate": true,
+          "template": false,
+          "countdown": true,
+          "timer": true,
+          "moon": false,
+          "thermal": true,
+          "wifi": true,
+          "volume": true,
+          "refresh": true,
+          "devuptime": true,
+          "worn": true,
+          "mic": false,
+          "afk": false,
+          "movement": false
+        },
+        "headsetOpen": false
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-09-05T03:27:51.611Z",
+      "installId": "ins_71a866e7-8d0d-404f-a984-20ca4f1ccb22",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
+    },
+    {
+      "id": "sharepack-28d51c5f-7ab7-419c-89b2-98187f98a342",
+      "type": "sharepack",
+      "name": "Jjk chib",
+      "author": "Cheese",
+      "description": "",
+      "tags": [],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "jjk chib": [
+            "avtr_5c567694-b927-49ab-bd7a-8ffe17c52ad2",
+            "avtr_957cea6e-ca6e-4e88-928d-a82f0a49513a",
+            "avtr_9eb5b76c-9b02-4267-8c4d-a12821e11917",
+            "avtr_62b71009-a0ff-45f0-950c-3dc831625af2",
+            "avtr_542162ef-29c4-4b0d-a53c-17831beefaff",
+            "avtr_fbb845f7-e928-467c-b681-ad4d2e44141e",
+            "avtr_b1ef3543-7892-4ab1-9d49-cfa00a1b1957",
+            "avtr_749c5abb-83cc-453a-a333-ce78004c8029",
+            "avtr_e7024747-3944-4bdc-a36e-a7020098293c",
+            "avtr_56aba372-436f-415f-96de-08295b17add5",
+            "avtr_bc68b279-98b8-44cf-86dc-ec2abaf878df",
+            "avtr_b078cc36-a830-411d-b3f1-5b3fed0f6b9d",
+            "avtr_5af28ff1-554b-48bb-b78f-eb625ef505d5",
+            "avtr_9d020766-aa72-490b-b965-bb5c949a0da2",
+            "avtr_6d156955-9be1-4d72-98d0-d71dee7d0b4d",
+            "avtr_95d33d69-05bf-404f-8dd0-51d445b46079",
+            "avtr_7c86617c-d0d5-47ed-95b2-cfe049cbe096",
+            "avtr_b3311578-d0f4-4035-bd68-02a62360fa94",
+            "avtr_cb65f97a-c451-4c31-b010-936678c82984",
+            "avtr_afbe8b98-1c0a-46e6-940c-fabd50dc6274",
+            "avtr_73752531-1b09-46b9-bf9f-f5ff501068ce",
+            "avtr_980fb244-f5d0-468c-8973-98ec2777b60a",
+            "avtr_7268d70e-9e61-4606-a617-5ae9615cbae8",
+            "avtr_a23520b0-cfd9-4c75-9e65-b935dc3c03a2",
+            "avtr_0bf9e629-5ff6-4524-b8ca-b3e534d224a0",
+            "avtr_0623e39d-1dd3-4503-84d3-b86f98495849",
+            "avtr_0294f5d0-6f93-4b7d-a6bb-6112af934fb4",
+            "avtr_4a327d1f-e152-48c3-b62a-4928ec87bcbc",
+            "avtr_62193a82-f33e-4b28-8866-793c8b4f3845"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_5c567694-b927-49ab-bd7a-8ffe17c52ad2",
+            "name": "Sukuna （Kitchen）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_b74e0c2d-8506-4572-8b5c-d54f8027ae23/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_957cea6e-ca6e-4e88-928d-a82f0a49513a",
+            "name": "Higuruma Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_22b5be87-8dba-47dd-9e30-80913396f035/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_9eb5b76c-9b02-4267-8c4d-a12821e11917",
+            "name": "Sukuna （Megumi）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_83872f45-053b-49f9-9751-9bb7b10c706f/3/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_62b71009-a0ff-45f0-950c-3dc831625af2",
+            "name": "Sukuna （Shibuya）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bcc69b9b-9c9d-4f80-846b-547937f40b26/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_542162ef-29c4-4b0d-a53c-17831beefaff",
+            "name": "Inumaki Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_44511fdd-a63a-4ffb-bdb3-755cdec73584/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_fbb845f7-e928-467c-b681-ad4d2e44141e",
+            "name": "Maki （Post-Shibuya）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_bad0d3bd-bb85-4c1c-b1fb-692e6e35ce94/3/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_b1ef3543-7892-4ab1-9d49-cfa00a1b1957",
+            "name": "Gojo Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ebda6bbd-dbed-48e2-a83c-e7e704d1228b/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_749c5abb-83cc-453a-a333-ce78004c8029",
+            "name": "Naoya Zenin Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_8dab33d6-83e9-4c41-84a9-5df8e86cc7b5/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_e7024747-3944-4bdc-a36e-a7020098293c",
+            "name": "Ryu Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_761aef4e-8490-4090-9155-9fd7a35b5a58/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_56aba372-436f-415f-96de-08295b17add5",
+            "name": "Young Gojo Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c4ef278d-029a-4324-aedc-d6e6a18d622e/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_bc68b279-98b8-44cf-86dc-ec2abaf878df",
+            "name": "Shoko Ieiri Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_c9b45a6a-81bc-49fa-93bf-a7b7cd4c8b2e/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_b078cc36-a830-411d-b3f1-5b3fed0f6b9d",
+            "name": "Young Geto Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_3578b0e9-1d1f-44be-aaeb-dc2c5442d9a2/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_5af28ff1-554b-48bb-b78f-eb625ef505d5",
+            "name": "Megumi Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_991aa891-1884-4f6f-8b6b-d1af16424e59/4/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_9d020766-aa72-490b-b965-bb5c949a0da2",
+            "name": "Aoi Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_1e650bdb-ebaf-4b5b-b930-06457a03433a/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_6d156955-9be1-4d72-98d0-d71dee7d0b4d",
+            "name": "Itadori Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_a02dc627-b37b-4210-baa2-8f4d24f9a81e/4/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_95d33d69-05bf-404f-8dd0-51d445b46079",
+            "name": "Toji Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_4a5073db-3b4a-4dd9-8796-c08302e0ea19/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_7c86617c-d0d5-47ed-95b2-cfe049cbe096",
+            "name": "Choso Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_90a0faa3-920a-4600-a7fb-ae293e6dd2f2/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_b3311578-d0f4-4035-bd68-02a62360fa94",
+            "name": "Yuta Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_31cee027-8b15-4599-a7ba-c9fabe4c75d1/6/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_cb65f97a-c451-4c31-b010-936678c82984",
+            "name": "Hakari Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_2881bd95-c9aa-4237-aa31-b4dbf0699d65/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_afbe8b98-1c0a-46e6-940c-fabd50dc6274",
+            "name": "Toji （Shibuya）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_caa1f0ae-208a-439f-a193-3dece0abf2cb/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_73752531-1b09-46b9-bf9f-f5ff501068ce",
+            "name": "Nanami Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f4dfc34e-cd86-4f28-b46e-feb8c696b010/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_980fb244-f5d0-468c-8973-98ec2777b60a",
+            "name": "Sukuna Chibi （Heian Era）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_ae13644b-99bf-4a0d-80a2-3179e8c9ff5b/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_7268d70e-9e61-4606-a617-5ae9615cbae8",
+            "name": "Gojo （Sukuna Fight Outfit）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_adbee877-54de-4068-a9b2-920e013e7957/2/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_a23520b0-cfd9-4c75-9e65-b935dc3c03a2",
+            "name": "Sukuna （Bad Romance）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_50f6974d-588a-4404-af9f-a5defcc016af/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_0bf9e629-5ff6-4524-b8ca-b3e534d224a0",
+            "name": "Gojo （Sinisterbart）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_92744d92-5f74-4c50-9856-673c4b334833/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_0623e39d-1dd3-4503-84d3-b86f98495849",
+            "name": "Sukuna - Megumi （Sinisterbart）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_6ce00dc8-fd3b-40f1-89c8-bcbe12811aa0/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_0294f5d0-6f93-4b7d-a6bb-6112af934fb4",
+            "name": "Super Senior Gojo",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_f86cfe6e-1ea7-4def-9e81-c60a0ca92f87/3/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_4a327d1f-e152-48c3-b62a-4928ec87bcbc",
+            "name": "Mahoraga Chibi",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_570025d2-3907-48ad-96da-7481f04f2d99/1/256",
+            "platforms": []
+          },
+          {
+            "id": "avtr_62193a82-f33e-4b28-8866-793c8b4f3845",
+            "name": "Geto （Sinisterbart Style）",
+            "author": "OutdatedSpace",
+            "image": "https://api.vrchat.cloud/api/1/image/file_736b3a24-7f00-4070-8a3b-470f81888e9a/1/256",
+            "platforms": []
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-09-06T01:49:01.481Z",
+      "installId": "ins_1dc6ac1d-9ccb-44c1-a11e-761cde9f9999",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -24795,6 +25759,13 @@
     ],
     "ins_e3376df7-405b-440f-a77c-ae470c78ce52": [
       1786517811509
+    ],
+    "ins_71a866e7-8d0d-404f-a984-20ca4f1ccb22": [
+      1788578833810,
+      1788578871688
+    ],
+    "ins_1dc6ac1d-9ccb-44c1-a11e-761cde9f9999": [
+      1788659341740
     ]
   }
 }
