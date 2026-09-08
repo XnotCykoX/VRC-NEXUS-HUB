@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T03:37:34.956Z",
+  "updatedAt": "2026-09-08T00:10:03.339Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -5253,7 +5253,8 @@
         "ins_725231ee-04f7-4360-8122-4c9bf362bcbc",
         "ins_3d44c435-0832-431f-9832-5a2ff765d057",
         "ins_0fe26259-7bf1-4929-ac91-3020ed817c43",
-        "ins_214ec585-98a2-4c18-972b-3493bcf63d2f"
+        "ins_214ec585-98a2-4c18-972b-3493bcf63d2f",
+        "ins_d1e88150-98ae-4f6a-bdf6-8dd49fc447b3"
       ]
     },
     {
@@ -6273,7 +6274,8 @@
         "ins_7b4c3377-82e3-4f36-9d3e-90d619c19c8f",
         "ins_954f1d21-7ea1-4ef1-be68-9929ad8676f3",
         "ins_ad913b0b-6188-4884-af62-debe948e65ee",
-        "ins_0fe26259-7bf1-4929-ac91-3020ed817c43"
+        "ins_0fe26259-7bf1-4929-ac91-3020ed817c43",
+        "ins_0892b6c0-7896-4515-825d-f10c1f1b4f81"
       ]
     },
     {
@@ -25332,6 +25334,166 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": []
+    },
+    {
+      "id": "sharepack-8be83010-22b5-4c12-9b46-89609cd3c440",
+      "type": "sharepack",
+      "name": "007n7 !!",
+      "author": "Anonymous",
+      "description": "",
+      "tags": [
+        "Roblox"
+      ],
+      "platform": "quest",
+      "payload": {
+        "sections": {
+          "007n7\\": [
+            "avtr_ccd5dbfb-46ee-43ea-b10a-e7e6e2bfe15d",
+            "avtr_b18367b9-4b62-417f-a404-4263071abac6",
+            "avtr_3113434d-5f51-454a-b714-b99ae80a94dd",
+            "avtr_5b21f460-4f89-459d-bbb8-dcd1f21564e4",
+            "avtr_e6c4962b-7642-499a-ae25-84be4c17be1e",
+            "avtr_12d6eafb-507b-4699-9ab3-92d72ff43531",
+            "avtr_98cd2cbc-5bd6-4d04-8514-a6c4da23c386",
+            "avtr_8f8a03e3-01e1-4be9-b39b-3f8622110b4b",
+            "avtr_c886aa29-602e-42a2-9926-87eb418d330e",
+            "avtr_667a61a5-357c-4a30-8acc-1e6f159cabe8",
+            "avtr_ed0c5d7e-cfa9-4c45-9db8-cd5c463559fa",
+            "avtr_b79fdeae-c30d-43d6-a8f7-55f2b9d2d1ff"
+          ]
+        },
+        "avatars": [
+          {
+            "id": "avtr_ccd5dbfb-46ee-43ea-b10a-e7e6e2bfe15d",
+            "name": "jiggle my balls to niagara falls",
+            "author": "juicy ღ",
+            "image": "https://avtr.icu/proxy/file_67c31e89-806e-4407-8926-2ac675a000fd/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_b18367b9-4b62-417f-a404-4263071abac6",
+            "name": "007N7ǃǃǃ",
+            "author": "FemboyGyatSOS",
+            "image": "https://avtr.icu/proxy/file_78554257-1846-4d3f-a42b-e15a12a7a80d/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_3113434d-5f51-454a-b714-b99ae80a94dd",
+            "name": "007n7",
+            "author": "Rodstro",
+            "image": "https://avtr.icu/proxy/file_4b3f2404-93cf-4632-988c-f64ec738ce41/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_5b21f460-4f89-459d-bbb8-dcd1f21564e4",
+            "name": "007n7 v2",
+            "author": "HonkIGuessIdk",
+            "image": "https://avtr.icu/proxy/file_31241855-4ec5-4efd-b795-43f26e734431/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_e6c4962b-7642-499a-ae25-84be4c17be1e",
+            "name": "past 007n7",
+            "author": "ST4TKORE",
+            "image": "https://avtr.icu/proxy/file_461eba77-cfa7-4623-882f-137d75ee7cb8/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_12d6eafb-507b-4699-9ab3-92d72ff43531",
+            "name": "Tac Nyan 007n7",
+            "author": "୨୧ victim4",
+            "image": "https://avtr.icu/proxy/file_7e5fb4f6-8d42-4492-8508-ada9bb09fa19/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_98cd2cbc-5bd6-4d04-8514-a6c4da23c386",
+            "name": "Dad 007n7 ⁄⁄ WIP",
+            "author": "BrokenVideoTape",
+            "image": "https://avtr.icu/proxy/file_23f99cf9-f0d5-4ec1-920a-ae4ba57e721a/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_8f8a03e3-01e1-4be9-b39b-3f8622110b4b",
+            "name": "Past 007n7",
+            "author": "୨୧ victim4",
+            "image": "https://avtr.icu/proxy/file_b4c484d0-c14d-4bdf-a8cf-4aa836719296/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_c886aa29-602e-42a2-9926-87eb418d330e",
+            "name": "007n7 V2",
+            "author": "FemboyGyatSOS",
+            "image": "https://avtr.icu/proxy/file_9909e532-e463-43af-9aab-cabd5f3e18b6/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_667a61a5-357c-4a30-8acc-1e6f159cabe8",
+            "name": "007n7",
+            "author": "gяєуXD_VA",
+            "image": "https://avtr.icu/proxy/file_e63acf1b-cfe7-4b72-8cbb-052e9cb76c20/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_ed0c5d7e-cfa9-4c45-9db8-cd5c463559fa",
+            "name": "007n7",
+            "author": "FemboyGyatSOS",
+            "image": "https://avtr.icu/proxy/file_bbeb9ef2-4410-4ade-85da-b298662e9576/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          },
+          {
+            "id": "avtr_b79fdeae-c30d-43d6-a8f7-55f2b9d2d1ff",
+            "name": "Past 007n7",
+            "author": "Aquarii․MP4",
+            "image": "https://avtr.icu/proxy/file_4e8a8dc6-8096-470c-9026-9de1af1aef5d/1/256",
+            "platforms": [
+              "Quest",
+              "PC"
+            ]
+          }
+        ]
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-09-06T03:41:46.441Z",
+      "installId": "ins_41466b78-faac-4fca-a403-58fa0245bad9",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -25769,6 +25931,9 @@
     ],
     "ins_1dc6ac1d-9ccb-44c1-a11e-761cde9f9999": [
       1788659341740
+    ],
+    "ins_41466b78-faac-4fca-a403-58fa0245bad9": [
+      1788666106607
     ]
   }
 }
