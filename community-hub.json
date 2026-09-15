@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T01:27:17.845Z",
+  "updatedAt": "2026-09-15T02:16:50.629Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -18011,7 +18011,8 @@
       "installId": "ins_39499031-6a8a-48fa-a3d6-26bb6120c72b",
       "ownerUserId": "usr_b8a78f4d-cb01-42f2-948b-fa2a0b3f9e83",
       "likedBy": [
-        "ins_35686512-b702-456d-bf6d-7077b4ad1436"
+        "ins_35686512-b702-456d-bf6d-7077b4ad1436",
+        "ins_970c62b0-bba2-4647-b536-1415bd716b91"
       ]
     },
     {
