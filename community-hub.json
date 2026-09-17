@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T06:58:25.986Z",
+  "updatedAt": "2026-09-17T07:00:31.622Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -25516,6 +25516,380 @@
         "ins_a6e98519-19be-45e2-8de0-6df589d0c8e8",
         "ins_0ab128f7-b81b-42b5-8f99-d53170caf243"
       ]
+    },
+    {
+      "id": "preset-3ba444c6-c3aa-4e16-a6f1-eec098f417ab",
+      "type": "preset",
+      "name": "PIMP RYU",
+      "author": "Anonymous",
+      "description": "GUN ON MY HEAD",
+      "tags": [
+        "Pimp ryu in the hous"
+      ],
+      "platform": "quest",
+      "payload": {
+        "art": {
+          "on": false,
+          "id": "hub:art-4196690f-d067-44bb-9ec7-bab1c3210379",
+          "custom": "",
+          "library": {},
+          "cachedFor": "hub:art-4196690f-d067-44bb-9ec7-bab1c3210379",
+          "cached": "╭────────────╮\n⬜ ☁️ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ▦ ☁️\n⬜ ⬜ ☁️ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ⬜ 🛩️ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ☁️ ⬜ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n⬜ ⬜ ⬜ ⬜ ⬜ ▦ ⬜ ⬜ ▦ ⬜\n╰────────────╯"
+        },
+        "games": {
+          "on": false,
+          "emoji": "🎮",
+          "game": "ttt",
+          "mode": "auto",
+          "speed": 2
+        },
+        "autoSend": true,
+        "groupsOpen": {
+          "media": true,
+          "live": true,
+          "time": true,
+          "headset": true,
+          "vrchat": true,
+          "you": true
+        },
+        "schedule": {
+          "on": false,
+          "rules": []
+        },
+        "sync": {
+          "on": false,
+          "rules": [
+            {
+              "vrcUser": "",
+              "preset": "999",
+              "enabled": true
+            }
+          ]
+        },
+        "order": [
+          "art",
+          "personal",
+          "media",
+          "lyrics",
+          "time",
+          "weather",
+          "instance",
+          "vrcparam",
+          "moon",
+          "date",
+          "uptime",
+          "alerts",
+          "activity",
+          "games",
+          "here",
+          "friends",
+          "invites",
+          "avatar",
+          "nexus",
+          "countdown",
+          "timer",
+          "battery",
+          "devuptime",
+          "refresh",
+          "worn",
+          "thermal",
+          "wifi",
+          "volume",
+          "ram",
+          "storage",
+          "template",
+          "nexushere",
+          "heartrate"
+        ],
+        "eggMode": true,
+        "separator": "newline",
+        "frame": "custom",
+        "border": "arrows",
+        "customBorder": {
+          "left": "  ",
+          "right": " "
+        },
+        "customFrame": {
+          "top": "────୨ৎ────",
+          "bottom": "─────────"
+        },
+        "inline": {
+          "weather": false
+        },
+        "personal": {
+          "on": true,
+          "emoji": "💬",
+          "statuses": "Known as The Pimpinest Playa in a Pompadour\nor\nRound the way Ryu,\nIt's always a treat when two players meet\nPimp pimp hooray!\nGUN ON MY HEAD\nSPIT A BIRDMAN VERSE!",
+          "cycle": true,
+          "intervalSec": "5",
+          "text": ""
+        },
+        "vrcparam": {
+          "on": false,
+          "emoji": "",
+          "name": "RH",
+          "label": "bhop enabled"
+        },
+        "media": {
+          "on": true,
+          "emoji": "🎵",
+          "method": "notification",
+          "discordUserId": "",
+          "lastfmUser": "",
+          "showProgress": true,
+          "progressStyle": "text",
+          "bar": {
+            "length": 10,
+            "fill": "━",
+            "empty": "─",
+            "head": "●"
+          },
+          "barNewline": false,
+          "barAbove": false,
+          "hideAuthor": false,
+          "firstArtist": false,
+          "byFormat": true,
+          "smallDigits": "off"
+        },
+        "alerts": {
+          "on": false,
+          "emoji": "🔔",
+          "mode": "all",
+          "watch": [],
+          "unfriend": true,
+          "holdSec": 12
+        },
+        "lyrics": {
+          "on": true,
+          "emoji": "🎤"
+        },
+        "weather": {
+          "on": false,
+          "emoji": "💌",
+          "city": "London",
+          "fahrenheit": false,
+          "lat": 51.50853,
+          "lon": -0.12574,
+          "place": "London, England, GB",
+          "placeCity": "London",
+          "placeState": "England",
+          "placeCountry": "GB",
+          "placeMode": "full",
+          "showLocation": false,
+          "showCondition": true,
+          "showHigh": false,
+          "showLow": false
+        },
+        "instance": {
+          "on": false,
+          "emoji": "🌐",
+          "showName": true,
+          "showCount": true,
+          "showType": false,
+          "showRegion": false,
+          "show18": false
+        },
+        "time": {
+          "on": true,
+          "emoji": "🦴",
+          "h24": true,
+          "seconds": false,
+          "hidePrefix": false,
+          "smallDigits": "super"
+        },
+        "date": {
+          "on": false,
+          "emoji": "📅"
+        },
+        "uptime": {
+          "on": false,
+          "emoji": "",
+          "smallDigits": "off"
+        },
+        "battery": {
+          "on": true,
+          "emoji": "🔋",
+          "showTemp": false,
+          "showChargeTime": false
+        },
+        "ram": {
+          "on": false,
+          "emoji": "🧠",
+          "mode": "usedtotal",
+          "label": true,
+          "smallDigits": "off"
+        },
+        "storage": {
+          "on": false,
+          "emoji": "💾",
+          "mode": "freetotal",
+          "label": true,
+          "smallDigits": "off"
+        },
+        "app": {
+          "on": false,
+          "emoji": "📱",
+          "label": true,
+          "skipSelf": true,
+          "diag": false
+        },
+        "friends": {
+          "on": false,
+          "emoji": "👥",
+          "label": true
+        },
+        "activity": {
+          "on": false,
+          "emoji": "📡",
+          "holdSec": 25,
+          "kinds": "all"
+        },
+        "invites": {
+          "on": false,
+          "emoji": "✉️",
+          "hideZero": true
+        },
+        "avatar": {
+          "on": false,
+          "emoji": "🧍",
+          "label": true
+        },
+        "here": {
+          "on": false,
+          "emoji": "📍",
+          "label": true
+        },
+        "nexus": {
+          "on": false,
+          "emoji": "💠",
+          "showRank": true,
+          "showHours": true,
+          "showCoins": true
+        },
+        "heartrate": {
+          "on": false,
+          "emoji": "❤️",
+          "source": "pulsoid",
+          "token": "",
+          "hrKey": "",
+          "hrId": "",
+          "style": "heart",
+          "label": false,
+          "staleSec": 8,
+          "zoneRest": 60,
+          "zoneHigh": 100
+        },
+        "nexushere": {
+          "on": false,
+          "emoji": "🟢",
+          "ownerOnly": false,
+          "style": "count",
+          "staleSec": 150,
+          "alertSec": 10
+        },
+        "template": {
+          "on": false,
+          "emoji": "📝",
+          "text": ""
+        },
+        "countdown": {
+          "on": false,
+          "emoji": "🎂",
+          "date": "",
+          "label": "",
+          "hideAfter": true
+        },
+        "timer": {
+          "on": false,
+          "emoji": "⏳",
+          "mode": "stopwatch",
+          "startedAt": 0,
+          "targetSec": 300,
+          "running": false
+        },
+        "moon": {
+          "on": false,
+          "emoji": "",
+          "showPhase": true,
+          "showSeason": true
+        },
+        "thermal": {
+          "on": false,
+          "emoji": "🌡️",
+          "onlyWhenWarm": true
+        },
+        "wifi": {
+          "on": false,
+          "emoji": "📶",
+          "mode": "bars"
+        },
+        "volume": {
+          "on": false,
+          "emoji": "🔊",
+          "mode": "percent",
+          "label": true
+        },
+        "refresh": {
+          "on": false,
+          "emoji": "🖥️"
+        },
+        "devuptime": {
+          "on": false,
+          "emoji": "🕶️",
+          "smallDigits": "off"
+        },
+        "worn": {
+          "on": false,
+          "emoji": "🙂"
+        },
+        "emojiOn": {
+          "personal": false,
+          "alerts": true,
+          "vrcparam": false,
+          "media": true,
+          "lyrics": false,
+          "weather": false,
+          "instance": true,
+          "time": true,
+          "date": true,
+          "uptime": true,
+          "battery": true,
+          "ram": true,
+          "storage": true,
+          "app": true,
+          "friends": true,
+          "activity": true,
+          "invites": true,
+          "avatar": true,
+          "here": true,
+          "nexus": true,
+          "nexushere": true,
+          "heartrate": true,
+          "template": false,
+          "countdown": true,
+          "timer": true,
+          "moon": false,
+          "thermal": true,
+          "wifi": true,
+          "volume": true,
+          "refresh": true,
+          "devuptime": true,
+          "worn": true,
+          "mic": false,
+          "afk": false,
+          "movement": false
+        },
+        "headsetOpen": false
+      },
+      "tabOverrides": null,
+      "minTier": 0,
+      "media": null,
+      "data": null,
+      "publishedAt": "2026-09-17T07:00:31.622Z",
+      "installId": "ins_e53aa49a-431c-4713-b035-d28da57e0af8",
+      "ownerUserId": null,
+      "status": "approved",
+      "likedBy": []
     }
   ],
   "publishLog": {
@@ -25956,6 +26330,9 @@
     ],
     "ins_41466b78-faac-4fca-a403-58fa0245bad9": [
       1788666106607
+    ],
+    "ins_e53aa49a-431c-4713-b035-d28da57e0af8": [
+      1789628432070
     ]
   }
 }
