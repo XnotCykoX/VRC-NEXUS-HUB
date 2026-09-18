@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T00:08:14.365Z",
+  "updatedAt": "2026-09-18T00:08:18.333Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -25091,7 +25091,9 @@
       "installId": "ins_71a866e7-8d0d-404f-a984-20ca4f1ccb22",
       "ownerUserId": null,
       "status": "approved",
-      "likedBy": []
+      "likedBy": [
+        "ins_73f6f3ed-af93-4883-ac54-b9ccd716edbc"
+      ]
     },
     {
       "id": "sharepack-28d51c5f-7ab7-419c-89b2-98187f98a342",
