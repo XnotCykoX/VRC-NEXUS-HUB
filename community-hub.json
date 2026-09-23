@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-23T02:47:21.033Z",
+  "updatedAt": "2026-09-23T03:10:25.318Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -23997,8 +23997,7 @@
       "status": "approved",
       "likedBy": [
         "ins_607bace4-2120-451a-82c4-1230868ddd68",
-        "ins_2b29f3b5-5572-46c5-b883-3cd809c552ef",
-        "ins_e57e9f5c-02fd-4c93-b4c5-b98353075ffe"
+        "ins_2b29f3b5-5572-46c5-b883-3cd809c552ef"
       ]
     },
     {
@@ -25094,7 +25093,8 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": [
-        "ins_73f6f3ed-af93-4883-ac54-b9ccd716edbc"
+        "ins_73f6f3ed-af93-4883-ac54-b9ccd716edbc",
+        "ins_d392f81b-1644-43e9-8d4e-a4de6a07a02f"
       ]
     },
     {
