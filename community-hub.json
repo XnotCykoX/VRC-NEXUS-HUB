@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-23T03:10:25.318Z",
+  "updatedAt": "2026-09-23T03:10:26.874Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -25093,8 +25093,7 @@
       "ownerUserId": null,
       "status": "approved",
       "likedBy": [
-        "ins_73f6f3ed-af93-4883-ac54-b9ccd716edbc",
-        "ins_d392f81b-1644-43e9-8d4e-a4de6a07a02f"
+        "ins_73f6f3ed-af93-4883-ac54-b9ccd716edbc"
       ]
     },
     {
