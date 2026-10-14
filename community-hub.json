@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T19:33:50.436Z",
+  "updatedAt": "2026-10-14T19:33:57.916Z",
   "items": [
     {
       "id": "script-4d3c7dd0-22cd-4372-a79c-56e2caa10f87",
@@ -24010,8 +24010,7 @@
       "status": "approved",
       "likedBy": [
         "ins_607bace4-2120-451a-82c4-1230868ddd68",
-        "ins_2b29f3b5-5572-46c5-b883-3cd809c552ef",
-        "ins_4f034463-0e16-4ac8-8a61-3a05840c0daf"
+        "ins_2b29f3b5-5572-46c5-b883-3cd809c552ef"
       ]
     },
     {
